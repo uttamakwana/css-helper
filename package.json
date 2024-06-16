@@ -1,7 +1,7 @@
 {
   "name": "css-helper",
   "version": "1.0.0",
-  "description": "CSS Helper is a powerful utility package designed to streamline the creation of visually appealing and responsive web application. With a focus on modern UI/UX principles, CSS Helper provides a comprehensive set of CSS utilities to enhance your web development workflow. ",
+  "description": "CSS Helper is a powerful utility package designed to streamline the creation of visually appealing and responsive web application. With a focus on modern UI/UX principles, CSS Helper provides a comprehensive set of CSS utilities to enhance your web development workflow.",
   "main": "css/utils.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,10 @@
     "utility",
     "utilities-css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttamakwana/css-helper.git"
+  },
   "author": "Uttam Makwana",
   "license": "MIT"
 }
