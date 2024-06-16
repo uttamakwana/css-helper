@@ -20,13 +20,19 @@ yarn add css-helper
 
 To use CSS Helper in your project, include the CSS file in your HTML or import it into your CSS/SCSS files.
 
+Add below link tag
+
+```bash
+<link rel="stylesheet" href="node_modules/css-helper/css/index.css" />
+```
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="node_modules/css-helper/dist/css-helper.css" />
+    <link rel="stylesheet" href="node_modules/css-helper/css/index.css" />
     <title>CSS Helper Example</title>
   </head>
   <body>
