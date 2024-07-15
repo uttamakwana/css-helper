@@ -1,0 +1,76 @@
+:root {
+  --top-0: var(--size-0);
+  --top-1: var(--size-1);
+  --top-2: var(--size-2);
+  --top-3: var(--size-3);
+  --top-4: var(--size-4);
+  --top-8: var(--size-8);
+  --top-10: var(--size-10);
+  --top-16: var(--size-16);
+  --top-20: var(--size-20);
+  --top-32: var(--size-32);
+  --top-48: var(--size-48);
+  --top-64: var(--size-64);
+  --top-80: var(--size-80);
+  --top-96: var(--size-96);
+
+  --right-0: var(--size-0);
+  --right-1: var(--size-1);
+  --right-2: var(--size-2);
+  --right-3: var(--size-3);
+  --right-4: var(--size-4);
+  --right-8: var(--size-8);
+  --right-10: var(--size-10);
+  --right-16: var(--size-16);
+  --right-20: var(--size-20);
+  --right-32: var(--size-32);
+  --right-48: var(--size-48);
+  --right-64: var(--size-64);
+  --right-80: var(--size-80);
+  --right-96: var(--size-96);
+
+  --bottom-0: var(--size-0);
+  --bottom-1: var(--size-1);
+  --bottom-2: var(--size-2);
+  --bottom-3: var(--size-3);
+  --bottom-4: var(--size-4);
+  --bottom-8: var(--size-8);
+  --bottom-10: var(--size-10);
+  --bottom-16: var(--size-16);
+  --bottom-20: var(--size-20);
+  --bottom-32: var(--size-32);
+  --bottom-48: var(--size-48);
+  --bottom-64: var(--size-64);
+  --bottom-80: var(--size-80);
+  --bottom-96: var(--size-96);
+
+  --left-0: var(--size-0);
+  --left-1: var(--size-1);
+  --left-2: var(--size-2);
+  --left-3: var(--size-3);
+  --left-4: var(--size-4);
+  --left-8: var(--size-8);
+  --left-10: var(--size-10);
+  --left-16: var(--size-16);
+  --left-20: var(--size-20);
+  --left-32: var(--size-32);
+  --left-48: var(--size-48);
+  --left-64: var(--size-64);
+  --left-80: var(--size-80);
+  --left-96: var(--size-96);
+
+  --inset-0: var(--size-0);
+  --inset-1: var(--size-1);
+  --inset-2: var(--size-2);
+  --inset-3: var(--size-3);
+  --inset-4: var(--size-4);
+  --inset-8: var(--size-8);
+  --inset-10: var(--size-10);
+  --inset-16: var(--size-16);
+  --inset-20: var(--size-20);
+  --inset-32: var(--size-32);
+  --inset-48: var(--size-48);
+  --inset-64: var(--size-64);
+  --inset-80: var(--size-80);
+  --inset-96: var(--size-96);
+}

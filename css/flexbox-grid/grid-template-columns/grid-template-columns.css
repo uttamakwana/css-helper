@@ -1,0 +1,162 @@
+/* GRID TEMPLATE COLUMNS | css/flexbox-grid/grid-template-columns/grid-template-columns.css */
+
+.grid-template-columns-1,
+.gtc-1,
+.grid-cols-1,
+.grid-1-column,
+.grid-one-column,
+.one-column {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-template-columns-2,
+.gtc-2,
+.grid-cols-2,
+.grid-2-column,
+.grid-two-column,
+.two-column {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-template-columns-3,
+.gtc-3,
+.grid-cols-3,
+.grid-3-column,
+.grid-three-column,
+.three-column {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-template-columns-4,
+.gtc-4,
+.grid-cols-4,
+.grid-4-column,
+.grid-four-column,
+.four-column {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-template-columns-5,
+.gtc-5,
+.grid-cols-5,
+.grid-5-column,
+.grid-five-column,
+.five-column {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.grid-template-columns-6,
+.gtc-6,
+.grid-cols-6,
+.grid-6-column,
+.grid-six-column,
+.six-column {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.grid-template-columns-7,
+.gtc-7,
+.grid-cols-7,
+.grid-7-column,
+.grid-seven-column,
+.seven-column {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.grid-template-columns-8,
+.gtc-8,
+.grid-cols-8,
+.grid-8-column,
+.grid-eight-column,
+.eight-column {
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+}
+
+.grid-template-columns-9,
+.gtc-9,
+.grid-cols-9,
+.grid-9-column,
+.grid-nine-column,
+.nine-column {
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+
+.grid-template-columns-10,
+.gtc-10,
+.grid-cols-10,
+.grid-10-column,
+.grid-ten-column,
+.ten-column {
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+}
+
+.grid-template-columns-11,
+.gtc-11,
+.grid-cols-11,
+.grid-11-column,
+.grid-eleven-column,
+.eleven-column {
+  grid-template-columns: repeat(11, minmax(0, 1fr));
+}
+
+.grid-template-columns-12,
+.gtc-12,
+.grid-cols-12,
+.grid-12-column,
+.grid-twelve-column,
+.twelve-column {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+.grid-template-columns-none,
+.gtc-none,
+.grid-cols-none,
+.grid-none-column,
+.none-column {
+  grid-template-columns: none;
+}
+
+.grid-template-columns-subgrid,
+.gtc-subgrid,
+.grid-cols-subgrid,
+.grid-subgrid-column,
+.subgrid-column {
+  grid-template-columns: subgrid;
+}
+
+.responsive-grid-columns,
+.responsive-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+}
+
+.grid-template-columns-initial,
+.gtc-initial,
+.grid-cols-initial,
+.grid-initial-column,
+.initial-column {
+  grid-template-columns: initial;
+}
+
+.grid-template-columns-inherit,
+.gtc-inherit,
+.grid-cols-inherit,
+.grid-inherit-column,
+.inherit-column {
+  grid-template-columns: inherit;
+}
+
+.grid-template-columns-unset,
+.gtc-unset,
+.grid-cols-unset,
+.grid-unset-column,
+.unset-column {
+  grid-template-columns: unset;
+}
+
+.grid-template-columns-auto,
+.gtc-auto,
+.grid-cols-auto,
+.grid-auto-column,
+.auto-column {
+  grid-template-columns: auto;
+}

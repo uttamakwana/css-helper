@@ -1,0 +1,41 @@
+/* POSITION | css/layout/position/position.css */
+
+.position-static,
+.static {
+  position: static;
+}
+
+.position-fixed,
+.fixed {
+  position: fixed;
+}
+
+.position-absolute,
+.absolute {
+  position: absolute;
+}
+
+.position-relative,
+.relative {
+  position: relative;
+}
+
+.position-sticky,
+.sticky {
+  position: sticky;
+}
+
+.position-initial,
+.initial {
+  position: initial;
+}
+
+.position-inherit,
+.inherit {
+  position: inherit;
+}
+
+.position-unset,
+.unset {
+  position: unset;
+}

@@ -1,0 +1,56 @@
+/* ALIGN SELF | css/flexbox-grid/align-self/align-self.css */
+
+.align-self-auto,
+.as-auto {
+  align-self: auto;
+}
+
+.align-self-flex-start,
+.as-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-start,
+.as-start {
+  align-self: start;
+}
+
+.align-self-flex-end,
+.as-flex-end {
+  align-self: flex-end;
+}
+
+.align-self-end,
+.as-end {
+  align-self: end;
+}
+
+.align-self-center,
+.as-center {
+  align-self: center;
+}
+
+.align-self-stretch,
+.as-stretch {
+  align-self: stretch;
+}
+
+.align-self-baseline,
+.as-baseline {
+  align-self: baseline;
+}
+
+.align-self-initial,
+.as-initial {
+  align-self: initial;
+}
+
+.align-self-inherit,
+.as-inherit {
+  align-self: inherit;
+}
+
+.align-self-unset,
+.as-unset {
+  align-self: unset;
+}

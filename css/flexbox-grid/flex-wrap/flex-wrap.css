@@ -1,0 +1,34 @@
+/* FLEX WRAP | css/flexbox-grid/flex-wrap/flex-wrap.css */
+
+.flex-wrap-wrap,
+.flex-wrap,
+.fw-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap-nowrap,
+.flex-nowrap,
+.fw-nowrap {
+  flex-wrap: nowrap;
+}
+
+.flex-wrap-wrap-reverse,
+.flex-wrap-reverse,
+.fw-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.flex-wrap-initial,
+.fw-initial {
+  flex-wrap: initial;
+}
+
+.flex-wrap-inherit,
+.fw-inherit {
+  flex-wrap: inherit;
+}
+
+.flex-wrap-unset,
+.fw-unset {
+  flex-wrap: unset;
+}

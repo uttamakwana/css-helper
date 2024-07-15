@@ -1,0 +1,45 @@
+/* CONTAINER | css/layout/container/container.css */
+
+.container {
+  width: 100%;
+}
+
+.xs-container {
+  width: 100%;
+  max-width: var(--xs-container);
+}
+
+.sm-container {
+  width: 100%;
+  max-width: var(--sm-container);
+}
+
+.rg-container {
+  width: 100%;
+  max-width: var(--rg-container);
+}
+
+.md-container {
+  width: 100%;
+  max-width: var(--md-container);
+}
+
+.lg-container {
+  width: 100%;
+  max-width: var(--lg-container);
+}
+
+.xl-container {
+  width: 100%;
+  max-width: var(--xl-container);
+}
+
+.xxl-container {
+  width: 100%;
+  max-width: var(--xxl-container);
+}
+
+.xxxl-container {
+  width: 100%;
+  max-width: var(--xxxl-container);
+}

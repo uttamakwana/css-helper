@@ -1,0 +1,33 @@
+/* VISIBILITY |  css/layout/visibility/visibility.css */
+
+.visibility-visible,
+.v-visible,
+.visible {
+  visibility: visible;
+}
+
+.visibility-hidden,
+.v-hidden,
+.hidden {
+  visibility: hidden;
+}
+
+.visibility-collapse,
+.v-collapse {
+  visibility: collapse;
+}
+
+.visibility-initial,
+.v-initial {
+  visibility: initial;
+}
+
+.visibility-inherit,
+.v-inherit {
+  visibility: inherit;
+}
+
+.visibility-unset,
+.v-unset {
+  visibility: unset;
+}

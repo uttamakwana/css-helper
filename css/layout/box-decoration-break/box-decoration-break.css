@@ -1,0 +1,26 @@
+/* BOX DECORATION BREAK | css/layout/box-decoration-break/box-decoration-break.css */
+
+.box-decoration-break-clone,
+.bdb-clone {
+  box-decoration-break: clone;
+}
+
+.box-decoration-break-slice,
+.bdb-slice {
+  box-decoration-break: slice;
+}
+
+.box-decoration-break-initial,
+.bdb-initial {
+  box-decoration-break: initial;
+}
+
+.box-decoration-break-inherit,
+.bdb-inherit {
+  box-decoration-break: inherit;
+}
+
+.box-decoration-break-unset,
+.bdb-unset {
+  box-decoration-break: unset;
+}

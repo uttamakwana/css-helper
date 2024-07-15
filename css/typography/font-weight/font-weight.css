@@ -1,0 +1,81 @@
+/* FONT WEIGHT | css/typography/font-weight/font-weight.css */
+
+.font-weight-thin,
+.fw-thin,
+.font-weight-100,
+.fw-100 {
+  font-weight: 100;
+}
+
+.font-weight-extralight,
+.fw-extralight,
+.font-weight-200,
+.fw-200 {
+  font-weight: 200;
+}
+
+.font-weight-light,
+.fw-light,
+.font-weight-300,
+.fw-300 {
+  font-weight: 300;
+}
+
+.font-weight-normal,
+.fw-normal,
+.font-weight-regular,
+.fw-regular,
+.font-weight-400,
+.fw-400 {
+  font-weight: 400;
+}
+
+.font-weight-medium,
+.fw-medium,
+.font-weight-500,
+.fw-500 {
+  font-weight: 500;
+}
+
+.font-weight-semibold,
+.fw-semibold,
+.font-weight-600,
+.fw-600 {
+  font-weight: 600;
+}
+
+.font-weight-bold,
+.fw-bold,
+.font-weight-700,
+.fw-700 {
+  font-weight: 700;
+}
+
+.font-weight-extrabold,
+.fw-extrabold,
+.font-weight-800,
+.fw-800 {
+  font-weight: 800;
+}
+
+.font-weight-black,
+.fw-black,
+.font-weight-900,
+.fw-900 {
+  font-weight: 900;
+}
+
+.font-weight-initial,
+.fw-initial {
+  font-weight: initial;
+}
+
+.font-weight-inherit,
+.fw-inherit {
+  font-weight: inherit;
+}
+
+.font-weight-unset,
+.fw-unset {
+  font-weight: unset;
+}

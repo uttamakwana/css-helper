@@ -1,0 +1,51 @@
+/* JUSTIFY SELF | css/flexbox-grid/justify-self/justify-self.css */
+
+.justify-self-auto,
+.js-auto {
+  justify-self: auto;
+}
+
+.justify-self-start,
+.js-start {
+  justify-self: start;
+}
+
+.justify-self-flex-start,
+.js-flex-start {
+  justify-self: flex-start;
+}
+
+.justify-self-flex-end,
+.js-flex-end {
+  justify-self: flex-end;
+}
+
+.justify-self-end,
+.js-end {
+  justify-self: end;
+}
+
+.justify-self-center,
+.js-center {
+  justify-self: center;
+}
+
+.justify-self-stretch,
+.js-stretch {
+  justify-self: stretch;
+}
+
+.justify-self-initial,
+.js-initial {
+  justify-self: initial;
+}
+
+.justify-self-inherit,
+.js-inherit {
+  justify-self: inherit;
+}
+
+.justify-self-unset,
+.js-unset {
+  justify-self: unset;
+}

@@ -1,0 +1,37 @@
+/* FONT FAMILY / css/typography/font-family/font-family.css */
+
+.font-family-serif,
+.ff-serif {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.font-family-sans,
+.font-family-sans-serif,
+.ff-sans,
+.ff-sans-serif {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.font-family-mono,
+.font-family-monospace,
+.ff-mono,
+.ff-monospace {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+}
+
+.font-family-initial,
+.ff-initial {
+  font-family: initial;
+}
+
+.font-family-inherit,
+.ff-inherit {
+  font-family: inherit;
+}
+
+.font-family-unset,
+.ff-unset {
+  font-family: unset;
+}

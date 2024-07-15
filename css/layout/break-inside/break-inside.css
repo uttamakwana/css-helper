@@ -1,0 +1,21 @@
+/* BREAK INSIDE | css/layout/break-inside/break-inside.css */
+
+.break-inside-auto,
+.bi-auto {
+  break-inside: auto;
+}
+
+.break-inside-avoid,
+.bi-avoid {
+  break-inside: avoid;
+}
+
+.break-inside-avoid-page,
+.bi-avoid-page {
+  break-inside: avoid-page;
+}
+
+.break-inside-avoid-column,
+.bi-avoid-column {
+  break-inside: avoid-column;
+}

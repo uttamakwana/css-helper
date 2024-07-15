@@ -1,0 +1,41 @@
+/* FLOAT | css/layout/float/float.css */
+
+.float-inline-start,
+.f-inline-start {
+  float: inline-start;
+}
+
+.float-inline-end,
+.f-inline-end {
+  float: inline-end;
+}
+
+.float-right,
+.f-right {
+  float: right;
+}
+
+.float-left,
+.f-left {
+  float: left;
+}
+
+.float-none,
+.f-none {
+  float: none;
+}
+
+.float-initial,
+.f-initial {
+  float: initial;
+}
+
+.float-inherit,
+.f-inherit {
+  float: inherit;
+}
+
+.float-unset,
+.f-unset {
+  float: unset;
+}

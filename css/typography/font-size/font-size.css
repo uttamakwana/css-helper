@@ -1,0 +1,240 @@
+/* FONT SIZE | css/typography/font-size/font-size.css */
+
+.font-size-0,
+.fs-0 {
+  font-size: var(--size-0);
+}
+
+.font-size-1,
+.fs-1 {
+  font-size: var(--size-1);
+}
+
+.font-size-2,
+.fs-2 {
+  font-size: var(--size-2);
+}
+
+.font-size-4,
+.fs-4 {
+  font-size: var(--size-4);
+}
+
+.font-size-8,
+.fs-8 {
+  font-size: var(--size-8);
+}
+
+.font-size-10,
+.fs-10 {
+  font-size: var(--size-10);
+}
+
+.font-size-16,
+.fs-16 {
+  font-size: var(--size-16);
+}
+
+.font-size-20,
+.fs-20 {
+  font-size: var(--size-20);
+}
+
+.font-size-32,
+.fs-32 {
+  font-size: var(--size-32);
+}
+
+.font-size-48,
+.fs-48 {
+  font-size: var(--size-48);
+}
+
+.font-size-64,
+.fs-64 {
+  font-size: var(--size-64);
+}
+
+.font-size-80,
+.fs-80 {
+  font-size: var(--size-80);
+}
+
+.font-size-96,
+.fs-96 {
+  font-size: var(--size-96);
+}
+
+.font-size-initial,
+.fs-initial {
+  font-size: initial;
+}
+
+.font-size-inherit,
+.fs-inherit {
+  font-size: inherit;
+}
+
+.font-size-unset,
+.fs-unset {
+  font-size: unset;
+}
+
+.font-size-xs,
+.fs-xs {
+  font-size: 0.75rem;
+}
+
+.font-size-sm,
+.fs-sm {
+  font-size: 0.875rem;
+}
+
+.font-size-base,
+.font-size-regular,
+.fs-base,
+.fs-rg {
+  font-size: 1rem;
+}
+
+.font-size-md,
+.fs-md {
+  font-size: 1.125rem;
+}
+
+.font-size-lg,
+.fs-lg {
+  font-size: 1.25rem;
+}
+
+.font-size-xl,
+.fs-xl {
+  font-size: 1.5rem;
+}
+
+.font-size-2xl,
+.fs-2xl {
+  font-size: 1.875rem;
+}
+
+.font-size-3xl,
+.fs-3xl {
+  font-size: 2.25rem;
+}
+
+.font-size-4xl,
+.fs-4xl {
+  font-size: 3rem;
+}
+
+.font-size-5xl,
+.fs-5xl {
+  font-size: 3.75rem;
+}
+
+.font-size-6xl,
+.fs-6xl {
+  font-size: 4.5rem;
+}
+
+.font-size-7xl,
+.fs-7xl {
+  font-size: 6rem;
+}
+
+.font-size-8xl,
+.fs-8xl {
+  font-size: 7rem;
+}
+
+.font-size-9xl,
+.fs-9xl {
+  font-size: 8rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-base,
+.text-regular,
+.fs-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.text-md {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-lg {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-2xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-3xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-4xl {
+  font-size: 3rem;
+  line-height: 1rem;
+}
+
+.text-5xl {
+  font-size: 3.75rem;
+  line-height: 1rem;
+}
+
+.text-6xl {
+  font-size: 4.5rem;
+  line-height: 1rem;
+}
+
+.text-7xl {
+  font-size: 6rem;
+  line-height: 1rem;
+}
+
+.text-8xl {
+  font-size: 7rem;
+  line-height: 1rem;
+}
+
+.text-9xl {
+  font-size: 8rem;
+  line-height: 1rem;
+}
+
+.text-initial {
+  font-size: initial;
+  line-height: initial;
+}
+
+.text-inherit {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.text-unset {
+  font-size: unset;
+  line-height: unset;
+}

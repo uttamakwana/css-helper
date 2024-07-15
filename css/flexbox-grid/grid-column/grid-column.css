@@ -1,0 +1,307 @@
+/* GRID COLUMN | css/flexbox-grid/grid-column/grid-column.css */
+
+.grid-column-auto,
+.gc-auto,
+.col-auto {
+  grid-column: auto;
+}
+
+.grid-column-span-1,
+.gc-span-1,
+.col-span-1 {
+  grid-column: span 1 / span 1;
+}
+
+.grid-column-span-2,
+.gc-span-2,
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+
+.grid-column-span-3,
+.gc-span-3,
+.col-span-3 {
+  grid-column: span 3 / span 3;
+}
+
+.grid-column-span-4,
+.gc-span-4,
+.col-span-4 {
+  grid-column: span 4 / span 4;
+}
+
+.grid-column-span-5,
+.gc-span-5,
+.col-span-5 {
+  grid-column: span 5 / span 5;
+}
+
+.grid-column-span-6,
+.gc-span-6,
+.col-span-6 {
+  grid-column: span 6 / span 6;
+}
+
+.grid-column-span-7,
+.gc-span-7,
+.col-span-7 {
+  grid-column: span 7 / span 7;
+}
+
+.grid-column-span-8,
+.gc-span-8,
+.col-span-8 {
+  grid-column: span 8 / span 8;
+}
+
+.grid-column-span-9,
+.gc-span-9,
+.col-span-9 {
+  grid-column: span 9 / span 9;
+}
+
+.grid-column-span-10,
+.gc-span-10,
+.col-span-10 {
+  grid-column: span 10 / span 10;
+}
+
+.grid-column-span-11,
+.gc-span-11,
+.col-span-11 {
+  grid-column: span 11 / span 11;
+}
+
+.grid-column-span-12,
+.gc-span-12,
+.col-span-12 {
+  grid-column: span 12 / span 12;
+}
+
+.grid-column-span-initial,
+.gc-span-initial,
+.col-span-initial {
+  grid-column: initial;
+}
+
+.grid-column-span-inherit,
+.gc-span-inherit,
+.col-span-inherit {
+  grid-column: inherit;
+}
+
+.grid-column-span-unset,
+.gc-span-unset,
+.col-span-unset {
+  grid-column: unset;
+}
+
+.grid-column-span-full,
+.gc-span-full,
+.col-span-full {
+  grid-column: 1 / -1;
+}
+
+.grid-column-start-1,
+.gcs-1,
+.col-start-1 {
+  grid-column-start: 1;
+}
+
+.grid-column-start-2,
+.gcs-2,
+.col-start-2 {
+  grid-column-start: 2;
+}
+
+.grid-column-start-3,
+.gcs-3,
+.col-start-3 {
+  grid-column-start: 3;
+}
+
+.grid-column-start-4,
+.gcs-4,
+.col-start-4 {
+  grid-column-start: 4;
+}
+
+.grid-column-start-5,
+.gcs-5,
+.col-start-5 {
+  grid-column-start: 5;
+}
+
+.grid-column-start-6,
+.gcs-6,
+.col-start-6 {
+  grid-column-start: 6;
+}
+
+.grid-column-start-7,
+.gcs-7,
+.col-start-7 {
+  grid-column-start: 7;
+}
+
+.grid-column-start-8,
+.gcs-8,
+.col-start-8 {
+  grid-column-start: 8;
+}
+
+.grid-column-start-9,
+.gcs-9,
+.col-start-9 {
+  grid-column-start: 9;
+}
+
+.grid-column-start-10,
+.gcs-10,
+.col-start-10 {
+  grid-column-start: 10;
+}
+
+.grid-column-start-11,
+.gcs-11,
+.col-start-11 {
+  grid-column-start: 11;
+}
+
+.grid-column-start-12,
+.gcs-12,
+.col-start-12 {
+  grid-column-start: 12;
+}
+
+.grid-column-start-13,
+.gcs-13,
+.col-start-13 {
+  grid-column-start: 13;
+}
+
+.grid-column-start-auto,
+.gcs-auto,
+.col-start-auto {
+  grid-column-start: auto;
+}
+
+.grid-column-start-initial,
+.gcs-initial,
+.col-start-initial {
+  grid-column-start: initial;
+}
+
+.grid-column-start-inherit,
+.gcs-inherit,
+.col-start-inherit {
+  grid-column-start: inherit;
+}
+
+.grid-column-start-unset,
+.gcs-unset,
+.col-start-unset {
+  grid-column-start: unset;
+}
+
+.grid-column-end-1,
+.gce-1,
+.col-end-1 {
+  grid-column-end: 1;
+}
+
+.grid-column-end-2,
+.gce-2,
+.col-end-2 {
+  grid-column-end: 2;
+}
+
+.grid-column-end-3,
+.gce-3,
+.col-end-3 {
+  grid-column-end: 3;
+}
+
+.grid-column-end-4,
+.gce-4,
+.col-end-4 {
+  grid-column-end: 4;
+}
+
+.grid-column-end-5,
+.gce-5,
+.col-end-5 {
+  grid-column-end: 5;
+}
+
+.grid-column-end-6,
+.gce-6,
+.col-end-6 {
+  grid-column-end: 6;
+}
+
+.grid-column-end-7,
+.gce-7,
+.col-end-7 {
+  grid-column-end: 7;
+}
+
+.grid-column-end-8,
+.gce-8,
+.col-end-8 {
+  grid-column-end: 8;
+}
+
+.grid-column-end-9,
+.gce-9,
+.col-end-9 {
+  grid-column-end: 9;
+}
+
+.grid-column-end-10,
+.gce-10,
+.col-end-10 {
+  grid-column-end: 10;
+}
+
+.grid-column-end-11,
+.gce-11,
+.col-end-11 {
+  grid-column-end: 11;
+}
+
+.grid-column-end-12,
+.gce-12,
+.col-end-12 {
+  grid-column-end: 12;
+}
+
+.grid-column-end-13,
+.gce-13,
+.col-end-13 {
+  grid-column-end: 13;
+}
+
+.grid-column-end-auto,
+.gce-auto,
+.col-end-auto {
+  grid-column-end: auto;
+}
+
+.grid-column-end-initial,
+.gce-initial,
+.col-end-initial {
+  grid-column-end: initial;
+}
+
+.grid-column-end-inherit,
+.gce-inherit,
+.col-end-inherit {
+  grid-column-end: inherit;
+}
+
+.grid-column-end-unset,
+.gce-unset,
+.col-end-unset {
+  grid-column-end: unset;
+}

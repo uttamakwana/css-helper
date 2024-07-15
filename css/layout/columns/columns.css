@@ -1,0 +1,93 @@
+/* COLUMNS | css/layout/columns/column.css */
+
+.columns-1 {
+  columns: 1;
+}
+
+.columns-2 {
+  columns: 2;
+}
+
+.columns-3 {
+  columns: 3;
+}
+
+.columns-4 {
+  columns: 4;
+}
+
+.columns-5 {
+  columns: 5;
+}
+
+.columns-6 {
+  columns: 6;
+}
+
+.columns-7 {
+  columns: 7;
+}
+
+.columns-8 {
+  columns: 8;
+}
+
+.columns-9 {
+  columns: 9;
+}
+
+.columns-10 {
+  columns: 10;
+}
+
+.columns-11 {
+  columns: 11;
+}
+
+.columns-12 {
+  columns: 12;
+}
+
+.columns-auto {
+  columns: auto;
+}
+
+/* EXTRA SMALL CONTAINER (xs) */
+.xs-columns {
+  columns: var(--xs-columns);
+}
+
+/* SMALL CONTAINER (sm) */
+.sm-columns {
+  columns: var(--sm-columns);
+}
+
+/* REGULAR CONTAINER (rg) */
+.rg-columns {
+  columns: var(--rg-columns);
+}
+
+/* MEDIUM CONTAINER (md) */
+.md-columns {
+  columns: var(--md-columns);
+}
+
+/* LARGE CONTAINER (lg) */
+.lg-columns {
+  columns: var(--lg-columns);
+}
+
+/* EXTRA LARGE CONTAINER (xl) */
+.xl-columns {
+  columns: var(--xl-columns);
+}
+
+/* DOUBLE EXTRA LARGE CONTAINER (xxl) */
+.xxl-columns {
+  columns: var(--xxl-columns);
+}
+
+/* TRIPLE EXTRA LARGE CONTAINER (xxxl) */
+.xxxl-columns {
+  columns: var(--xxxl-columns);
+}

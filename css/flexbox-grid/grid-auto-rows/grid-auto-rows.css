@@ -1,0 +1,43 @@
+/* GRID AUTO ROWS | css/flexbox-grid/grid-auto-rows/grid-auto-rows.css */
+
+.grid-auto-rows-auto,
+.gar-auto,
+.auto-rows-auto {
+  grid-auto-rows: auto;
+}
+
+.grid-auto-rows-min-content,
+.gar-min-content,
+.auto-rows-min {
+  grid-auto-rows: min-content;
+}
+
+.grid-auto-rows-max-content,
+.gar-max-content,
+.auto-rows-max {
+  grid-auto-rows: max-content;
+}
+
+.grid-auto-rows-minmax,
+.gar-minmax,
+.auto-rows-fr {
+  grid-auto-rows: minmax(0, 1fr);
+}
+
+.grid-auto-rows-initial,
+.gar-initial,
+.auto-rows-initial {
+  grid-auto-rows: initial;
+}
+
+.grid-auto-rows-inherit,
+.gar-inherit,
+.auto-rows-inherit {
+  grid-auto-rows: inherit;
+}
+
+.grid-auto-rows-unset,
+.gar-unset,
+.auto-rows-unset {
+  grid-auto-rows: unset;
+}

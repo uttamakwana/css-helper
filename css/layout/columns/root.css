@@ -1,0 +1,9 @@
+:root {
+  --xs-columns: var(--xs, 300px);
+  --sm-columns: var(--sm, 480px);
+  --rg-columns: var(--rg, 640px);
+  --lg-columns: var(--lg, 768px);
+  --xl-columns: var(--xl, 1024px);
+  --xxl-columns: var(--xxl, 1536px);
+  --xxxl-columns: var(--xxxl, 1920px);
+}

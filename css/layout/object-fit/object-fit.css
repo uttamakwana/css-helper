@@ -1,0 +1,41 @@
+/* OBJECT FIT | css/layout/object-fit/object-fit.css */
+
+.object-fit-contain,
+.of-contain {
+  object-fit: contain;
+}
+
+.object-fit-cover,
+.of-cover {
+  object-fit: cover;
+}
+
+.object-fit-fill,
+.of-fill {
+  object-fit: fill;
+}
+
+.object-fit-none,
+.of-none {
+  object-fit: none;
+}
+
+.object-fit-scale-down,
+.of-scale-down {
+  object-fit: scale-down;
+}
+
+.object-fit-initial,
+.of-initial {
+  object-fit: initial;
+}
+
+.object-fit-inherit,
+.of-inherit {
+  object-fit: inherit;
+}
+
+.object-fit-unset,
+.of-unset {
+  object-fit: unset;
+}

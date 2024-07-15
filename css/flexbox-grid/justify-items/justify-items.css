@@ -1,0 +1,46 @@
+/* JUSTIFY ITEMS | css/flexbox-grid/justify-items/justify-items.css */
+
+.justify-items-flex-start,
+.ji-flex-start {
+  justify-items: flex-start;
+}
+
+.justify-items-start,
+.ji-start {
+  justify-items: start;
+}
+
+.justify-items-flex-end,
+.ji-flex-end {
+  justify-items: flex-end;
+}
+
+.justify-items-end,
+.ji-end {
+  justify-items: end;
+}
+
+.justify-items-center,
+.ji-center {
+  justify-items: center;
+}
+
+.justify-items-stretch,
+.ji-stretch {
+  justify-items: stretch;
+}
+
+.justify-items-initial,
+.ji-initial {
+  justify-items: initial;
+}
+
+.justify-items-inherit,
+.ji-inherit {
+  justify-items: inherit;
+}
+
+.justify-items-unset,
+.ji-unset {
+  justify-items: unset;
+}

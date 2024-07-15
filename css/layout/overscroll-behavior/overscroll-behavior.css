@@ -1,0 +1,91 @@
+/* OVERSCROLL BEHAVIOR | css/layout/overscroll-behavior/overscroll-behavior.css */
+
+.overscroll-behavior-auto,
+.ob-auto {
+  overscroll-behavior: auto;
+}
+
+.overscroll-behavior-contain,
+.ob-contain {
+  overscroll-behavior: contain;
+}
+
+.overscroll-behavior-none,
+.ob-none {
+  overscroll-behavior: none;
+}
+
+.overscroll-behavior-initial,
+.ob-initial {
+  overscroll-behavior: initial;
+}
+
+.overscroll-behavior-inherit,
+.ob-inherit {
+  overscroll-behavior: inherit;
+}
+
+.overscroll-behavior-unset,
+.ob-unset {
+  overscroll-behavior: unset;
+}
+
+.overscroll-behavior-x-auto,
+.obx-auto {
+  overscroll-behavior-x: auto;
+}
+
+.overscroll-behavior-x-contain,
+.obx-contain {
+  overscroll-behavior-x: contain;
+}
+
+.overscroll-behavior-x-none,
+.obx-none {
+  overscroll-behavior-x: none;
+}
+
+.overscroll-behavior-x-initial,
+.obx-initial {
+  overscroll-behavior-x: initial;
+}
+
+.overscroll-behavior-x-inherit,
+.obx-inherit {
+  overscroll-behavior-x: inherit;
+}
+
+.overscroll-behavior-x-unset,
+.obx-unset {
+  overscroll-behavior-x: unset;
+}
+
+.overscroll-behavior-y-auto,
+.oby-auto {
+  overscroll-behavior-y: auto;
+}
+
+.overscroll-behavior-y-contain,
+.oby-contain {
+  overscroll-behavior-y: contain;
+}
+
+.overscroll-behavior-y-none,
+.oby-none {
+  overscroll-behavior-y: none;
+}
+
+.overscroll-behavior-y-initial,
+.oby-initial {
+  overscroll-behavior-y: initial;
+}
+
+.overscroll-behavior-y-inherit,
+.oby-inherit {
+  overscroll-behavior-y: inherit;
+}
+
+.overscroll-behavior-y-unset,
+.oby-unset {
+  overscroll-behavior-y: unset;
+}

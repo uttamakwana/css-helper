@@ -1,0 +1,109 @@
+/* FLEX BASIS | css/flexbox-grid/flex-basis/flex-basic.css */
+
+.flex-basis-0,
+.fb-0,
+.basis-0 {
+  flex-basis: var(--size-0);
+}
+
+.flex-basis-1,
+.fb-1,
+.basis-1 {
+  flex-basis: var(--size-1);
+}
+
+.flex-basis-2,
+.fb-2,
+.basis-2 {
+  flex-basis: var(--size-2);
+}
+
+.flex-basis-3,
+.fb-3,
+.basis-3 {
+  flex-basis: var(--size-3);
+}
+
+.flex-basis-4,
+.fb-4,
+.basis-4 {
+  flex-basis: var(--size-4);
+}
+
+.flex-basis-8,
+.fb-8,
+.basis-8 {
+  flex-basis: var(--size-8);
+}
+
+.flex-basis-10,
+.fb-10,
+.basis-10 {
+  flex-basis: var(--size-10);
+}
+
+.flex-basis-16,
+.fb-16,
+.basis-16 {
+  flex-basis: var(--size-16);
+}
+
+.flex-basis-20,
+.fb-20,
+.basis-20 {
+  flex-basis: var(--size-20);
+}
+
+.flex-basis-32,
+.fb-32,
+.basis-32 {
+  flex-basis: var(--size-32);
+}
+
+.flex-basis-48,
+.fb-48,
+.basis-48 {
+  flex-basis: var(--size-48);
+}
+
+.flex-basis-64,
+.fb-64,
+.basis-64 {
+  flex-basis: var(--size-64);
+}
+
+.flex-basis-80,
+.fb-80,
+.basis-80 {
+  flex-basis: var(--size-80);
+}
+
+.flex-basis-96,
+.fb-96,
+.basis-96 {
+  flex-basis: var(--size-96);
+}
+
+.flex-basis-25pr,
+.fb-25pr,
+.basis-25pr {
+  flex-basis: 25%;
+}
+
+.flex-basis-50pr,
+.fb-50pr,
+.basis-50pr {
+  flex-basis: 50%;
+}
+
+.flex-basis-75pr,
+.fb-75pr,
+.basis-75pr {
+  flex-basis: 75%;
+}
+
+.flex-basis-100pr,
+.fb-100pr,
+.basis-100pr {
+  flex-basis: 100%;
+}

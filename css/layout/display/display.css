@@ -1,0 +1,151 @@
+/* DISPLAY | css/layout/display/display.css */
+
+.display-block,
+.d-block,
+.block {
+  display: block;
+}
+
+.display-inline-block,
+.d-inline-block,
+.inline-block {
+  display: inline-block;
+}
+
+.display-inline,
+.d-inline,
+.inline {
+  display: inline;
+}
+
+.display-flex,
+.d-flex,
+.flex {
+  display: flex;
+}
+
+.display-inline-flex,
+.d-inline-flex,
+.inline-flex {
+  display: inline-flex;
+}
+
+.display-table,
+.d-table,
+.table {
+  display: table;
+}
+
+.display-inline-table,
+.d-inline-table,
+.inline-table {
+  display: inline-table;
+}
+
+.display-table-caption,
+.d-table-caption,
+.table-caption {
+  display: table-caption;
+}
+
+.display-table-cell,
+.d-table-cell,
+.table-cell {
+  display: table-cell;
+}
+
+.display-table-column,
+.d-table-column,
+.table-column {
+  display: table-column;
+}
+
+.display-table-column-group,
+.d-table-column-group,
+.table-column-group {
+  display: table-column-group;
+}
+
+.display-table-footer-group,
+.d-table-footer-group,
+.table-footer-group {
+  display: table-footer-group;
+}
+
+.display-table-header-group,
+.d-table-header-group,
+.table-header-group {
+  display: table-header-group;
+}
+
+.display-table-row-group,
+.d-table-row-group,
+.table-row-group {
+  display: table-row-group;
+}
+
+.display-table-row,
+.d-table-row,
+.table-row {
+  display: table-row;
+}
+
+.display-flow-root,
+.d-flow-root,
+.flow-root {
+  display: flow-root;
+}
+
+.display-grid,
+.d-grid,
+.grid {
+  display: grid;
+}
+
+.display-inline-grid,
+.d-inline-grid,
+.inline-grid {
+  display: inline-grid;
+}
+
+.display-contents,
+.d-contents,
+.contents {
+  display: contents;
+}
+
+.display-list-item,
+.d-list-item,
+.list-item {
+  display: list-item;
+}
+
+.display-hidden,
+.d-hidden,
+.hidden {
+  display: hidden;
+}
+
+.display-none,
+.d-none,
+.none {
+  display: none;
+}
+
+.display-initial,
+.d-initial,
+.initial {
+  display: initial;
+}
+
+.display-inherit,
+.d-inherit,
+.inherit {
+  display: inherit;
+}
+
+.display-unset,
+.d-unset,
+.unset {
+  display: unset;
+}

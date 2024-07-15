@@ -1,0 +1,487 @@
+/* HEIGHT | css/sizing/height/height.css */
+
+.height-xs,
+.h-xs {
+  height: var(--xs);
+}
+
+.height-sm,
+.h-sm {
+  height: var(--sm);
+}
+
+.height-rg,
+.h-rg {
+  height: var(--rg);
+}
+
+.height-md,
+.h-md {
+  height: var(--md);
+}
+
+.height-md,
+.h-md {
+  height: var(--md);
+}
+
+.height-lg,
+.h-lg {
+  height: var(--lg);
+}
+
+.height-xl,
+.h-xl {
+  height: var(--xl);
+}
+
+.height-xxl,
+.h-xxl {
+  height: var(--xxl);
+}
+
+.height-xxxl,
+.h-xxxl {
+  height: var(--xxxl);
+}
+
+.height-auto,
+.h-auto {
+  height: auto;
+}
+
+.height-0,
+.h-0 {
+  height: var(--size-0);
+}
+
+.height-1,
+.h-1 {
+  height: var(--size-1);
+}
+
+.height-2,
+.h-2 {
+  height: var(--size-2);
+}
+
+.height-3,
+.h-3 {
+  height: var(--size-3);
+}
+
+.height-4,
+.h-4 {
+  height: var(--size-4);
+}
+
+.height-8,
+.h-8 {
+  height: var(--size-8);
+}
+
+.height-10,
+.h-10 {
+  height: var(--size-10);
+}
+
+.height-16,
+.h-16 {
+  height: var(--size-16);
+}
+
+.height-20,
+.h-20 {
+  height: var(--size-20);
+}
+
+.height-32,
+.h-32 {
+  height: var(--size-32);
+}
+
+.height-48,
+.h-48 {
+  height: var(--size-48);
+}
+
+.height-64,
+.h-64 {
+  height: var(--size-64);
+}
+
+.height-80,
+.h-80 {
+  height: var(--size-80);
+}
+
+.height-96,
+.h-96 {
+  height: var(--size-96);
+}
+
+.height-initial,
+.h-initial {
+  height: initial;
+}
+
+.height-inherit,
+.h-inherit {
+  height: inherit;
+}
+
+.height-unset,
+.h-unset {
+  height: unset;
+}
+
+.height-100pr,
+.height-100,
+.h-100pr,
+.h-100 {
+  height: 100%;
+}
+
+.height-100svh,
+.h-100svh {
+  height: 100svh;
+}
+
+.height-100dvh,
+.h-100dvh {
+  height: 100dvh;
+}
+
+.height-100lvh,
+.h-100lvh {
+  height: 100lvh;
+}
+
+.height-100vh,
+.h-100vh {
+  height: 100vh;
+}
+
+.min-height-xs,
+.min-h-xs {
+  min-height: var(--xs);
+}
+
+.min-height-sm,
+.min-h-sm {
+  min-height: var(--sm);
+}
+
+.min-height-rg,
+.min-h-rg {
+  min-height: var(--rg);
+}
+
+.min-height-md,
+.min-h-md {
+  min-height: var(--md);
+}
+
+.min-height-md,
+.min-h-md {
+  min-height: var(--md);
+}
+
+.min-height-lg,
+.min-h-lg {
+  min-height: var(--lg);
+}
+
+.min-height-xl,
+.min-h-xl {
+  min-height: var(--xl);
+}
+
+.min-height-xxl,
+.min-h-xxl {
+  min-height: var(--xxl);
+}
+
+.min-height-xxxl,
+.min-h-xxxl {
+  min-height: var(--xxxl);
+}
+
+.min-height-auto,
+.min-h-auto {
+  min-height: auto;
+}
+
+.min-height-0,
+.min-h-0 {
+  min-height: var(--size-0);
+}
+
+.min-height-1,
+.min-h-1 {
+  min-height: var(--size-1);
+}
+
+.min-height-2,
+.min-h-2 {
+  min-height: var(--size-2);
+}
+
+.min-height-3,
+.min-h-3 {
+  min-height: var(--size-3);
+}
+
+.min-height-4,
+.min-h-4 {
+  min-height: var(--size-4);
+}
+
+.min-height-8,
+.min-h-8 {
+  min-height: var(--size-8);
+}
+
+.min-height-10,
+.min-h-10 {
+  min-height: var(--size-10);
+}
+
+.min-height-16,
+.min-h-16 {
+  min-height: var(--size-16);
+}
+
+.min-height-20,
+.min-h-20 {
+  min-height: var(--size-20);
+}
+
+.min-height-32,
+.min-h-32 {
+  min-height: var(--size-32);
+}
+
+.min-height-48,
+.min-h-48 {
+  min-height: var(--size-48);
+}
+
+.min-height-64,
+.min-h-64 {
+  min-height: var(--size-64);
+}
+
+.min-height-80,
+.min-h-80 {
+  min-height: var(--size-80);
+}
+
+.min-height-96,
+.min-h-96 {
+  min-height: var(--size-96);
+}
+
+.min-height-initial,
+.min-h-initial {
+  min-height: initial;
+}
+
+.min-height-inherit,
+.min-h-inherit {
+  min-height: inherit;
+}
+
+.min-height-unset,
+.min-h-unset {
+  min-height: unset;
+}
+
+.min-height-100pr,
+.min-height-100,
+.min-h-100pr,
+.min-h-100 {
+  min-height: 100%;
+}
+
+.min-height-100svh,
+.min-h-100svh {
+  min-height: 100svh;
+}
+
+.min-height-100dvh,
+.min-h-100dvh {
+  min-height: 100dvh;
+}
+
+.min-height-100lvh,
+.min-h-100lvh {
+  min-height: 100lvh;
+}
+
+.min-height-100vh,
+.min-h-100vh {
+  min-height: 100vh;
+}
+
+.min-height-auto,
+.min-h-auto {
+  min-height: auto;
+}
+
+.max-height-xs,
+.max-h-xs {
+  max-height: var(--xs);
+}
+
+.max-height-sm,
+.max-h-sm {
+  max-height: var(--sm);
+}
+
+.max-height-rg,
+.max-h-rg {
+  max-height: var(--rg);
+}
+
+.max-height-md,
+.max-h-md {
+  max-height: var(--md);
+}
+
+.max-height-md,
+.max-h-md {
+  max-height: var(--md);
+}
+
+.max-height-lg,
+.max-h-lg {
+  max-height: var(--lg);
+}
+
+.max-height-xl,
+.max-h-xl {
+  max-height: var(--xl);
+}
+
+.max-height-xxl,
+.max-h-xxl {
+  max-height: var(--xxl);
+}
+
+.max-height-xxxl,
+.max-h-xxxl {
+  max-height: var(--xxxl);
+}
+
+.max-height-0,
+.max-h-0 {
+  max-height: var(--size-0);
+}
+
+.max-height-1,
+.max-h-1 {
+  max-height: var(--size-1);
+}
+
+.max-height-2,
+.max-h-2 {
+  max-height: var(--size-2);
+}
+
+.max-height-3,
+.max-h-3 {
+  max-height: var(--size-3);
+}
+
+.max-height-4,
+.max-h-4 {
+  max-height: var(--size-4);
+}
+
+.max-height-8,
+.max-h-8 {
+  max-height: var(--size-8);
+}
+
+.max-height-10,
+.max-h-10 {
+  max-height: var(--size-10);
+}
+
+.max-height-16,
+.max-h-16 {
+  max-height: var(--size-16);
+}
+
+.max-height-20,
+.max-h-20 {
+  max-height: var(--size-20);
+}
+
+.max-height-32,
+.max-h-32 {
+  max-height: var(--size-32);
+}
+
+.max-height-48,
+.max-h-48 {
+  max-height: var(--size-48);
+}
+
+.max-height-64,
+.max-h-64 {
+  max-height: var(--size-64);
+}
+
+.max-height-80,
+.max-h-80 {
+  max-height: var(--size-80);
+}
+
+.max-height-96,
+.max-h-96 {
+  max-height: var(--size-96);
+}
+
+.max-height-initial,
+.max-h-initial {
+  max-height: initial;
+}
+
+.max-height-inherit,
+.max-h-inherit {
+  max-height: inherit;
+}
+
+.max-height-unset,
+.max-h-unset {
+  max-height: unset;
+}
+
+.max-height-100pr,
+.max-height-100,
+.max-h-100pr,
+.max-h-100 {
+  max-height: 100%;
+}
+
+.max-height-100svh,
+.max-h-100svh {
+  max-height: 100svh;
+}
+
+.max-height-100dvh,
+.max-h-100dvh {
+  max-height: 100dvh;
+}
+
+.max-height-100lvh,
+.max-h-100lvh {
+  max-height: 100lvh;
+}
+
+.max-height-100vh,
+.max-h-100vh {
+  max-height: 100vh;
+}

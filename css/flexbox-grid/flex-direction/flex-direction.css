@@ -1,0 +1,40 @@
+/* FLEX DIRECTION | css/flexbox-grid/flex-direction/flex-direction.css */
+
+.flex-direction-row,
+.fd-row,
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-direction-column,
+.fd-column,
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-direction-row-reverse,
+.fd-row-reverse,
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-direction-column-reverse,
+.fd-column-reverse,
+.flex-column-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-direction-initial,
+.fd-initial {
+  flex-direction: initial;
+}
+
+.flex-direction-inherit,
+.fd-inherit {
+  flex-direction: inherit;
+}
+
+.flex-direction-unset,
+.fd-unset {
+  flex-direction: unset;
+}

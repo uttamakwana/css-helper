@@ -1,0 +1,117 @@
+/* SIZES | css/sizing/sizes/sizes.css */
+
+.size-auto,
+.square-auto {
+  width: auto;
+  height: auto;
+}
+
+.size-0,
+.square-0 {
+  width: var(--size-0);
+  height: var(--size-0);
+}
+
+.size-1,
+.square-1 {
+  width: var(--size-1);
+  height: var(--size-1);
+}
+
+.size-2,
+.square-2 {
+  width: var(--size-2);
+  height: var(--size-2);
+}
+
+.size-3,
+.square-auto3 {
+  width: var(--size-3);
+  height: var(--size-3);
+}
+
+.size-4,
+.square-4 {
+  width: var(--size-4);
+  height: var(--size-4);
+}
+
+.size-8,
+.square-8 {
+  width: var(--size-8);
+  height: var(--size-8);
+}
+
+.size-10,
+.square-10 {
+  width: var(--size-10);
+  height: var(--size-10);
+}
+
+.size-16,
+.square-16 {
+  width: var(--size-16);
+  height: var(--size-16);
+}
+
+.size-20,
+.square-20 {
+  width: var(--size-20);
+  height: var(--size-20);
+}
+
+.size-32,
+.square-32 {
+  width: var(--size-32);
+  height: var(--size-32);
+}
+
+.size-48,
+.square-48 {
+  width: var(--size-48);
+  height: var(--size-48);
+}
+
+.size-64,
+.square-64 {
+  width: var(--size-64);
+  height: var(--size-64);
+}
+
+.size-80,
+.square-80 {
+  width: var(--size-80);
+  height: var(--size-80);
+}
+
+.size-96,
+.square-96 {
+  width: var(--size-96);
+  height: var(--size-96);
+}
+
+.size-initial,
+.square-initial {
+  width: initial;
+  height: initial;
+}
+
+.size-inherit,
+.square-inherit {
+  width: inherit;
+  height: inherit;
+}
+
+.size-unset,
+.square-unset {
+  width: unset;
+  height: unset;
+}
+
+.size-100pr,
+.size-100,
+.square-100pr,
+.square-100 {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,23 @@
+/* ISOLATION | css/layout/isolation/isolation.css */
+.isolation-isolate,
+.isolate,
+.i-isolate {
+  isolation: isolate;
+}
+
+.isolation-auto,
+.i-auto {
+  isolation: auto;
+}
+.isolation-initial,
+.i-initial {
+  isolation: initial;
+}
+.isolation-inherit,
+.i-inherit {
+  isolation: inherit;
+}
+.isolation-unset,
+.i-unset {
+  isolation: unset;
+}

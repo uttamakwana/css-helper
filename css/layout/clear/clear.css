@@ -1,0 +1,46 @@
+/* CLEAR | css/layout/clear/clear.css */
+
+.clear-inline-start,
+.c-inline-start {
+  clear: inline-start;
+}
+
+.clear-inline-end,
+.c-inline-end {
+  clear: inline-end;
+}
+
+.clear-left,
+.c-left {
+  clear: left;
+}
+
+.clear-right,
+.c-right {
+  clear: right;
+}
+
+.clear-both,
+.c-both {
+  clear: both;
+}
+
+.clear-none,
+.c-none {
+  clear: none;
+}
+
+.clear-initial,
+.c-initial {
+  clear: initial;
+}
+
+.clear-inherit,
+.c-inherit {
+  clear: inherit;
+}
+
+.clear-unset,
+.c-unset {
+  clear: unset;
+}

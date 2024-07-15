@@ -11,6 +11,7 @@
   --box-shadow-base-color: rgba(0, 0, 0, 0.5);
   --text-shadow-base-color: rgba(0, 0, 0, 0.5);
 }
+
 /* DISPLAY */
 /* flex */
 .display-flex,
@@ -20,7 +21,10 @@
 }
 .display-flex-column,
 .d-flex-column,
-.flex-column {
+.flex-column,
+.display-flex-col,
+.d-flex-col,
+.flex-col {
   display: flex;
   flex-direction: column;
 }
@@ -52,18 +56,23 @@
 .d-initial {
   display: initial;
 }
+.display-none,
+.d-none {
+  display: none;
+}
 .flex-center {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.fw-wrap,
 .flex-wrap-wrap,
-.flex-wrap {
+.flex-wrap,
+.fw-wrap {
   flex-wrap: wrap;
 }
-.fw-nowrap,
-.flex-wrap-nowrap {
+.flex-wrap-nowrap,
+.flex-nowrap,
+.fw-nowrap {
   flex-wrap: nowrap;
 }
 .flex-wrap-inherit,
@@ -74,6 +83,7 @@
 .fw-initial {
   flex-wrap: initial;
 }
+/* FLEX DIRECTION */
 .flex-direction-row,
 .fd-row {
   flex-direction: row;
@@ -106,10 +116,18 @@
 }
 .align-items-start,
 .ai-start {
+  align-items: start;
+}
+.align-items-flex-start,
+.ai-flex-start {
   align-items: flex-start;
 }
 .align-items-end,
 .ai-end {
+  align-items: end;
+}
+.align-items-flex-end,
+.ai-flex-end {
   align-items: flex-end;
 }
 .align-items-baseline,
@@ -128,6 +146,7 @@
 .ai-inherit {
   align-items: inherit;
 }
+.align-items-unset,
 .ai-unset {
   align-items: unset;
 }
@@ -1516,7 +1535,8 @@
 }
 .max-width-100,
 .max-width-100pr,
-.max-w-100 {
+.max-w-100,
+.max-w-100pr {
   max-width: 100%;
 }
 .max-width-initial,
@@ -1524,39 +1544,45 @@
 .auto-breakout {
   max-width: initial;
 }
-.max-width-1920,
 .max-width-1920px,
+.max-width-1920,
 .max-w-1920px,
+.max-w-1920,
 .large-screen-breakout,
 .desktop-breakout {
   max-width: 1920px;
 }
-.max-width-1024,
 .max-width-1024px,
+.max-width-1024,
 .max-w-1024px,
+.max-w-1024,
 .small-screen-breakout,
 .laptop-breakout {
   max-width: 1024px;
 }
-.max-width-768,
 .max-width-768px,
+.max-width-768,
 .max-w-768px,
+.max-w-768,
 .tablet-breakout {
   max-width: 768px;
 }
-.max-width-480,
 .max-width-480px,
+.max-width-480,
 .max-w-480px,
+.max-w-480,
 .mobile-breakout {
   max-width: 480px;
 }
-.max-width-300,
 .max-width-300px,
+.max-width-300,
 .max-w-300px,
+.max-w-300,
 .small-mobile-breakout {
   max-width: 300px;
 }
-.width-max-content .w-max-content {
+.width-max-content,
+.w-max-content {
   width: max-content;
 }
 .width-min-content,

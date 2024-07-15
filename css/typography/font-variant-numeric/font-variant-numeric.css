@@ -1,0 +1,61 @@
+/* FONT VARIANT NUMERIC | css/typography/font-variant-numeric/font-variant-numeric.css */
+
+.font-variant-numeric-normal,
+.fvn-normal {
+  font-variant-numeric: normal;
+}
+
+.font-variant-numeric-ordinal,
+.fvn-ordinal {
+  font-variant-numeric: ordinal;
+}
+
+.font-variant-numeric-slashed-zero,
+.fvn-slashed-zero {
+  font-variant-numeric: slashed-zero;
+}
+
+.font-variant-numeric-lining-nums,
+.fvn-lining-nums {
+  font-variant-numeric: lining-nums;
+}
+
+.font-variant-numeric-oldstyle-nums,
+.fvn-oldstyle-nums {
+  font-variant-numeric: oldstyle-nums;
+}
+
+.font-variant-numeric-proportional-nums,
+.fvn-proportional-nums {
+  font-variant-numeric: proportional-nums;
+}
+
+.font-variant-numeric-tabular-nums,
+.fvn-tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.font-variant-numeric-diagonal-fractions,
+.fvn-diagonal-fractions {
+  font-variant-numeric: diagonal-fractions;
+}
+
+.font-variant-numeric-stacked-fractions,
+.fvn-stacked-fractions {
+  font-variant-numeric: stacked-fractions;
+}
+
+.font-variant-numeric-initial,
+.fvn-initial {
+  font-variant-numeric: initial;
+}
+
+.font-variant-numeric-inherit,
+.fvn-inherit {
+  font-variant-numeric: inherit;
+}
+
+.font-variant-numeric-unset,
+.fvn-unset {
+  font-variant-numeric: unset;
+}

@@ -1,0 +1,631 @@
+/* MARGIN | css/spacing/margin/margin.css */
+
+.margin-auto,
+.m-auto {
+  margin: auto;
+}
+
+.margin-0,
+.m-0 {
+  margin: var(--size-0);
+}
+
+.margin-1,
+.m-1 {
+  margin: var(--size-1);
+}
+
+.margin-2,
+.m-2 {
+  margin: var(--size-2);
+}
+
+.margin-3,
+.m-3 {
+  margin: var(--size-3);
+}
+
+.margin-4,
+.m-4 {
+  margin: var(--size-4);
+}
+
+.margin-8,
+.m-8 {
+  margin: var(--size-8);
+}
+
+.margin-10,
+.m-10 {
+  margin: var(--size-10);
+}
+
+.margin-16,
+.m-16 {
+  margin: var(--size-16);
+}
+
+.margin-20,
+.m-20 {
+  margin: var(--size-20);
+}
+
+.margin-32,
+.m-32 {
+  margin: var(--size-32);
+}
+
+.margin-48,
+.m-48 {
+  margin: var(--size-48);
+}
+
+.margin-64,
+.m-64 {
+  margin: var(--size-64);
+}
+
+.margin-80,
+.m-80 {
+  margin: var(--size-80);
+}
+
+.margin-96,
+.m-96 {
+  margin: var(--size-96);
+}
+
+.margin-initial,
+.m-initial {
+  margin: initial;
+}
+
+.margin-inherit,
+.m-inherit {
+  margin: inherit;
+}
+
+.margin-unset,
+.m-unset {
+  margin: unset;
+}
+
+.margin-inline-auto,
+.mx-auto {
+  margin-inline: auto;
+}
+
+.margin-inline-0,
+.mx-0 {
+  margin-inline: var(--size-0);
+}
+
+.margin-inline-1,
+.mx-1 {
+  margin-inline: var(--size-1);
+}
+
+.margin-inline-2,
+.mx-2 {
+  margin-inline: var(--size-2);
+}
+
+.margin-inline-3,
+.mx-3 {
+  margin-inline: var(--size-3);
+}
+
+.margin-inline-4,
+.mx-4 {
+  margin-inline: var(--size-4);
+}
+
+.margin-inline-8,
+.mx-8 {
+  margin-inline: var(--size-8);
+}
+
+.margin-inline-10,
+.mx-10 {
+  margin-inline: var(--size-10);
+}
+
+.margin-inline-16,
+.mx-16 {
+  margin-inline: var(--size-16);
+}
+
+.margin-inline-20,
+.mx-20 {
+  margin-inline: var(--size-20);
+}
+
+.margin-inline-32,
+.mx-32 {
+  margin-inline: var(--size-32);
+}
+
+.margin-inline-48,
+.mx-48 {
+  margin-inline: var(--size-48);
+}
+
+.margin-inline-64,
+.mx-64 {
+  margin-inline: var(--size-64);
+}
+
+.margin-inline-80,
+.mx-80 {
+  margin-inline: var(--size-80);
+}
+
+.margin-inline-96,
+.mx-96 {
+  margin-inline: var(--size-96);
+}
+
+.margin-inline-initial,
+.mx-initial {
+  margin-inline: initial;
+}
+
+.margin-inline-inherit,
+.mx-inherit {
+  margin-inline: inherit;
+}
+
+.margin-inline-unset,
+.mx-unset {
+  margin-inline: unset;
+}
+
+.margin-block-auto,
+.my-auto {
+  margin-block: auto;
+}
+
+.margin-block-0,
+.my-0 {
+  margin-block: var(--size-0);
+}
+
+.margin-block-1,
+.my-1 {
+  margin-block: var(--size-1);
+}
+
+.margin-block-2,
+.my-2 {
+  margin-block: var(--size-2);
+}
+
+.margin-block-3,
+.my-3 {
+  margin-block: var(--size-3);
+}
+
+.margin-block-4,
+.my-4 {
+  margin-block: var(--size-4);
+}
+
+.margin-block-8,
+.my-8 {
+  margin-block: var(--size-8);
+}
+
+.margin-block-10,
+.my-10 {
+  margin-block: var(--size-10);
+}
+
+.margin-block-16,
+.my-16 {
+  margin-block: var(--size-16);
+}
+
+.margin-block-20,
+.my-20 {
+  margin-block: var(--size-20);
+}
+
+.margin-block-32,
+.my-32 {
+  margin-block: var(--size-32);
+}
+
+.margin-block-48,
+.my-48 {
+  margin-block: var(--size-48);
+}
+
+.margin-block-64,
+.my-64 {
+  margin-block: var(--size-64);
+}
+
+.margin-block-80,
+.my-80 {
+  margin-block: var(--size-80);
+}
+
+.margin-block-96,
+.my-96 {
+  margin-block: var(--size-96);
+}
+
+.margin-block-initial,
+.my-initial {
+  margin-block: initial;
+}
+
+.margin-block-inherit,
+.my-inherit {
+  margin-block: inherit;
+}
+
+.margin-block-unset,
+.my-unset {
+  margin-block: unset;
+}
+
+.margin-top-auto,
+.mt-auto {
+  margin-top: auto;
+}
+
+.margin-top-0,
+.mt-0 {
+  margin-top: var(--size-0);
+}
+
+.margin-top-1,
+.mt-1 {
+  margin-top: var(--size-1);
+}
+
+.margin-top-2,
+.mt-2 {
+  margin-top: var(--size-2);
+}
+
+.margin-top-3,
+.mt-3 {
+  margin-top: var(--size-3);
+}
+
+.margin-top-4,
+.mt-4 {
+  margin-top: var(--size-4);
+}
+
+.margin-top-8,
+.mt-8 {
+  margin-top: var(--size-8);
+}
+
+.margin-top-10,
+.mt-10 {
+  margin-top: var(--size-10);
+}
+
+.margin-top-16,
+.mt-16 {
+  margin-top: var(--size-16);
+}
+
+.margin-top-20,
+.mt-20 {
+  margin-top: var(--size-20);
+}
+
+.margin-top-32,
+.mt-32 {
+  margin-top: var(--size-32);
+}
+
+.margin-top-48,
+.mt-48 {
+  margin-top: var(--size-48);
+}
+
+.margin-top-64,
+.mt-64 {
+  margin-top: var(--size-64);
+}
+
+.margin-top-80,
+.mt-80 {
+  margin-top: var(--size-80);
+}
+
+.margin-top-96,
+.mt-96 {
+  margin-top: var(--size-96);
+}
+
+.margin-top-initial,
+.mt-initial {
+  margin-top: initial;
+}
+
+.margin-top-inherit,
+.mt-inherit {
+  margin-top: inherit;
+}
+
+.margin-top-unset,
+.mt-unset {
+  margin-top: unset;
+}
+
+.margin-right-auto,
+.mr-auto {
+  margin-right: auto;
+}
+
+.margin-right-0,
+.mr-0 {
+  margin-right: var(--size-0);
+}
+
+.margin-right-1,
+.mr-1 {
+  margin-right: var(--size-1);
+}
+
+.margin-right-2,
+.mr-2 {
+  margin-right: var(--size-2);
+}
+
+.margin-right-3,
+.mr-3 {
+  margin-right: var(--size-3);
+}
+
+.margin-right-4,
+.mr-4 {
+  margin-right: var(--size-4);
+}
+
+.margin-right-8,
+.mr-8 {
+  margin-right: var(--size-8);
+}
+
+.margin-right-10,
+.mr-10 {
+  margin-right: var(--size-10);
+}
+
+.margin-right-16,
+.mr-16 {
+  margin-right: var(--size-16);
+}
+
+.margin-right-20,
+.mr-20 {
+  margin-right: var(--size-20);
+}
+
+.margin-right-32,
+.mr-32 {
+  margin-right: var(--size-32);
+}
+
+.margin-right-48,
+.mr-48 {
+  margin-right: var(--size-48);
+}
+
+.margin-right-64,
+.mr-64 {
+  margin-right: var(--size-64);
+}
+
+.margin-right-80,
+.mr-80 {
+  margin-right: var(--size-80);
+}
+
+.margin-right-96,
+.mr-96 {
+  margin-right: var(--size-96);
+}
+
+.margin-right-initial,
+.mr-initial {
+  margin-right: initial;
+}
+
+.margin-right-inherit,
+.mr-inherit {
+  margin-right: inherit;
+}
+
+.margin-right-unset,
+.mr-unset {
+  margin-right: unset;
+}
+
+.margin-bottom-0,
+.mb-0 {
+  margin-bottom: var(--size-0);
+}
+
+.margin-bottom-auto,
+.mb-auto {
+  margin-bottom: auto;
+}
+
+.margin-bottom-1,
+.mb-1 {
+  margin-bottom: var(--size-1);
+}
+
+.margin-bottom-2,
+.mb-2 {
+  margin-bottom: var(--size-2);
+}
+
+.margin-bottom-3,
+.mb-3 {
+  margin-bottom: var(--size-3);
+}
+
+.margin-bottom-4,
+.mb-4 {
+  margin-bottom: var(--size-4);
+}
+
+.margin-bottom-8,
+.mb-8 {
+  margin-bottom: var(--size-8);
+}
+
+.margin-bottom-10,
+.mb-10 {
+  margin-bottom: var(--size-10);
+}
+
+.margin-bottom-16,
+.mb-16 {
+  margin-bottom: var(--size-16);
+}
+
+.margin-bottom-20,
+.mb-20 {
+  margin-bottom: var(--size-20);
+}
+
+.margin-bottom-32,
+.mb-32 {
+  margin-bottom: var(--size-32);
+}
+
+.margin-bottom-48,
+.mb-48 {
+  margin-bottom: var(--size-48);
+}
+
+.margin-bottom-64,
+.mb-64 {
+  margin-bottom: var(--size-64);
+}
+
+.margin-bottom-80,
+.mb-80 {
+  margin-bottom: var(--size-80);
+}
+
+.margin-bottom-96,
+.mb-96 {
+  margin-bottom: var(--size-96);
+}
+
+.margin-bottom-initial,
+.mb-initial {
+  margin-bottom: initial;
+}
+
+.margin-bottom-inherit,
+.mb-inherit {
+  margin-bottom: inherit;
+}
+
+.margin-bottom-unset,
+.mb-unset {
+  margin-bottom: unset;
+}
+
+.margin-left-auto,
+.ml-auto {
+  margin-left: auto;
+}
+
+.margin-left-0,
+.ml-0 {
+  margin-left: var(--size-0);
+}
+
+.margin-left-1,
+.ml-1 {
+  margin-left: var(--size-1);
+}
+
+.margin-left-2,
+.ml-2 {
+  margin-left: var(--size-2);
+}
+
+.margin-left-3,
+.ml-3 {
+  margin-left: var(--size-3);
+}
+
+.margin-left-4,
+.ml-4 {
+  margin-left: var(--size-4);
+}
+
+.margin-left-8,
+.ml-8 {
+  margin-left: var(--size-8);
+}
+
+.margin-left-10,
+.ml-10 {
+  margin-left: var(--size-10);
+}
+
+.margin-left-16,
+.ml-16 {
+  margin-left: var(--size-16);
+}
+
+.margin-left-20,
+.ml-20 {
+  margin-left: var(--size-20);
+}
+
+.margin-left-32,
+.ml-32 {
+  margin-left: var(--size-32);
+}
+
+.margin-left-48,
+.ml-48 {
+  margin-left: var(--size-48);
+}
+
+.margin-left-64,
+.ml-64 {
+  margin-left: var(--size-64);
+}
+
+.margin-left-80,
+.ml-80 {
+  margin-left: var(--size-80);
+}
+
+.margin-left-96,
+.ml-96 {
+  margin-left: var(--size-96);
+}
+
+.margin-left-initial,
+.ml-initial {
+  margin-left: initial;
+}
+
+.margin-left-inherit,
+.ml-inherit {
+  margin-left: inherit;
+}
+
+.margin-left-unset,
+.ml-unset {
+  margin-left: unset;
+}

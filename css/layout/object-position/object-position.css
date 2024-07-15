@@ -1,0 +1,61 @@
+/* OBJECT POSITION | css/layout/object-position/object-position.css */
+
+.object-position-bottom,
+.op-bottom {
+  object-position: bottom;
+}
+
+.object-position-center,
+.op-center {
+  object-position: center;
+}
+
+.object-position-left,
+.op-left {
+  object-position: left;
+}
+
+.object-position-left-bottom,
+.op-left-bottom {
+  object-position: left bottom;
+}
+
+.object-position-left-top,
+.op-left-top {
+  object-position: left top;
+}
+
+.object-position-right,
+.op-right {
+  object-position: right;
+}
+
+.object-position-top,
+.op-top {
+  object-position: top;
+}
+
+.object-position-right-bottom,
+.op-right-bottom {
+  object-position: right bottom;
+}
+
+.object-position-right-top,
+.op-right-top {
+  object-position: right top;
+}
+
+.object-position-initial,
+.op-initial {
+  object-position: initial;
+}
+
+.object-position-inherit,
+.op-inherit {
+  object-position: inherit;
+}
+
+.object-position-unset,
+.op-unset {
+  object-position: unset;
+}

@@ -1,0 +1,51 @@
+/* PLACE ITEMS | css/flexbox-grid/place-items/place-items.css */
+
+.place-items-start,
+.pi-start {
+  place-items: start;
+}
+
+.place-items-flex-start,
+.pi-flex-start {
+  place-items: flex-start;
+}
+
+.place-items-end,
+.pi-end {
+  place-items: end;
+}
+
+.place-items-flex-end,
+.pi-flex-end {
+  place-items: flex-end;
+}
+
+.place-items-center,
+.pi-center {
+  place-items: center;
+}
+
+.place-items-baseline,
+.pi-baseline {
+  place-items: baseline;
+}
+
+.place-items-stretch,
+.pi-stretch {
+  place-items: stretch;
+}
+
+.place-items-initial,
+.pi-initial {
+  place-items: initial;
+}
+
+.place-items-inherit,
+.pi-inherit {
+  place-items: inherit;
+}
+
+.place-items-unset,
+.pi-unset {
+  place-items: unset;
+}

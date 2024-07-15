@@ -1,0 +1,37 @@
+/* LETTER SPACING | css/typography/letter-spacing/letter-spacing.css */
+
+.letter-spacing-tighter,
+.ls-tighter,
+.tracking-tighter {
+  letter-spacing: -0.05em;
+}
+
+.letter-spacing-tight,
+.ls-tight,
+.tracking-tight {
+  letter-spacing: -0.025em;
+}
+
+.letter-spacing-normal,
+.ls-normal,
+.tracking-normal {
+  letter-spacing: 0;
+}
+
+.letter-spacing-wide,
+.ls-wide,
+.tracking-wide {
+  letter-spacing: 0.025em;
+}
+
+.letter-spacing-wider,
+.ls-wider,
+.tracking-wider {
+  letter-spacing: 0.05em;
+}
+
+.letter-spacing-widest,
+.ls-widest,
+.tracking-widest {
+  letter-spacing: 0.1em;
+}

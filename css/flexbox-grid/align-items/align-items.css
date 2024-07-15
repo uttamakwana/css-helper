@@ -1,0 +1,51 @@
+/* ALIGN ITEMS | css/flexbox-grid/align-items/align-items.css */
+
+.align-items-flex-start,
+.ai-flex-start {
+  align-items: flex-start;
+}
+
+.align-items-start,
+.ai-start {
+  align-items: start;
+}
+
+.align-items-flex-end,
+.ai-flex-end {
+  align-items: flex-end;
+}
+
+.align-items-end,
+.ai-end {
+  align-items: end;
+}
+
+.align-items-center,
+.ai-center {
+  align-items: center;
+}
+
+.align-items-baseline,
+.ai-baseline {
+  align-items: baseline;
+}
+
+.align-items-stretch,
+.ai-stretch {
+  align-items: stretch;
+}
+
+.align-items-initial,
+.ai-initial {
+  align-items: initial;
+}
+
+.align-items-inherit,
+.ai-inherit {
+  align-items: inherit;
+}
+
+.align-items-unset,
+.ai-unset {
+  align-items: unset;
+}

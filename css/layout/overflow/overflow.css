@@ -1,0 +1,121 @@
+/* OVERFLOW | css/layout/overflow/overflow.css */
+
+.overflow-auto,
+.o-auto {
+  overflow: auto;
+}
+
+.overflow-hidden,
+.o-hidden {
+  overflow: hidden;
+}
+
+.overflow-clip,
+.o-clip {
+  overflow: clip;
+}
+
+.overflow-visible,
+.o-visible {
+  overflow: visible;
+}
+
+.overflow-scroll,
+.o-scroll {
+  overflow: scroll;
+}
+
+.overflow-initial,
+.o-initial {
+  overflow: initial;
+}
+
+.overflow-inherit,
+.o-inherit {
+  overflow: inherit;
+}
+
+.overflow-unset,
+.o-unset {
+  overflow: unset;
+}
+
+.overflow-x-auto,
+.ox-auto {
+  overflow-x: auto;
+}
+
+.overflow-x-hidden,
+.ox-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-x-clip,
+.ox-clip {
+  overflow-x: clip;
+}
+
+.overflow-x-visible,
+.ox-visible {
+  overflow-x: visible;
+}
+
+.overflow-x-scroll,
+.ox-scroll {
+  overflow-x: scroll;
+}
+
+.overflow-x-initial,
+.ox-initial {
+  overflow-x: initial;
+}
+
+.overflow-x-inherit,
+.ox-inherit {
+  overflow-x: inherit;
+}
+
+.overflow-x-unset,
+.ox-unset {
+  overflow-x: unset;
+}
+
+.overflow-y-auto,
+.oy-auto {
+  overflow-y: auto;
+}
+
+.overflow-y-hidden,
+.oy-hidden {
+  overflow-y: hidden;
+}
+
+.overflow-y-clip,
+.oy-clip {
+  overflow-y: clip;
+}
+
+.overflow-y-visible,
+.oy-visible {
+  overflow-y: visible;
+}
+
+.overflow-y-scroll,
+.oy-scroll {
+  overflow-y: scroll;
+}
+
+.overflow-y-initial,
+.oy-initial {
+  overflow-y: initial;
+}
+
+.overflow-y-inherit,
+.oy-inherit {
+  overflow-y: inherit;
+}
+
+.overflow-y-unset,
+.oy-unset {
+  overflow-y: unset;
+}

@@ -1,0 +1,41 @@
+/* BREAK AFTER | css/layout/break-after/break-after.css */
+
+.break-after-auto,
+.ba-auto {
+  break-after: auto;
+}
+
+.break-after-avoid,
+.ba-after-avoid {
+  break-after: avoid;
+}
+
+.break-after-all,
+.ba-all {
+  break-after: all;
+}
+
+.break-after-avoid-page,
+.ba-avoid-page {
+  break-after: avoid-page;
+}
+
+.break-after-page,
+.ba-page {
+  break-after: page;
+}
+
+.break-after-left,
+.ba-left {
+  break-after: left;
+}
+
+.break-after-right,
+.ba-right {
+  break-after: right;
+}
+
+.break-after-column,
+.ba-column {
+  break-after: column;
+}

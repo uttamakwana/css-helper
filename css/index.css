@@ -1,6 +1,15 @@
-@import "./utils.css";
-@import "./colors.css";
-@import "./reset.css";
-@import "./desktop-media-query.css";
-@import "./tablet-media-query.css";
-@import "./mobile-media-query.css";
+/* INDEX | css/index.css */
+
+:root {
+  --xs: 300px;
+  --sm: 480px;
+  --rg: 640px;
+  --lg: 768px;
+  --xl: 1024px;
+  --xxl: 1536px;
+  --xxxl: 1920px;
+  --auto: auto;
+  --initial: initial;
+  --inherit: inherit;
+  --unset: unset;
+}

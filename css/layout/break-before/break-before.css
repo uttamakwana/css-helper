@@ -1,0 +1,41 @@
+/* BREAK BEFORE | css/layout/break-before/break-before.css */
+
+.break-before-auto,
+.bb-auto {
+  break-before: auto;
+}
+
+.break-before-avoid,
+.bb-avoid {
+  break-before: avoid;
+}
+
+.break-before-all,
+.bb-all {
+  break-before: all;
+}
+
+.break-before-avoid-page,
+.bb-avoid-page {
+  break-before: avoid-page;
+}
+
+.break-before-page,
+.bb-page {
+  break-before: page;
+}
+
+.break-before-left,
+.bb-left {
+  break-before: left;
+}
+
+.break-before-right,
+.bb-right {
+  break-before: right;
+}
+
+.break-before-column,
+.bb-column {
+  break-before: column;
+}

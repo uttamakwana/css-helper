@@ -1,0 +1,49 @@
+/* GRID AUTO FLOW | css/flexbox-grid/grid-auto-flow/grid-auto-flow.css */
+
+.grid-auto-flow-row,
+.grid-flow-row,
+.gaf-row {
+  grid-auto-flow: row;
+}
+
+.grid-auto-flow-column,
+.grid-flow-column,
+.gaf-column {
+  grid-auto-flow: column;
+}
+
+.grid-auto-flow-dense,
+.grid-flow-dense,
+.gaf-dense {
+  grid-auto-flow: dense;
+}
+
+.grid-auto-flow-row-dense,
+.grid-flow-row-dense,
+.gaf-row-dense {
+  grid-auto-flow: row dense;
+}
+
+.grid-auto-flow-column-dense,
+.grid-flow-column-dense,
+.gaf-column-dense {
+  grid-auto-flow: column dense;
+}
+
+.grid-auto-flow-initial,
+.grid-flow-initial,
+.gaf-initial {
+  grid-auto-flow: initial;
+}
+
+.grid-auto-flow-inherit,
+.grid-flow-inherit,
+.gaf-inherit {
+  grid-auto-flow: inherit;
+}
+
+.grid-auto-flow-unset,
+.grid-flow-unset,
+.gaf-unset {
+  grid-auto-flow: unset;
+}

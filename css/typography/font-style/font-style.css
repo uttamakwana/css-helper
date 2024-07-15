@@ -1,0 +1,26 @@
+/* FONT STYLE | css/typography/font-style/font-style.css */
+
+.font-style-italic,
+.italic {
+  font-style: italic;
+}
+
+.font-style-normal {
+  font-style: normal;
+}
+
+.font-style-oblique {
+  font-style: oblique;
+}
+
+.font-style-initial {
+  font-style: initial;
+}
+
+.font-style-inherit {
+  font-style: inherit;
+}
+
+.font-style-unset {
+  font-style: unset;
+}

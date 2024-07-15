@@ -1,0 +1,49 @@
+/* ASPECT RATIO | css/layout/aspect-ratio/aspect-ratio.css*/
+
+.aspect-ratio-auto,
+.aspect-auto,
+.ar-auto {
+  aspect-ratio: auto;
+}
+
+.aspect-ratio-square,
+.aspect-square,
+.ar-square {
+  aspect-ratio: 1 / 1;
+}
+
+.aspect-ratio-video,
+.aspect-video,
+.ar-video {
+  aspect-ratio: 16 / 9;
+}
+
+.aspect-ratio-inherit,
+.aspect-inherit,
+.ar-inherit {
+  aspect-ratio: inherit;
+}
+
+.aspect-ratio-initial,
+.aspect-initial,
+.ar-initial {
+  aspect-ratio: initial;
+}
+
+.aspect-ratio-unset,
+.aspect-unset,
+.ar-unset {
+  aspect-ratio: unset;
+}
+
+.aspect-ratio-revert,
+.aspect-revert,
+.ar-revert {
+  aspect-ratio: revert;
+}
+
+.aspect-ratio-revert-layer,
+.aspect-revert-layer,
+.ar-revert-layer {
+  aspect-ratio: revert-layer;
+}

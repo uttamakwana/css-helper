@@ -1,0 +1,9 @@
+:root {
+  --xs-container: var(--xs, 300px);
+  --sm-container: var(--sm, 480px);
+  --rg-container: var(--rg, 640px);
+  --lg-container: var(--lg, 768px);
+  --xl-container: var(--xl, 1024px);
+  --xxl-container: var(--xxl, 1536px);
+  --xxxl-container: var(--xxxl, 1920px);
+}

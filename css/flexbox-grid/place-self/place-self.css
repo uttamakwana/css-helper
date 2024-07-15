@@ -1,0 +1,46 @@
+/* PLACE SELF | css/flexbox-grid/place-self/place-self.css */
+
+.place-self-auto,
+.ps-auto {
+  place-self: auto;
+}
+
+.place-self-start,
+.ps-start {
+  place-self: start;
+}
+
+.place-self-flex-start,
+.ps-flex-start {
+  place-self: flex-start;
+}
+
+.place-self-end,
+.ps-end {
+  place-self: end;
+}
+
+.place-self-flex-end,
+.ps-flex-end {
+  place-self: flex-end;
+}
+
+.place-self-stretch,
+.ps-stretch {
+  place-self: stretch;
+}
+
+.place-self-initial,
+.ps-initial {
+  place-self: initial;
+}
+
+.place-self-inherit,
+.ps-inherit {
+  place-self: inherit;
+}
+
+.place-self-unset,
+.ps-unset {
+  place-self: unset;
+}

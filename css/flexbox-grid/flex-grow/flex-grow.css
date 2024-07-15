@@ -1,0 +1,31 @@
+/* FLEX GROW | css/flexbox-grid/flex-grow/flex-grow.css */
+
+.flex-grow-0,
+.fg-0,
+.grow-0 {
+  flex-grow: 0;
+}
+
+.flex-grow-1,
+.fg-1,
+.grow-1 {
+  flex-grow: 1;
+}
+
+.flex-grow-initial,
+.fg-initial,
+.grow-initial {
+  flex-grow: initial;
+}
+
+.flex-grow-inherit,
+.fg-inherit,
+.grow-inherit {
+  flex-grow: inherit;
+}
+
+.flex-grow-unset,
+.fg-unset,
+.grow-unset {
+  flex-grow: unset;
+}

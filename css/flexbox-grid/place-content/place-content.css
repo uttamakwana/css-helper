@@ -1,0 +1,66 @@
+/* PLACE CONTENT | css/flexbox-grid/place-content/place-content.css */
+
+.place-content-center,
+.pc-center {
+  place-content: center;
+}
+
+.place-content-start,
+.pc-start {
+  place-content: start;
+}
+
+.place-content-flex-start,
+.pc-flex-start {
+  place-content: flex-start;
+}
+
+.place-content-end,
+.pc-end {
+  place-content: end;
+}
+
+.place-content-flex-end,
+.pc-flex-end {
+  place-content: flex-end;
+}
+
+.place-content-space-between,
+.pc-space-between {
+  place-content: space-between;
+}
+
+.place-content-space-around,
+.pc-space-around {
+  place-content: space-around;
+}
+
+.place-content-space-evenly,
+.pc-space-evenly {
+  place-content: space-evenly;
+}
+
+.place-content-baseline,
+.pc-baseline {
+  place-content: baseline;
+}
+
+.place-content-stretch,
+.pc-stretch {
+  place-content: stretch;
+}
+
+.place-content-initial,
+.pc-initial {
+  place-content: initial;
+}
+
+.place-content-inherit,
+.pc-inherit {
+  place-content: inherit;
+}
+
+.place-content-unset,
+.pc-unset {
+  place-content: unset;
+}
