@@ -1,0 +1,34 @@
+/* TEXT OVERFLOW | css/typography/text-overflow/text-overflow.css */
+
+.text-overflow-ellipsis,
+.to-ellipsis {
+  text-overflow: ellipsis;
+}
+
+.text-overflow-clip,
+.to-clip {
+  text-overflow: clip;
+}
+
+.text-overflow-truncate,
+.text-truncate,
+.to-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.text-overflow-initial,
+.to-initial {
+  text-overflow: initial;
+}
+
+.text-overflow-inherit,
+.to-inherit {
+  text-overflow: inherit;
+}
+
+.text-overflow-unset,
+.to-unset {
+  text-overflow: unset;
+}

@@ -1,0 +1,50 @@
+/* BACKGROUND REPEAT | css/typography/background-repeat/background-repeat.css */
+
+.background-repeat-repeat,
+.bg-repeat-repeat,
+.bg-repeat {
+  background-repeat: repeat;
+}
+
+.background-repeat-no-repeat,
+.bg-repeat-no-repeat,
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.background-repeat-repeat-x,
+.bg-repeat-repeat-x,
+.bg-repeat-x {
+  background-repeat: repeat-x;
+}
+
+.background-repeat-repeat-y,
+.bg-repeat-repeat-y,
+.bg-repeat-y {
+  background-repeat: repeat-y;
+}
+
+.background-repeat-repeat-round,
+.bg-repeat-round {
+  background-repeat: round;
+}
+
+.background-repeat-repeat-space,
+.bg-repeat-space {
+  background-repeat: space;
+}
+
+.background-repeat-repeat-initial,
+.bg-repeat-initial {
+  background-repeat: initial;
+}
+
+.background-repeat-repeat-inherit,
+.bg-repeat-inherit {
+  background-repeat: inherit;
+}
+
+.background-repeat-repeat-unset,
+.bg-repeat-unset {
+  background-repeat: unset;
+}

@@ -1,0 +1,102 @@
+/* BORDER WIDTH | css/borders/border-width/border-width.css */
+
+.border-width-0,
+.bw-0 {
+  border-width: var(--size-0);
+}
+
+.border-width-1,
+.bw-1 {
+  border-width: var(--size-1);
+}
+
+.border-width-2,
+.bw-2 {
+  border-width: var(--size-2);
+}
+
+.border-width-3,
+.bw-3 {
+  border-width: var(--size-3);
+}
+
+.border-width-4,
+.bw-4 {
+  border-width: var(--size-4);
+}
+
+.border-width-8,
+.bw-8 {
+  border-width: var(--size-8);
+}
+
+.border-width-10,
+.bw-10 {
+  border-width: var(--size-10);
+}
+
+.border-width-16,
+.bw-16,
+.rounded-16 {
+  border-width: var(--size-16);
+}
+
+.border-width-20,
+.bw-20 {
+  border-width: var(--size-20);
+}
+
+.border-width-32,
+.bw-32 {
+  border-width: var(--size-32);
+}
+
+.border-width-48,
+.bw-48 {
+  border-width: var(--size-48);
+}
+
+.border-width-64,
+.bw-64 {
+  border-width: var(--size-64);
+}
+
+.border-width-80,
+.bw-80 {
+  border-width: var(--size-80);
+}
+
+.border-width-96,
+.bw-96 {
+  border-width: var(--size-96);
+}
+
+.border-width-50,
+.border-width-50pr,
+.bw-50,
+.bw-50pr,
+.rounded-50 {
+  border-width: 50%;
+}
+
+.border-width-100,
+.border-width-100pr,
+.bw-100,
+.bw-100pr {
+  border-width: 100%;
+}
+
+.border-width-initial,
+.bw-initial {
+  border-width: initial;
+}
+
+.border-width-inherit,
+.bw-inherit {
+  border-width: inherit;
+}
+
+.border-width-unset,
+.bw-unset {
+  border-width: unset;
+}

@@ -1,0 +1,25 @@
+/* HYPHENS | css/typography/hyphens/hyphens.css */
+
+.hyphens-none {
+  hyphens: none;
+}
+
+.hyphens-auto {
+  hyphens: auto;
+}
+
+.hyphens-manual {
+  hyphens: manual;
+}
+
+.hyphens-initial {
+  hyphens: initial;
+}
+
+.hyphens-inherit {
+  hyphens: inherit;
+}
+
+.hyphens-unset {
+  hyphens: unset;
+}

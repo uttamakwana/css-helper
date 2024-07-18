@@ -1,0 +1,71 @@
+/* TEXT DECORATION COLOR | css/typography/text-decoration-color/text-decoration-color.css */
+
+/* TEXT COLOR | css/typography/text-color/text-color.css */
+
+.text-decoration-color-transparent {
+  text-decoration-color: transparent;
+}
+
+.text-decoration-color-current {
+  text-decoration-color: currentColor;
+}
+
+.text-decoration-color-initial {
+  text-decoration-color: initial;
+}
+
+.text-decoration-color-inherit {
+  text-decoration-color: inherit;
+}
+
+.text-decoration-color-unset {
+  text-decoration-color: unset;
+}
+
+.text-decoration-color-white {
+  text-decoration-color: hsl(0, 0%, 100%);
+}
+
+.text-decoration-color-black {
+  text-decoration-color: hsl(0, 0%, 0%);
+}
+
+.text-decoration-color-grey {
+  text-decoration-color: hsl(0, 0%, 50%);
+}
+
+.text-decoration-color-red {
+  text-decoration-color: hsl(0, 100%, 50%);
+}
+
+.text-decoration-color-green {
+  text-decoration-color: hsl(120, 100%, 25%);
+}
+
+.text-decoration-color-blue {
+  text-decoration-color: hsl(240, 100%, 50%);
+}
+
+.text-decoration-color-yellow {
+  text-decoration-color: hsl(60, 100%, 50%);
+}
+
+.text-decoration-color-orange {
+  text-decoration-color: hsl(39, 100%, 50%);
+}
+
+.text-decoration-color-cyan {
+  text-decoration-color: hsl(180, 100%, 50%);
+}
+
+.text-decoration-color-magenta {
+  text-decoration-color: hsl(300, 100%, 50%);
+}
+
+.text-decoration-color-violet {
+  text-decoration-color: hsl(300, 76%, 72%);
+}
+
+.text-decoration-color-azure {
+  text-decoration-color: hsl(180, 100%, 97%);
+}

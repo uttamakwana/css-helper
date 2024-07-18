@@ -1,0 +1,31 @@
+/* LIST STYLE POSITION | css/typography/list-style-position/list-style-position.css */
+
+.list-style-position-inside,
+.lsp-inside,
+.list-inside {
+  list-style-position: inside;
+}
+
+.list-style-position-outside,
+.lsp-outside,
+.list-outside {
+  list-style-position: outside;
+}
+
+.list-style-position-initial,
+.lsp-initial,
+.list-initial {
+  list-style-position: initial;
+}
+
+.list-style-position-inherit,
+.lsp-inherit,
+.list-inherit {
+  list-style-position: inherit;
+}
+
+.list-style-position-unset,
+.lsp-unset,
+.list-unset {
+  list-style-position: unset;
+}

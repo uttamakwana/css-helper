@@ -1,0 +1,37 @@
+/* WORD BREAK | css/typography/word-break/word-break.css */
+
+.word-break-normal,
+.wb-normal {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.word-break-break-word,
+.wb-break-word {
+  word-break: break-word;
+}
+
+.word-break-break-all,
+.wb-break-all {
+  word-break: break-all;
+}
+
+.word-break-keep-all,
+.wb-keep-all {
+  word-break: keep-all;
+}
+
+.word-break-initial,
+.wb-initial {
+  word-break: initial;
+}
+
+.word-break-inherit,
+.wb-inherit {
+  word-break: inherit;
+}
+
+.word-break-unset,
+.wb-unset {
+  word-break: unset;
+}

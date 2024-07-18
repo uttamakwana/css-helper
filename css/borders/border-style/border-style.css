@@ -1,0 +1,46 @@
+/* BORDER STYLE | css/borders/border-style/border-style.css */
+
+.border-style-solid,
+.bs-solid {
+  border-style: solid;
+}
+
+.border-style-dashed,
+.bs-dashed {
+  border-style: dashed;
+}
+
+.border-style-dotted,
+.bs-dotted {
+  border-style: dotted;
+}
+
+.border-style-double,
+.bs-double {
+  border-style: double;
+}
+
+.border-style-hidden,
+.bs-hidden {
+  border-style: hidden;
+}
+
+.border-style-none,
+.bs-none {
+  border-style: none;
+}
+
+.border-style-initial,
+.bs-initial {
+  border-style: initial;
+}
+
+.border-style-inherit,
+.bs-inherit {
+  border-style: inherit;
+}
+
+.border-style-unset,
+.bs-unset {
+  border-style: unset;
+}

@@ -1,0 +1,56 @@
+/* VERTICAL ALIGN | css/typography/vertical-align/vertical-align.css */
+
+.vertical-align-baseline,
+.va-baseline {
+  vertical-align: baseline;
+}
+
+.vertical-align-top,
+.va-top {
+  vertical-align: top;
+}
+
+.vertical-align-middle,
+.va-middle {
+  vertical-align: middle;
+}
+
+.vertical-align-bottom,
+.va-bottom {
+  vertical-align: bottom;
+}
+
+.vertical-align-text-top,
+.va-text-top {
+  vertical-align: text-top;
+}
+
+.vertical-align-text-bottom,
+.va-text-bottom {
+  vertical-align: text-bottom;
+}
+
+.vertical-align-sub,
+.va-sub {
+  vertical-align: sub;
+}
+
+.vertical-align-super,
+.va-super {
+  vertical-align: super;
+}
+
+.vertical-align-initial,
+.va-initial {
+  vertical-align: initial;
+}
+
+.vertical-align-inherit,
+.va-inherit {
+  vertical-align: inherit;
+}
+
+.vertical-align-unset,
+.va-unset {
+  vertical-align: unset;
+}

@@ -91,6 +91,39 @@ const cssFiles = [
   "css/typography/font-weight/font-weight.css", // 5 | 5.5
   "css/typography/font-variant-numeric/font-variant-numeric.css", // 5 | 5.6
   "css/typography/letter-spacing/letter-spacing.css", // 5 | 5.7
+  "css/typography/line-clamp/line-clamp.css", // 5 | 5.8
+  "css/typography/line-height/line-height.css", // 5 | 5.9
+  "css/typography/list-style-position/list-style-position.css", // 5 | 5.10
+  "css/typography/list-style-type/list-style-type.css", // 5 | 5.11
+  "css/typography/text-align/text-align.css", // 5 | 5.12
+  "css/typography/text-color/text-color.css", // 5 | 5.13
+  "css/typography/text-decoration-line/text-decoration-line.css", // 5 | 5.14
+  "css/typography/text-decoration-color/text-decoration-color.css", // 5 | 5.15
+  "css/typography/text-decoration-style/text-decoration-style.css", // 5 | 5.16
+  "css/typography/text-decoration-thickness/text-decoration-thickness.css", // 5 | 5.17
+  "css/typography/text-underline-offset/text-underline-offset.css", // 5 | 5.18
+  "css/typography/text-transform/text-transform.css", // 5 | 5.19
+  "css/typography/text-overflow/text-overflow.css", // 5 | 5.20
+  "css/typography/text-wrap/text-wrap.css", // 5 | 5.21
+  "css/typography/text-indent/text-indent.css", // 5 | 5.22
+  "css/typography/vertical-align/vertical-align.css", // 5 | 5.23
+  "css/typography/white-space/white-space.css", // 5 | 5.24
+  "css/typography/word-break/word-break.css", // 5 | 5.25
+  "css/typography/hyphens/hyphens.css", // 5 | 5.26
+  "css/backgrounds/background-attachment/background-attachment.css", // 6 | 6.1
+  "css/backgrounds/background-clip/background-clip.css", // 6 | 6.2
+  "css/backgrounds/background-origin/background-origin.css", // 6 | 6.3
+  "css/backgrounds/background-position/background-position.css", // 6 | 6.4
+  "css/backgrounds/background-repeat/background-repeat.css", // 6 | 6.5
+  "css/backgrounds/background-size/background-size.css", // 6 | 6.6
+  "css/borders/border-radius/border-radius.css", // 7 | 7.1
+  "css/borders/border-width/border-width.css", // 7 | 7.2
+  "css/borders/border-color/border-color.css", // 7 | 7.3
+  "css/borders/border-style/border-style.css", // 7 | 7.4
+  "css/borders/outline-width/outline-width.css", // 7 | 7.5
+  "css/borders/outline-color/outline-color.css", // 7 | 7.6
+  "css/borders/outline-style/outline-style.css", // 7 | 7.7
+  "css/borders/outline-offset/outline-offset.css", // 7 | 7.8
 ];
 
 cssFiles.forEach((file) => {

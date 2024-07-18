@@ -1,0 +1,102 @@
+/* OUTLINE WIDTH | css/borders/outline-width/outline-width.css */
+
+.outline-width-0,
+.ow-0 {
+  outline-width: var(--size-0);
+}
+
+.outline-width-1,
+.ow-1 {
+  outline-width: var(--size-1);
+}
+
+.outline-width-2,
+.ow-2 {
+  outline-width: var(--size-2);
+}
+
+.outline-width-3,
+.ow-3 {
+  outline-width: var(--size-3);
+}
+
+.outline-width-4,
+.ow-4 {
+  outline-width: var(--size-4);
+}
+
+.outline-width-8,
+.ow-8 {
+  outline-width: var(--size-8);
+}
+
+.outline-width-10,
+.ow-10 {
+  outline-width: var(--size-10);
+}
+
+.outline-width-16,
+.ow-16,
+.rounded-16 {
+  outline-width: var(--size-16);
+}
+
+.outline-width-20,
+.ow-20 {
+  outline-width: var(--size-20);
+}
+
+.outline-width-32,
+.ow-32 {
+  outline-width: var(--size-32);
+}
+
+.outline-width-48,
+.ow-48 {
+  outline-width: var(--size-48);
+}
+
+.outline-width-64,
+.ow-64 {
+  outline-width: var(--size-64);
+}
+
+.outline-width-80,
+.ow-80 {
+  outline-width: var(--size-80);
+}
+
+.outline-width-96,
+.ow-96 {
+  outline-width: var(--size-96);
+}
+
+.outline-width-50,
+.outline-width-50pr,
+.ow-50,
+.ow-50pr,
+.rounded-50 {
+  outline-width: 50%;
+}
+
+.outline-width-100,
+.outline-width-100pr,
+.ow-100,
+.ow-100pr {
+  outline-width: 100%;
+}
+
+.outline-width-initial,
+.ow-initial {
+  outline-width: initial;
+}
+
+.outline-width-inherit,
+.ow-inherit {
+  outline-width: inherit;
+}
+
+.outline-width-unset,
+.ow-unset {
+  outline-width: unset;
+}

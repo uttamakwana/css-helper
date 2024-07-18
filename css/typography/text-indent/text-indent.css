@@ -1,0 +1,86 @@
+/* TEXT INDENT | css/typography/text-indent/text-indent.css */
+
+.text-indent-0,
+.ti-0 {
+  text-indent: var(--size-0);
+}
+
+.text-indent-1,
+.ti-1 {
+  text-indent: var(--size-1);
+}
+
+.text-indent-2,
+.ti-2 {
+  text-indent: var(--size-2);
+}
+
+.text-indent-3,
+.ti-3 {
+  text-indent: var(--size-3);
+}
+
+.text-indent-4,
+.ti-4 {
+  text-indent: var(--size-4);
+}
+
+.text-indent-8,
+.ti-8 {
+  text-indent: var(--size-8);
+}
+
+.text-indent-10,
+.ti-10 {
+  text-indent: var(--size-10);
+}
+
+.text-indent-16,
+.ti-16 {
+  text-indent: var(--size-16);
+}
+
+.text-indent-20,
+.ti-20 {
+  text-indent: var(--size-20);
+}
+
+.text-indent-32,
+.ti-32 {
+  text-indent: var(--size-32);
+}
+
+.text-indent-48,
+.ti-48 {
+  text-indent: var(--size-48);
+}
+
+.text-indent-64,
+.ti-64 {
+  text-indent: var(--size-64);
+}
+
+.text-indent-80,
+.ti-80 {
+  text-indent: var(--size-80);
+}
+
+.text-indent-96,
+.ti-96 {
+  text-indent: var(--size-96);
+}
+
+.text-indent-initial,
+.ti-initial {
+  text-indent: initial;
+}
+
+.text-indent-inherit,
+.ti-inherit {
+  text-indent: inherit;
+}
+
+.text-indent-unset,
+.ti-unset {
+  text-indent: unset;
+}

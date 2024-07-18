@@ -1,0 +1,31 @@
+/* BACKGROUND ATTACHMENT | css/backgrounds/background-attachment/background-attachment.css */
+
+.background-attachment-fixed,
+.bg-attachment-fixed {
+  background-attachment: fixed;
+}
+
+.background-attachment-scroll,
+.bg-attachment-scroll {
+  background-attachment: scroll;
+}
+
+.background-attachment-local,
+.bg-attachment-local {
+  background-attachment: local;
+}
+
+.background-attachment-initial,
+.bg-attachment-initial {
+  background-attachment: initial;
+}
+
+.background-attachment-inherit,
+.bg-attachment-inherit {
+  background-attachment: inherit;
+}
+
+.background-attachment-unset,
+.bg-attachment-unset {
+  background-attachment: unset;
+}

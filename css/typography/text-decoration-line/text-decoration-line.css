@@ -1,0 +1,36 @@
+/* TEXT DECORATION LINE | css/typography/text-decoration-line/text-decoration-line.css */
+
+.text-decoration-line-underline,
+.tdl-underline {
+  text-decoration-line: underline;
+}
+
+.text-decoration-line-overline,
+.tdl-overline {
+  text-decoration-line: overline;
+}
+
+.text-decoration-line-line-through,
+.tdl-line-through {
+  text-decoration-line: line-through;
+}
+
+.text-decoration-line-initial,
+.tdl-initial {
+  text-decoration-line: initial;
+}
+
+.text-decoration-line-inherit,
+.tdl-inherit {
+  text-decoration-line: inherit;
+}
+
+.text-decoration-line-none,
+.tdl-none {
+  text-decoration-line: none;
+}
+
+.text-decoration-line-unset,
+.tdl-unset {
+  text-decoration-line: unset;
+}

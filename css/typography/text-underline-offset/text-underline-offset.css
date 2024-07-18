@@ -1,0 +1,56 @@
+/* TEXT UNDERLINE OFFSET | css/typography/text-underline-offset/text-underline-offset.css */
+
+.text-underline-offset-auto,
+.tuo-auto {
+  text-underline-offset: auto;
+}
+
+.text-underline-offset-from-font,
+.tuo-from-font {
+  text-underline-offset: from-font;
+}
+
+.text-underline-offset-inherit,
+.tuo-inherit {
+  text-underline-offset: inherit;
+}
+
+.text-underline-offset-initial,
+.tuo-initial {
+  text-underline-offset: initial;
+}
+
+.text-underline-offset-unset,
+.tuo-unset {
+  text-underline-offset: unset;
+}
+
+.text-underline-offset-0,
+.tuo-0 {
+  text-underline-offset: var(--size-0);
+}
+
+.text-underline-offset-1,
+.tuo-1 {
+  text-underline-offset: var(--size-1);
+}
+
+.text-underline-offset-2,
+.tuo-2 {
+  text-underline-offset: var(--size-2);
+}
+
+.text-underline-offset-3,
+.tuo-3 {
+  text-underline-offset: var(--size-3);
+}
+
+.text-underline-offset-4,
+.tuo-4 {
+  text-underline-offset: var(--size-4);
+}
+
+.text-underline-offset-8,
+.tuo-8 {
+  text-underline-offset: var(--size-8);
+}

@@ -1,0 +1,41 @@
+/* TEXT DECORATION STYLE | css/typography/text-decoration-style/text-decoration-style.css */
+
+.text-decoration-style-solid,
+.tds-solid {
+  text-decoration-style: solid;
+}
+
+.text-decoration-style-double,
+.tds-double {
+  text-decoration-style: double;
+}
+
+.text-decoration-style-dotted,
+.tds-dotted {
+  text-decoration-style: dotted;
+}
+
+.text-decoration-style-dashed,
+.tds-dashed {
+  text-decoration-style: dashed;
+}
+
+.text-decoration-style-wavy,
+.tds-wavy {
+  text-decoration-style: wavy;
+}
+
+.text-decoration-style-initial,
+.tds-initial {
+  text-decoration-style: initial;
+}
+
+.text-decoration-style-inherit,
+.tds-inherit {
+  text-decoration-style: inherit;
+}
+
+.text-decoration-style-unset,
+.tds-unset {
+  text-decoration-style: unset;
+}

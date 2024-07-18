@@ -1,0 +1,31 @@
+/* TEXT WRAP | css/typography/text-wrap/text-wrap.css */
+
+.text-wrap-wrap,
+.tw-wrap {
+  text-wrap: wrap;
+}
+
+.text-wrap-nowrap,
+.tw-nowrap {
+  text-wrap: nowrap;
+}
+
+.text-wrap-balance,
+.tw-balance {
+  text-wrap: balance;
+}
+
+.text-wrap-pretty,
+.tw-pretty {
+  text-wrap: pretty;
+}
+
+.text-wrap-initial,
+.tw-initial {
+  text-wrap: initial;
+}
+
+.text-wrap-unset,
+.tw-unset {
+  text-wrap: unset;
+}

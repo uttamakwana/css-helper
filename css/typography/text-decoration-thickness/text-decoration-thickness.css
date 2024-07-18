@@ -1,0 +1,56 @@
+/* TEXT DECORATION THICKNESS | css/typography/text-decoration-thickness/text-decoration-thickness.css */
+
+.text-decoration-thickness-auto,
+.tdt-auto {
+  text-decoration-thickness: auto;
+}
+
+.text-decoration-thickness-from-font,
+.tdt-from-font {
+  text-decoration-thickness: from-font;
+}
+
+.text-decoration-thickness-inherit,
+.tdt-inherit {
+  text-decoration-thickness: inherit;
+}
+
+.text-decoration-thickness-initial,
+.tdt-initial {
+  text-decoration-thickness: initial;
+}
+
+.text-decoration-thickness-unset,
+.tdt-unset {
+  text-decoration-thickness: unset;
+}
+
+.text-decoration-thickness-0,
+.tdt-0 {
+  text-decoration-thickness: var(--size-0);
+}
+
+.text-decoration-thickness-1,
+.tdt-1 {
+  text-decoration-thickness: var(--size-1);
+}
+
+.text-decoration-thickness-2,
+.tdt-2 {
+  text-decoration-thickness: var(--size-2);
+}
+
+.text-decoration-thickness-3,
+.tdt-3 {
+  text-decoration-thickness: var(--size-3);
+}
+
+.text-decoration-thickness-4,
+.tdt-4 {
+  text-decoration-thickness: var(--size-4);
+}
+
+.text-decoration-thickness-8,
+.tdt-8 {
+  text-decoration-thickness: var(--size-8);
+}

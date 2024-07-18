@@ -1,0 +1,61 @@
+/* BACKGROUND POSITION | css/backgrounds/background-position/background-position.css */
+
+.background-position-bottom,
+.bg-position-bottom {
+  background-position: bottom;
+}
+
+.background-position-center,
+.bg-position-center {
+  background-position: center;
+}
+
+.background-position-left,
+.bg-position-left {
+  background-position: left;
+}
+
+.background-position-right,
+.bg-position-right {
+  background-position: right;
+}
+
+.background-position-left-bottom,
+.bg-position-left-bottom {
+  background-position: left bottom;
+}
+
+.background-position-left-top,
+.bg-position-left-top {
+  background-position: left top;
+}
+
+.background-position-right-bottom,
+.bg-position-right-bottom {
+  background-position: right bottom;
+}
+
+.background-position-right-top,
+.bg-position-right-top {
+  background-position: right top;
+}
+
+.background-position-top,
+.bg-position-top {
+  background-position: top;
+}
+
+.background-position-initial,
+.bg-position-initial {
+  background-position: initial;
+}
+
+.background-position-inherit,
+.bg-position-inherit {
+  background-position: inherit;
+}
+
+.background-position-unset,
+.bg-position-unset {
+  background-position: unset;
+}

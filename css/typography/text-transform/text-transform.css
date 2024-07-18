@@ -1,0 +1,36 @@
+/* TEXT TRANSFORM | css/typography/text-transform/text-transform.css */
+
+.text-transform-uppercase,
+.tt-uppercase {
+  text-transform: uppercase;
+}
+
+.text-transform-lowercase,
+.tt-lowercase {
+  text-transform: lowercase;
+}
+
+.text-transform-capitalize,
+.tt-capitalize {
+  text-transform: capitalize;
+}
+
+.text-transform-none,
+.tt-none {
+  text-transform: none;
+}
+
+.text-transform-initial,
+.tt-initial {
+  text-transform: initial;
+}
+
+.text-transform-inherit,
+.tt-inherit {
+  text-transform: inherit;
+}
+
+.text-transform-unset,
+.tt-unset {
+  text-transform: unset;
+}

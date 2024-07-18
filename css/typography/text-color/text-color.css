@@ -1,0 +1,69 @@
+/* TEXT COLOR | css/typography/text-color/text-color.css */
+
+.text-transparent {
+  color: transparent;
+}
+
+.text-current {
+  color: currentColor;
+}
+
+.text-initial {
+  color: initial;
+}
+
+.text-inherit {
+  color: inherit;
+}
+
+.text-unset {
+  color: unset;
+}
+
+.text-white {
+  color: hsl(0, 0%, 100%);
+}
+
+.text-black {
+  color: hsl(0, 0%, 0%);
+}
+
+.text-grey {
+  color: hsl(0, 0%, 50%);
+}
+
+.text-red {
+  color: hsl(0, 100%, 50%);
+}
+
+.text-green {
+  color: hsl(120, 100%, 25%);
+}
+
+.text-blue {
+  color: hsl(240, 100%, 50%);
+}
+
+.text-yellow {
+  color: hsl(60, 100%, 50%);
+}
+
+.text-orange {
+  color: hsl(39, 100%, 50%);
+}
+
+.text-cyan {
+  color: hsl(180, 100%, 50%);
+}
+
+.text-magenta {
+  color: hsl(300, 100%, 50%);
+}
+
+.text-violet {
+  color: hsl(300, 76%, 72%);
+}
+
+.text-azure {
+  color: hsl(180, 100%, 97%);
+}

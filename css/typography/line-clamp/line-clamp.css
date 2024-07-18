@@ -1,0 +1,91 @@
+/* LINE CLAMP | css/typography/line-clamp/line-clamp.css */
+
+.line-clamp-1,
+.lc-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+}
+
+.line-clamp-2,
+.lc-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+
+.line-clamp-3,
+.lc-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+}
+
+.line-clamp-4,
+.lc-4 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+}
+
+.line-clamp-5,
+.lc-5 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+}
+
+.line-clamp-6,
+.lc-6 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+  line-clamp: 6;
+}
+
+.line-clamp-none,
+.lc-none {
+  overflow: visible;
+  display: block;
+  -webkit-box-orient: horizontal;
+  -webkit-line-clamp: none;
+  line-clamp: none;
+}
+
+.line-clamp-initial,
+.lc-initial {
+  overflow: initial;
+  display: initial;
+  -webkit-box-orient: initial;
+  -webkit-line-clamp: initial;
+  line-clamp: initial;
+}
+
+.line-clamp-inherit,
+.lc-inherit {
+  overflow: inherit;
+  display: inherit;
+  -webkit-box-orient: inherit;
+  -webkit-line-clamp: inherit;
+  line-clamp: inherit;
+}
+
+.line-clamp-unset,
+.lc-unset {
+  overflow: unset;
+  display: unset;
+  -webkit-box-orient: unset;
+  -webkit-line-clamp: unset;
+  line-clamp: unset;
+}

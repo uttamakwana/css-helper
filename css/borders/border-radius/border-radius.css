@@ -1,0 +1,126 @@
+/* BORDER RADIUS | css/borders/border-radius.css */
+
+.border-radius-0,
+.br-0,
+.rounded-0 {
+  border-radius: var(--size-0);
+}
+
+.border-radius-1,
+.br-1,
+.rounded-1 {
+  border-radius: var(--size-1);
+}
+
+.border-radius-2,
+.br-2,
+.rounded-2 {
+  border-radius: var(--size-2);
+}
+
+.border-radius-3,
+.br-3,
+.rounded-3 {
+  border-radius: var(--size-3);
+}
+
+.border-radius-4,
+.br-4,
+.rounded-4 {
+  border-radius: var(--size-4);
+}
+
+.border-radius-8,
+.br-8,
+.rounded-8 {
+  border-radius: var(--size-8);
+}
+
+.border-radius-10,
+.br-10,
+.rounded-10 {
+  border-radius: var(--size-10);
+}
+
+.border-radius-16,
+.br-16,
+.rounded-16,
+.rounded-full {
+  border-radius: var(--size-16);
+}
+
+.border-radius-20,
+.br-20,
+.rounded-20 {
+  border-radius: var(--size-20);
+}
+
+.border-radius-32,
+.br-32,
+.rounded-32 {
+  border-radius: var(--size-32);
+}
+
+.border-radius-48,
+.br-48,
+.rounded-48 {
+  border-radius: var(--size-48);
+}
+
+.border-radius-64,
+.br-64,
+.rounded-64 {
+  border-radius: var(--size-64);
+}
+
+.border-radius-80,
+.br-80,
+.rounded-80 {
+  border-radius: var(--size-80);
+}
+
+.border-radius-96,
+.br-96,
+.rounded-96 {
+  border-radius: var(--size-96);
+}
+
+.border-radius-50,
+.border-radius-50pr,
+.br-50,
+.br-50pr,
+.rounded-50,
+.rounded-50pr {
+  border-radius: 50%;
+}
+
+.border-radius-100,
+.border-radius-100pr,
+.br-100,
+.br-100pr,
+.rounded-100,
+.rounded-100pr {
+  border-radius: 100%;
+}
+
+.oval {
+  border-radius: 100vmax;
+}
+
+.border-radius-initial,
+.br-initial,
+.rounded-initial {
+  border-radius: initial;
+}
+
+.border-radius-inherit,
+.br-inherit,
+.rounded-inherit {
+  border-radius: inherit;
+}
+
+.border-radius-unset,
+.br-unset,
+.rounded-unset {
+  border-radius: unset;
+}

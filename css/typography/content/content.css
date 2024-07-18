@@ -1,0 +1,17 @@
+/* CONTENT | css/typography/content/content.css */
+
+.content-none {
+  content: none;
+}
+
+.content-initial {
+  content: initial;
+}
+
+.content-inherit {
+  content: inherit;
+}
+
+.content-unset {
+  content: unset;
+}

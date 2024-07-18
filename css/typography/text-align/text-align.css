@@ -1,0 +1,55 @@
+/* TEXT ALIGN | css/typography/text-align/text-align.css */
+
+.text-align-center,
+.ta-center,
+.text-center {
+  text-align: center;
+}
+
+.text-align-left,
+.ta-left,
+.text-left {
+  text-align: left;
+}
+
+.text-align-right,
+.ta-right,
+.text-right {
+  text-align: right;
+}
+
+.text-align-justify,
+.ta-justify,
+.text-justify {
+  text-align: justify;
+}
+
+.text-align-start,
+.ta-start,
+.text-start {
+  text-align: start;
+}
+
+.text-align-end,
+.ta-end,
+.text-end {
+  text-align: end;
+}
+
+.text-align-initial,
+.ta-initial,
+.text-align-initial {
+  text-align: initial;
+}
+
+.text-align-inherit,
+.ta-inherit,
+.text-align-inherit {
+  text-align: inherit;
+}
+
+.text-align-unset,
+.ta-unset,
+.text-align-unset {
+  text-align: unset;
+}

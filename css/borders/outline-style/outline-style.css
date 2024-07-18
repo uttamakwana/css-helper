@@ -1,0 +1,46 @@
+/* OUTLINE STYLE | css/outlines/outline-style/outline-style.css */
+
+.outline-style-solid,
+.os-solid {
+  outline-style: solid;
+}
+
+.outline-style-dashed,
+.os-dashed {
+  outline-style: dashed;
+}
+
+.outline-style-dotted,
+.os-dotted {
+  outline-style: dotted;
+}
+
+.outline-style-double,
+.os-double {
+  outline-style: double;
+}
+
+.outline-style-hidden,
+.os-hidden {
+  outline-style: hidden;
+}
+
+.outline-style-none,
+.os-none {
+  outline-style: none;
+}
+
+.outline-style-initial,
+.os-initial {
+  outline-style: initial;
+}
+
+.outline-style-inherit,
+.os-inherit {
+  outline-style: inherit;
+}
+
+.outline-style-unset,
+.os-unset {
+  outline-style: unset;
+}

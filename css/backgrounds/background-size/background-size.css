@@ -1,0 +1,31 @@
+/* BACKGROUND SIZE | css/backgrounds/background-size/background-size.css */
+
+.background-size-auto,
+.bg-size-auto {
+  background-size: auto;
+}
+
+.background-size-cover,
+.bg-size-cover {
+  background-size: cover;
+}
+
+.background-size-contain,
+.bg-size-contain {
+  background-size: contain;
+}
+
+.background-size-initial,
+.bg-size-initial {
+  background-size: initial;
+}
+
+.background-size-inherit,
+.bg-size-inherit {
+  background-size: inherit;
+}
+
+.background-size-unset,
+.bg-size-unset {
+  background-size: unset;
+}

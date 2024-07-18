@@ -1,0 +1,31 @@
+/* BACKGROUND ORIGIN | css/backgrounds/background-origin/background-origin.css */
+
+.background-origin-border-box,
+.bg-origin-border-box {
+  background-origin: border-box;
+}
+
+.background-origin-padding-box,
+.bg-origin-padding-box {
+  background-origin: padding-box;
+}
+
+.background-origin-content-box,
+.bg-origin-content-box {
+  background-origin: content-box;
+}
+
+.background-origin-initial,
+.bg-origin-initial {
+  background-origin: initial;
+}
+
+.background-origin-inherit,
+.bg-origin-inherit {
+  background-origin: inherit;
+}
+
+.background-origin-unset,
+.bg-origin-unset {
+  background-origin: unset;
+}
