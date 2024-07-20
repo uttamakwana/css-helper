@@ -1,0 +1,31 @@
+/* RESIZE | css/interactivity/resize/resize.css */
+
+.resize-both {
+  resize: both;
+}
+
+.resize-vertical,
+.resize-y {
+  resize: vertical;
+}
+
+.resize-horizontal,
+.resize-x {
+  resize: horizontal;
+}
+
+.resize-none {
+  resize: none;
+}
+
+.resize-initial {
+  resize: initial;
+}
+
+.resize-inherit {
+  resize: inherit;
+}
+
+.resize-unset {
+  resize: unset;
+}

@@ -36,8 +36,7 @@
 }
 
 .border-width-16,
-.bw-16,
-.rounded-16 {
+.bw-16 {
   border-width: var(--size-16);
 }
 
@@ -74,8 +73,7 @@
 .border-width-50,
 .border-width-50pr,
 .bw-50,
-.bw-50pr,
-.rounded-50 {
+.bw-50pr {
   border-width: 50%;
 }
 

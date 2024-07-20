@@ -1,0 +1,36 @@
+/* SCROLL SNAP TYPE | css/interactivity/scroll-snap-type/scroll-snap-type.css */
+
+.scroll-snap-type-none,
+.sst-none {
+  scroll-snap-type: none;
+}
+
+.scroll-snap-type-both,
+.sst-both {
+  scroll-snap-type: both;
+}
+
+.scroll-snap-type-mandatory,
+.sst-mandatory {
+  scroll-snap-type: mandatory;
+}
+
+.scroll-snap-type-proximity,
+.sst-proximity {
+  scroll-snap-type: proximity;
+}
+
+.scroll-snap-type-initial,
+.sst-initial {
+  scroll-snap-type: initial;
+}
+
+.scroll-snap-type-inherit,
+.sst-inherit {
+  scroll-snap-type: inherit;
+}
+
+.scroll-snap-type-unset,
+.sst-unset {
+  scroll-snap-type: unset;
+}

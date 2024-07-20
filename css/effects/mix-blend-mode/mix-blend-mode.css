@@ -1,0 +1,101 @@
+/* MIX BLEND MODE | css/effects/mix-blend-mode/mix-blend-mode.css */
+
+.mix-blend-mode-normal,
+.mbm-normal {
+  mix-blend-mode: normal;
+}
+
+.mix-blend-mode-multiply,
+.mbm-multiply {
+  mix-blend-mode: multiply;
+}
+
+.mix-blend-mode-screen,
+.mbm-screen {
+  mix-blend-mode: screen;
+}
+
+.mix-blend-mode-overlay,
+.mbm-overlay {
+  mix-blend-mode: overlay;
+}
+
+.mix-blend-mode-darken,
+.mbm-darken {
+  mix-blend-mode: darken;
+}
+
+.mix-blend-mode-lighten,
+.mbm-lighten {
+  mix-blend-mode: lighten;
+}
+
+.mix-blend-mode-color-dodge,
+.mbm-color-dodge {
+  mix-blend-mode: color-dodge;
+}
+
+.mix-blend-mode-color-burn,
+.mbm-color-burn {
+  mix-blend-mode: color-burn;
+}
+
+.mix-blend-mode-hard-light,
+.mbm-hard-light {
+  mix-blend-mode: hard-light;
+}
+
+.mix-blend-mode-soft-light,
+.mbm-soft-light {
+  mix-blend-mode: soft-light;
+}
+
+.mix-blend-mode-difference,
+.mbm-difference {
+  mix-blend-mode: difference;
+}
+
+.mix-blend-mode-exclusion,
+.mbm-exclusion {
+  mix-blend-mode: exclusion;
+}
+
+.mix-blend-mode-hue,
+.mbm-hue {
+  mix-blend-mode: hue;
+}
+
+.mix-blend-mode-color,
+.mbm-color {
+  mix-blend-mode: color;
+}
+
+.mix-blend-mode-luminosity,
+.mbm-luminosity {
+  mix-blend-mode: luminosity;
+}
+
+.mix-blend-mode-plus-darker,
+.mbm-plus-darker {
+  mix-blend-mode: plus-darker;
+}
+
+.mix-blend-mode-plus-lighter,
+.mbm-plus-lighter {
+  mix-blend-mode: plus-lighter;
+}
+
+.mix-blend-mode-initial,
+.mbm-initial {
+  mix-blend-mode: initial;
+}
+
+.mix-blend-mode-inherit,
+.mbm-inherit {
+  mix-blend-mode: inherit;
+}
+
+.mix-blend-mode-unset,
+.mbm-unset {
+  mix-blend-mode: unset;
+}

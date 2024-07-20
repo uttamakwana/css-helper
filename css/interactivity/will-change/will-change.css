@@ -1,0 +1,29 @@
+/* WILL CHANGE | css/interactivity/will-change/will-change.css */
+
+.will-change-auto {
+  will-change: auto;
+}
+
+.will-change-scroll-position {
+  will-change: scroll-position;
+}
+
+.will-change-contents {
+  will-change: contents;
+}
+
+.will-change-transform {
+  will-change: transform;
+}
+
+.will-change-initial {
+  will-change: initial;
+}
+
+.will-change-inherit {
+  will-change: inherit;
+}
+
+.will-change-unset {
+  will-change: unset;
+}

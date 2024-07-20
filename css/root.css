@@ -1,3 +1,12 @@
+/* ROOT VARIABLES OF COLORS */
+@import url("css/colors/root.css");
+/* ROOT VARIABLE OF CONTAINER */
+@import url("css/layout/container/root.css");
+/* ROOT VARIABLES OF COLUMNS */
+@import url("css/layout/columns/root.css");
+/* ROOT VARIABLES OF TOP RIGHT BOTTOM LEFT */
+@import url("css/layout/top-right-bottom-left/root.css");
+
 /* ROOT VARIABLES | css/root.css */
 
 /* ROOT VARIABLES OF SIZING */
@@ -18,12 +27,3 @@
   --size-80: calc(var(--base, 16px) * 5);
   --size-96: calc(var(--base, 16px) * 6);
 }
-
-/* ROOT VARIABLES OF COLORS */
-@import url("./colors/root.css");
-/* ROOT VARIABLE OF CONTAINER */
-@import url("layout/container/root.css");
-/* ROOT VARIABLES OF COLUMNS */
-@import url("layout/columns/root.css");
-/* ROOT VARIABLES OF TOP RIGHT BOTTOM LEFT */
-@import url("layout/top-right-bottom-left/root.css");

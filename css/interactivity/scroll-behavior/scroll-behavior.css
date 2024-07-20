@@ -1,0 +1,26 @@
+/* SCROLL BEHAVIOR | css/interactivity/scroll-behavior/scroll-behavior.css */
+
+.scroll-behavior-smooth,
+.sb-smooth {
+  scroll-behavior: smooth;
+}
+
+.scroll-behavior-auto,
+.sb-auto {
+  scroll-behavior: auto;
+}
+
+.scroll-behavior-initial,
+.sb-initial {
+  scroll-behavior: initial;
+}
+
+.scroll-behavior-inherit,
+.sb-inherit {
+  scroll-behavior: inherit;
+}
+
+.scroll-behavior-unset,
+.sb-unset {
+  scroll-behavior: unset;
+}

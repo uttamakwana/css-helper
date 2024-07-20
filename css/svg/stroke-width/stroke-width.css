@@ -1,0 +1,100 @@
+/* STROKE WIDTH | css/svg/stroke-width/stroke-width.css */
+
+.stroke-width-0,
+.sw-0 {
+  stroke-width: var(--size-0);
+}
+
+.stroke-width-1,
+.sw-1 {
+  stroke-width: var(--size-1);
+}
+
+.stroke-width-2,
+.sw-2 {
+  stroke-width: var(--size-2);
+}
+
+.stroke-width-3,
+.sw-3 {
+  stroke-width: var(--size-3);
+}
+
+.stroke-width-4,
+.sw-4 {
+  stroke-width: var(--size-4);
+}
+
+.stroke-width-8,
+.sw-8 {
+  stroke-width: var(--size-8);
+}
+
+.stroke-width-10,
+.sw-10 {
+  stroke-width: var(--size-10);
+}
+
+.stroke-width-16,
+.sw-16 {
+  stroke-width: var(--size-16);
+}
+
+.stroke-width-20,
+.sw-20 {
+  stroke-width: var(--size-20);
+}
+
+.stroke-width-32,
+.sw-32 {
+  stroke-width: var(--size-32);
+}
+
+.stroke-width-48,
+.sw-48 {
+  stroke-width: var(--size-48);
+}
+
+.stroke-width-64,
+.sw-64 {
+  stroke-width: var(--size-64);
+}
+
+.stroke-width-80,
+.sw-80 {
+  stroke-width: var(--size-80);
+}
+
+.stroke-width-96,
+.sw-96 {
+  stroke-width: var(--size-96);
+}
+
+.stroke-width-50,
+.stroke-width-50pr,
+.sw-50,
+.sw-50pr {
+  stroke-width: 50%;
+}
+
+.stroke-width-100,
+.stroke-width-100pr,
+.sw-100,
+.sw-100pr {
+  stroke-width: 100%;
+}
+
+.stroke-width-initial,
+.sw-initial {
+  stroke-width: initial;
+}
+
+.stroke-width-inherit,
+.sw-inherit {
+  stroke-width: inherit;
+}
+
+.stroke-width-unset,
+.sw-unset {
+  stroke-width: unset;
+}

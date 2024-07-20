@@ -1,0 +1,52 @@
+/* POINTER EVENTS | css/interactivity/pointer-events/pointer-events.css */
+
+.pointer-events-none {
+  pointer-events: none;
+}
+
+.pointer-events-auto {
+  pointer-events: auto;
+}
+
+.pointer-events-all {
+  pointer-events: all;
+}
+
+.pointer-events-painted {
+  pointer-events: painted;
+}
+
+.pointer-events-stroke {
+  pointer-events: stroke;
+}
+
+.pointer-events-visible {
+  pointer-events: visible;
+}
+
+.pointer-events-visibleFill,
+.pointer-events-visible-fill {
+  pointer-events: visibleFill;
+}
+
+.pointer-events-visiblePainted,
+.pointer-events-visible-painted {
+  pointer-events: visiblePainted;
+}
+
+.pointer-events-visibleStroke,
+.pointer-events-visible-stroke {
+  pointer-events: visibleStroke;
+}
+
+.pointer-events-initial {
+  pointer-events: initial;
+}
+
+.pointer-events-inherit {
+  pointer-events: inherit;
+}
+
+.pointer-events-unset {
+  pointer-events: unset;
+}

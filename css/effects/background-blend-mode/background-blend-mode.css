@@ -1,0 +1,101 @@
+/* BACKGROUND BLEND MODE | css/effects/background-blend-mode/background-blend-mode.css */
+
+.background-blend-mode-normal,
+.bbm-normal {
+  background-blend-mode: normal;
+}
+
+.background-blend-mode-multiply,
+.bbm-multiply {
+  background-blend-mode: multiply;
+}
+
+.background-blend-mode-screen,
+.bbm-screen {
+  background-blend-mode: screen;
+}
+
+.background-blend-mode-overlay,
+.bbm-overlay {
+  background-blend-mode: overlay;
+}
+
+.background-blend-mode-darken,
+.bbm-darken {
+  background-blend-mode: darken;
+}
+
+.background-blend-mode-lighten,
+.bbm-lighten {
+  background-blend-mode: lighten;
+}
+
+.background-blend-mode-color-dodge,
+.bbm-color-dodge {
+  background-blend-mode: color-dodge;
+}
+
+.background-blend-mode-color-burn,
+.bbm-color-burn {
+  background-blend-mode: color-burn;
+}
+
+.background-blend-mode-hard-light,
+.bbm-hard-light {
+  background-blend-mode: hard-light;
+}
+
+.background-blend-mode-soft-light,
+.bbm-soft-light {
+  background-blend-mode: soft-light;
+}
+
+.background-blend-mode-difference,
+.bbm-difference {
+  background-blend-mode: difference;
+}
+
+.background-blend-mode-exclusion,
+.bbm-exclusion {
+  background-blend-mode: exclusion;
+}
+
+.background-blend-mode-hue,
+.bbm-hue {
+  background-blend-mode: hue;
+}
+
+.background-blend-mode-color,
+.bbm-color {
+  background-blend-mode: color;
+}
+
+.background-blend-mode-luminosity,
+.bbm-luminosity {
+  background-blend-mode: luminosity;
+}
+
+.background-blend-mode-plus-darker,
+.bbm-plus-darker {
+  background-blend-mode: plus-darker;
+}
+
+.background-blend-mode-plus-lighter,
+.bbm-plus-lighter {
+  background-blend-mode: plus-lighter;
+}
+
+.background-blend-mode-initial,
+.bbm-initial {
+  background-blend-mode: initial;
+}
+
+.background-blend-mode-inherit,
+.bbm-inherit {
+  background-blend-mode: inherit;
+}
+
+.background-blend-mode-unset,
+.bbm-unset {
+  background-blend-mode: unset;
+}

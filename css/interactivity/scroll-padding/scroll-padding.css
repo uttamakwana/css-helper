@@ -1,0 +1,596 @@
+/* SCROLL PADDING | css/interactivity/scroll-padding/scroll-padding.css */
+
+.scroll-padding-0,
+.sp-0 {
+  scroll-padding: var(--size-0);
+}
+
+.scroll-padding-1,
+.sp-1 {
+  scroll-padding: var(--size-1);
+}
+
+.scroll-padding-2,
+.sp-2 {
+  scroll-padding: var(--size-2);
+}
+
+.scroll-padding-3,
+.sp-3 {
+  scroll-padding: var(--size-3);
+}
+
+.scroll-padding-4,
+.sp-4 {
+  scroll-padding: var(--size-4);
+}
+
+.scroll-padding-8,
+.sp-8 {
+  scroll-padding: var(--size-8);
+}
+
+.scroll-padding-10,
+.sp-10 {
+  scroll-padding: var(--size-10);
+}
+
+.scroll-padding-16,
+.sp-16 {
+  scroll-padding: var(--size-16);
+}
+
+.scroll-padding-20,
+.sp-20 {
+  scroll-padding: var(--size-20);
+}
+
+.scroll-padding-32,
+.sp-32 {
+  scroll-padding: var(--size-32);
+}
+
+.scroll-padding-48,
+.sp-48 {
+  scroll-padding: var(--size-48);
+}
+
+.scroll-padding-64,
+.sp-64 {
+  scroll-padding: var(--size-64);
+}
+
+.scroll-padding-80,
+.sp-80 {
+  scroll-padding: var(--size-80);
+}
+
+.scroll-padding-96,
+.sp-96 {
+  scroll-padding: var(--size-96);
+}
+
+.scroll-padding-initial,
+.sp-initial {
+  scroll-padding: initial;
+}
+
+.scroll-padding-inherit,
+.sp-inherit {
+  scroll-padding: inherit;
+}
+
+.scroll-padding-unset,
+.sp-unset {
+  scroll-padding: unset;
+}
+
+.scroll-padding-inline-0,
+.px-0 {
+  scroll-padding-inline: var(--size-0);
+}
+
+.scroll-padding-inline-1,
+.px-1 {
+  scroll-padding-inline: var(--size-1);
+}
+
+.scroll-padding-inline-2,
+.px-2 {
+  scroll-padding-inline: var(--size-2);
+}
+
+.scroll-padding-inline-3,
+.px-3 {
+  scroll-padding-inline: var(--size-3);
+}
+
+.scroll-padding-inline-4,
+.px-4 {
+  scroll-padding-inline: var(--size-4);
+}
+
+.scroll-padding-inline-8,
+.px-8 {
+  scroll-padding-inline: var(--size-8);
+}
+
+.scroll-padding-inline-10,
+.px-10 {
+  scroll-padding-inline: var(--size-10);
+}
+
+.scroll-padding-inline-16,
+.px-16 {
+  scroll-padding-inline: var(--size-16);
+}
+
+.scroll-padding-inline-20,
+.px-20 {
+  scroll-padding-inline: var(--size-20);
+}
+
+.scroll-padding-inline-32,
+.px-32 {
+  scroll-padding-inline: var(--size-32);
+}
+
+.scroll-padding-inline-48,
+.px-48 {
+  scroll-padding-inline: var(--size-48);
+}
+
+.scroll-padding-inline-64,
+.px-64 {
+  scroll-padding-inline: var(--size-64);
+}
+
+.scroll-padding-inline-80,
+.px-80 {
+  scroll-padding-inline: var(--size-80);
+}
+
+.scroll-padding-inline-96,
+.px-96 {
+  scroll-padding-inline: var(--size-96);
+}
+
+.scroll-padding-inline-initial,
+.px-initial {
+  scroll-padding-inline: initial;
+}
+
+.scroll-padding-inline-inherit,
+.px-inherit {
+  scroll-padding-inline: inherit;
+}
+
+.scroll-padding-inline-unset,
+.px-unset {
+  scroll-padding-inline: unset;
+}
+
+.scroll-padding-block-0,
+.py-0 {
+  scroll-padding-block: var(--size-0);
+}
+
+.scroll-padding-block-1,
+.py-1 {
+  scroll-padding-block: var(--size-1);
+}
+
+.scroll-padding-block-2,
+.py-2 {
+  scroll-padding-block: var(--size-2);
+}
+
+.scroll-padding-block-3,
+.py-3 {
+  scroll-padding-block: var(--size-3);
+}
+
+.scroll-padding-block-4,
+.py-4 {
+  scroll-padding-block: var(--size-4);
+}
+
+.scroll-padding-block-8,
+.py-8 {
+  scroll-padding-block: var(--size-8);
+}
+
+.scroll-padding-block-10,
+.py-10 {
+  scroll-padding-block: var(--size-10);
+}
+
+.scroll-padding-block-16,
+.py-16 {
+  scroll-padding-block: var(--size-16);
+}
+
+.scroll-padding-block-20,
+.py-20 {
+  scroll-padding-block: var(--size-20);
+}
+
+.scroll-padding-block-32,
+.py-32 {
+  scroll-padding-block: var(--size-32);
+}
+
+.scroll-padding-block-48,
+.py-48 {
+  scroll-padding-block: var(--size-48);
+}
+
+.scroll-padding-block-64,
+.py-64 {
+  scroll-padding-block: var(--size-64);
+}
+
+.scroll-padding-block-80,
+.py-80 {
+  scroll-padding-block: var(--size-80);
+}
+
+.scroll-padding-block-96,
+.py-96 {
+  scroll-padding-block: var(--size-96);
+}
+
+.scroll-padding-block-initial,
+.py-initial {
+  scroll-padding-block: initial;
+}
+
+.scroll-padding-block-inherit,
+.py-inherit {
+  scroll-padding-block: inherit;
+}
+
+.scroll-padding-block-unset,
+.py-unset {
+  scroll-padding-block: unset;
+}
+
+.scroll-padding-top-0,
+.pt-0 {
+  scroll-padding-top: var(--size-0);
+}
+
+.scroll-padding-top-1,
+.pt-1 {
+  scroll-padding-top: var(--size-1);
+}
+
+.scroll-padding-top-2,
+.pt-2 {
+  scroll-padding-top: var(--size-2);
+}
+
+.scroll-padding-top-3,
+.pt-3 {
+  scroll-padding-top: var(--size-3);
+}
+
+.scroll-padding-top-4,
+.pt-4 {
+  scroll-padding-top: var(--size-4);
+}
+
+.scroll-padding-top-8,
+.pt-8 {
+  scroll-padding-top: var(--size-8);
+}
+
+.scroll-padding-top-10,
+.pt-10 {
+  scroll-padding-top: var(--size-10);
+}
+
+.scroll-padding-top-16,
+.pt-16 {
+  scroll-padding-top: var(--size-16);
+}
+
+.scroll-padding-top-20,
+.pt-20 {
+  scroll-padding-top: var(--size-20);
+}
+
+.scroll-padding-top-32,
+.pt-32 {
+  scroll-padding-top: var(--size-32);
+}
+
+.scroll-padding-top-48,
+.pt-48 {
+  scroll-padding-top: var(--size-48);
+}
+
+.scroll-padding-top-64,
+.pt-64 {
+  scroll-padding-top: var(--size-64);
+}
+
+.scroll-padding-top-80,
+.pt-80 {
+  scroll-padding-top: var(--size-80);
+}
+
+.scroll-padding-top-96,
+.pt-96 {
+  scroll-padding-top: var(--size-96);
+}
+
+.scroll-padding-top-initial,
+.pt-initial {
+  scroll-padding-top: initial;
+}
+
+.scroll-padding-top-inherit,
+.pt-inherit {
+  scroll-padding-top: inherit;
+}
+
+.scroll-padding-top-unset,
+.pt-unset {
+  scroll-padding-top: unset;
+}
+
+.scroll-padding-right-0,
+.pr-0 {
+  scroll-padding-right: var(--size-0);
+}
+
+.scroll-padding-right-1,
+.pr-1 {
+  scroll-padding-right: var(--size-1);
+}
+
+.scroll-padding-right-2,
+.pr-2 {
+  scroll-padding-right: var(--size-2);
+}
+
+.scroll-padding-right-3,
+.pr-3 {
+  scroll-padding-right: var(--size-3);
+}
+
+.scroll-padding-right-4,
+.pr-4 {
+  scroll-padding-right: var(--size-4);
+}
+
+.scroll-padding-right-8,
+.pr-8 {
+  scroll-padding-right: var(--size-8);
+}
+
+.scroll-padding-right-10,
+.pr-10 {
+  scroll-padding-right: var(--size-10);
+}
+
+.scroll-padding-right-16,
+.pr-16 {
+  scroll-padding-right: var(--size-16);
+}
+
+.scroll-padding-right-20,
+.pr-20 {
+  scroll-padding-right: var(--size-20);
+}
+
+.scroll-padding-right-32,
+.pr-32 {
+  scroll-padding-right: var(--size-32);
+}
+
+.scroll-padding-right-48,
+.pr-48 {
+  scroll-padding-right: var(--size-48);
+}
+
+.scroll-padding-right-64,
+.pr-64 {
+  scroll-padding-right: var(--size-64);
+}
+
+.scroll-padding-right-80,
+.pr-80 {
+  scroll-padding-right: var(--size-80);
+}
+
+.scroll-padding-right-96,
+.pr-96 {
+  scroll-padding-right: var(--size-96);
+}
+
+.scroll-padding-right-initial,
+.pr-initial {
+  scroll-padding-right: initial;
+}
+
+.scroll-padding-right-inherit,
+.pr-inherit {
+  scroll-padding-right: inherit;
+}
+
+.scroll-padding-right-unset,
+.pr-unset {
+  scroll-padding-right: unset;
+}
+
+.scroll-padding-bottom-0,
+.pb-0 {
+  scroll-padding-bottom: var(--size-0);
+}
+
+.scroll-padding-bottom-1,
+.pb-1 {
+  scroll-padding-bottom: var(--size-1);
+}
+
+.scroll-padding-bottom-2,
+.pb-2 {
+  scroll-padding-bottom: var(--size-2);
+}
+
+.scroll-padding-bottom-3,
+.pb-3 {
+  scroll-padding-bottom: var(--size-3);
+}
+
+.scroll-padding-bottom-4,
+.pb-4 {
+  scroll-padding-bottom: var(--size-4);
+}
+
+.scroll-padding-bottom-8,
+.pb-8 {
+  scroll-padding-bottom: var(--size-8);
+}
+
+.scroll-padding-bottom-10,
+.pb-10 {
+  scroll-padding-bottom: var(--size-10);
+}
+
+.scroll-padding-bottom-16,
+.pb-16 {
+  scroll-padding-bottom: var(--size-16);
+}
+
+.scroll-padding-bottom-20,
+.pb-20 {
+  scroll-padding-bottom: var(--size-20);
+}
+
+.scroll-padding-bottom-32,
+.pb-32 {
+  scroll-padding-bottom: var(--size-32);
+}
+
+.scroll-padding-bottom-48,
+.pb-48 {
+  scroll-padding-bottom: var(--size-48);
+}
+
+.scroll-padding-bottom-64,
+.pb-64 {
+  scroll-padding-bottom: var(--size-64);
+}
+
+.scroll-padding-bottom-80,
+.pb-80 {
+  scroll-padding-bottom: var(--size-80);
+}
+
+.scroll-padding-bottom-96,
+.pb-96 {
+  scroll-padding-bottom: var(--size-96);
+}
+
+.scroll-padding-bottom-initial,
+.pb-initial {
+  scroll-padding-bottom: initial;
+}
+
+.scroll-padding-bottom-inherit,
+.pb-inherit {
+  scroll-padding-bottom: inherit;
+}
+
+.scroll-padding-bottom-unset,
+.pb-unset {
+  scroll-padding-bottom: unset;
+}
+
+.scroll-padding-left-0,
+.pl-0 {
+  scroll-padding-left: var(--size-0);
+}
+
+.scroll-padding-left-1,
+.pl-1 {
+  scroll-padding-left: var(--size-1);
+}
+
+.scroll-padding-left-2,
+.pl-2 {
+  scroll-padding-left: var(--size-2);
+}
+
+.scroll-padding-left-3,
+.pl-3 {
+  scroll-padding-left: var(--size-3);
+}
+
+.scroll-padding-left-4,
+.pl-4 {
+  scroll-padding-left: var(--size-4);
+}
+
+.scroll-padding-left-8,
+.pl-8 {
+  scroll-padding-left: var(--size-8);
+}
+
+.scroll-padding-left-10,
+.pl-10 {
+  scroll-padding-left: var(--size-10);
+}
+
+.scroll-padding-left-16,
+.pl-16 {
+  scroll-padding-left: var(--size-16);
+}
+
+.scroll-padding-left-20,
+.pl-20 {
+  scroll-padding-left: var(--size-20);
+}
+
+.scroll-padding-left-32,
+.pl-32 {
+  scroll-padding-left: var(--size-32);
+}
+
+.scroll-padding-left-48,
+.pl-48 {
+  scroll-padding-left: var(--size-48);
+}
+
+.scroll-padding-left-64,
+.pl-64 {
+  scroll-padding-left: var(--size-64);
+}
+
+.scroll-padding-left-80,
+.pl-80 {
+  scroll-padding-left: var(--size-80);
+}
+
+.scroll-padding-left-96,
+.pl-96 {
+  scroll-padding-left: var(--size-96);
+}
+
+.scroll-padding-left-initial,
+.pl-initial {
+  scroll-padding-left: initial;
+}
+
+.scroll-padding-left-inherit,
+.pl-inherit {
+  scroll-padding-left: inherit;
+}
+
+.scroll-padding-left-unset,
+.pl-unset {
+  scroll-padding-left: unset;
+}

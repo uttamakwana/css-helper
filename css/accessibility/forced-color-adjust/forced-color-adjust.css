@@ -1,0 +1,26 @@
+/* FORCED COLOR ADJUST | css/accessibility/forced-color-adjust.css */
+
+.forced-color-adjust-none,
+.fca-none {
+  forced-color-adjust: none;
+}
+
+.forced-color-adjust-auto,
+.fca-auto {
+  forced-color-adjust: auto;
+}
+
+.forced-color-adjust-initial,
+.fca-initial {
+  forced-color-adjust: initial;
+}
+
+.forced-color-adjust-inherit,
+.fca-inherit {
+  forced-color-adjust: inherit;
+}
+
+.forced-color-adjust-unset,
+.fca-unset {
+  forced-color-adjust: unset;
+}

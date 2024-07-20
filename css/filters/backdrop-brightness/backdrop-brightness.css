@@ -1,0 +1,221 @@
+/* BACKDROP BRIGHTNESS | css/filters/backdrop-brightness/backdrop-brightness.css */
+
+.backdrop-brightness-0,
+.filter-backdrop-brightness-0 {
+  backdrop-filter: brightness(0);
+}
+
+.backdrop-brightness-5,
+.filter-backdrop-brightness-5 {
+  backdrop-filter: brightness(0.5);
+}
+
+.backdrop-brightness-10,
+.filter-backdrop-brightness-10 {
+  backdrop-filter: brightness(0.1);
+}
+
+.backdrop-brightness-15,
+.filter-backdrop-brightness-15 {
+  backdrop-filter: brightness(0.15);
+}
+
+.backdrop-brightness-20,
+.filter-backdrop-brightness-20 {
+  backdrop-filter: brightness(0.2);
+}
+
+.backdrop-brightness-25,
+.filter-backdrop-brightness-25 {
+  backdrop-filter: brightness(0.25);
+}
+
+.backdrop-brightness-30,
+.filter-backdrop-brightness-30 {
+  backdrop-filter: brightness(0.3);
+}
+
+.backdrop-brightness-35,
+.filter-backdrop-brightness-35 {
+  backdrop-filter: brightness(0.35);
+}
+
+.backdrop-brightness-40,
+.filter-backdrop-brightness-40 {
+  backdrop-filter: brightness(0.4);
+}
+
+.backdrop-brightness-45,
+.filter-backdrop-brightness-45 {
+  backdrop-filter: brightness(0.45);
+}
+
+.backdrop-brightness-50,
+.filter-backdrop-brightness-50 {
+  backdrop-filter: brightness(0.5);
+}
+
+.backdrop-brightness-55,
+.filter-backdrop-brightness-55 {
+  backdrop-filter: brightness(0.55);
+}
+
+.backdrop-brightness-60,
+.filter-backdrop-brightness-60 {
+  backdrop-filter: brightness(0.6);
+}
+
+.backdrop-brightness-65,
+.filter-backdrop-brightness-65 {
+  backdrop-filter: brightness(0.65);
+}
+
+.backdrop-brightness-70,
+.filter-backdrop-brightness-70 {
+  backdrop-filter: brightness(0.7);
+}
+
+.backdrop-brightness-75,
+.filter-backdrop-brightness-75 {
+  backdrop-filter: brightness(0.75);
+}
+
+.backdrop-brightness-80,
+.filter-backdrop-brightness-80 {
+  backdrop-filter: brightness(0.8);
+}
+
+.backdrop-brightness-85,
+.filter-backdrop-brightness-85 {
+  backdrop-filter: brightness(0.85);
+}
+
+.backdrop-brightness-90,
+.filter-backdrop-brightness-90 {
+  backdrop-filter: brightness(0.9);
+}
+
+.backdrop-brightness-95,
+.filter-backdrop-brightness-95 {
+  backdrop-filter: brightness(0.95);
+}
+
+.backdrop-brightness-100,
+.filter-backdrop-brightness-100 {
+  backdrop-filter: brightness(1);
+}
+
+.backdrop-brightness-105,
+.filter-backdrop-brightness-105 {
+  backdrop-filter: brightness(1.05);
+}
+
+.backdrop-brightness-110,
+.filter-backdrop-brightness-110 {
+  backdrop-filter: brightness(1.1);
+}
+
+.backdrop-brightness-115,
+.filter-backdrop-brightness-115 {
+  backdrop-filter: brightness(1.15);
+}
+
+.backdrop-brightness-120,
+.filter-backdrop-brightness-120 {
+  backdrop-filter: brightness(1.2);
+}
+
+.backdrop-brightness-125,
+.filter-backdrop-brightness-125 {
+  backdrop-filter: brightness(1.25);
+}
+
+.backdrop-brightness-130,
+.filter-backdrop-brightness-130 {
+  backdrop-filter: brightness(1.3);
+}
+
+.backdrop-brightness-135,
+.filter-backdrop-brightness-135 {
+  backdrop-filter: brightness(1.35);
+}
+
+.backdrop-brightness-140,
+.filter-backdrop-brightness-140 {
+  backdrop-filter: brightness(1.4);
+}
+
+.backdrop-brightness-145,
+.filter-backdrop-brightness-145 {
+  backdrop-filter: brightness(1.45);
+}
+
+.backdrop-brightness-150,
+.filter-backdrop-brightness-150 {
+  backdrop-filter: brightness(1.5);
+}
+
+.backdrop-brightness-155,
+.filter-backdrop-brightness-155 {
+  backdrop-filter: brightness(1.55);
+}
+
+.backdrop-brightness-160,
+.filter-backdrop-brightness-160 {
+  backdrop-filter: brightness(1.6);
+}
+
+.backdrop-brightness-165,
+.filter-backdrop-brightness-165 {
+  backdrop-filter: brightness(1.65);
+}
+
+.backdrop-brightness-170,
+.filter-backdrop-brightness-170 {
+  backdrop-filter: brightness(1.7);
+}
+
+.backdrop-brightness-175,
+.filter-backdrop-brightness-175 {
+  backdrop-filter: brightness(1.75);
+}
+
+.backdrop-brightness-180,
+.filter-backdrop-brightness-180 {
+  backdrop-filter: brightness(1.8);
+}
+
+.backdrop-brightness-185,
+.filter-backdrop-brightness-185 {
+  backdrop-filter: brightness(1.85);
+}
+
+.backdrop-brightness-190,
+.filter-backdrop-brightness-190 {
+  backdrop-filter: brightness(1.9);
+}
+
+.backdrop-brightness-195,
+.filter-backdrop-brightness-195 {
+  backdrop-filter: brightness(1.95);
+}
+
+.backdrop-brightness-200,
+.filter-backdrop-brightness-200 {
+  backdrop-filter: brightness(2);
+}
+
+.backdrop-brightness-initial,
+.filter-backdrop-brightness-initial {
+  backdrop-filter: brightness(initial);
+}
+
+.backdrop-brightness-inherit,
+.filter-backdrop-brightness-inherit {
+  backdrop-filter: brightness(inherit);
+}
+
+.backdrop-brightness-unset,
+.filter-backdrop-brightness-unset {
+  backdrop-filter: brightness(unset);
+}

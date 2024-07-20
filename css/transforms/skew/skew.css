@@ -1,0 +1,346 @@
+/* skew | css/transforms/skew/skew.css */
+
+.skew-0,
+.transform-skew-0 {
+  transform: skew(0deg);
+}
+
+.skew-1,
+.transform-skew-1 {
+  transform: skew(1deg);
+}
+
+.skew-2,
+.transform-skew-2 {
+  transform: skew(2deg);
+}
+
+.skew-3,
+.transform-skew-3 {
+  transform: skew(3deg);
+}
+
+.skew-4,
+.transform-skew-4 {
+  transform: skew(4deg);
+}
+
+.skew-8,
+.transform-skew-8 {
+  transform: skew(8deg);
+}
+
+.skew-10,
+.transform-skew-10 {
+  transform: skew(10deg);
+}
+
+.skew-15,
+.transform-skew-15 {
+  transform: skew(15deg);
+}
+
+.skew-16,
+.transform-skew-16 {
+  transform: skew(16deg);
+}
+
+.skew-20,
+.transform-skew-20 {
+  transform: skew(20deg);
+}
+
+.skew-30,
+.transform-skew-30 {
+  transform: skew(30deg);
+}
+
+.skew-32,
+.transform-skew-32 {
+  transform: skew(32deg);
+}
+
+.skew-45,
+.transform-skew-45 {
+  transform: skew(45deg);
+}
+
+.skew-48,
+.transform-skew-48 {
+  transform: skew(48deg);
+}
+
+.skew-60,
+.transform-skew-60 {
+  transform: skew(60deg);
+}
+
+.skew-64,
+.transform-skew-64 {
+  transform: skew(64deg);
+}
+
+.skew-75,
+.transform-skew-75 {
+  transform: skew(75deg);
+}
+
+.skew-80,
+.transform-skew-80 {
+  transform: skew(80deg);
+}
+
+.skew-90,
+.transform-skew-90 {
+  transform: skew(90deg);
+}
+
+.skew-96,
+.transform-skew-96 {
+  transform: skew(96deg);
+}
+
+.skew-initial,
+.transform-skew-initial {
+  transform: skew(initial);
+}
+
+.skew-inherit,
+.transform-skew-inherit {
+  transform: skew(inherit);
+}
+
+.skew-unset,
+.transform-skew-unset {
+  transform: skew(unset);
+}
+
+.skew-x-0,
+.transform-skew-x-0 {
+  transform: skewX(0deg);
+}
+
+.skew-x-1,
+.transform-skew-x-1 {
+  transform: skewX(1deg);
+}
+
+.skew-x-2,
+.transform-skew-x-2 {
+  transform: skewX(2deg);
+}
+
+.skew-x-3,
+.transform-skew-x-3 {
+  transform: skewX(3deg);
+}
+
+.skew-x-4,
+.transform-skew-x-4 {
+  transform: skewX(4deg);
+}
+
+.skew-x-8,
+.transform-skew-x-8 {
+  transform: skewX(8deg);
+}
+
+.skew-x-10,
+.transform-skew-x-10 {
+  transform: skewX(10deg);
+}
+
+.skew-x-15,
+.transform-skew-x-15 {
+  transform: skewX(15deg);
+}
+
+.skew-x-16,
+.transform-skew-x-16 {
+  transform: skewX(16deg);
+}
+
+.skew-x-20,
+.transform-skew-x-20 {
+  transform: skewX(20deg);
+}
+
+.skew-x-30,
+.transform-skew-x-30 {
+  transform: skewX(30deg);
+}
+
+.skew-x-32,
+.transform-skew-x-32 {
+  transform: skewX(32deg);
+}
+
+.skew-x-45,
+.transform-skew-x-45 {
+  transform: skewX(45deg);
+}
+
+.skew-x-48,
+.transform-skew-x-48 {
+  transform: skewX(48deg);
+}
+
+.skew-x-60,
+.transform-skew-x-60 {
+  transform: skewX(60deg);
+}
+
+.skew-x-64,
+.transform-skew-x-64 {
+  transform: skewX(64deg);
+}
+
+.skew-x-75,
+.transform-skew-x-75 {
+  transform: skewX(75deg);
+}
+
+.skew-x-80,
+.transform-skew-x-80 {
+  transform: skewX(80deg);
+}
+
+.skew-x-90,
+.transform-skew-x-90 {
+  transform: skewX(90deg);
+}
+
+.skew-x-96,
+.transform-skew-x-96 {
+  transform: skewX(96deg);
+}
+
+.skew-x-initial,
+.transform-skew-x-initial {
+  transform: skewX(initial);
+}
+
+.skew-x-inherit,
+.transform-skew-x-inherit {
+  transform: skewX(inherit);
+}
+
+.skew-x-unset,
+.transform-skew-x-unset {
+  transform: skewX(unset);
+}
+
+.skew-y-0,
+.transform-skew-y-0 {
+  transform: skewY(0deg);
+}
+
+.skew-y-1,
+.transform-skew-y-1 {
+  transform: skewY(1deg);
+}
+
+.skew-y-2,
+.transform-skew-y-2 {
+  transform: skewY(2deg);
+}
+
+.skew-y-3,
+.transform-skew-y-3 {
+  transform: skewY(3deg);
+}
+
+.skew-y-4,
+.transform-skew-y-4 {
+  transform: skewY(4deg);
+}
+
+.skew-y-8,
+.transform-skew-y-8 {
+  transform: skewY(8deg);
+}
+
+.skew-y-10,
+.transform-skew-y-10 {
+  transform: skewY(10deg);
+}
+
+.skew-y-15,
+.transform-skew-y-15 {
+  transform: skewY(15deg);
+}
+
+.skew-y-16,
+.transform-skew-y-16 {
+  transform: skewY(16deg);
+}
+
+.skew-y-20,
+.transform-skew-y-20 {
+  transform: skewY(20deg);
+}
+
+.skew-y-30,
+.transform-skew-y-30 {
+  transform: skewY(30deg);
+}
+
+.skew-y-32,
+.transform-skew-y-32 {
+  transform: skewY(32deg);
+}
+
+.skew-y-45,
+.transform-skew-y-45 {
+  transform: skewY(45deg);
+}
+
+.skew-y-48,
+.transform-skew-y-48 {
+  transform: skewY(48deg);
+}
+
+.skew-y-60,
+.transform-skew-y-60 {
+  transform: skewY(60deg);
+}
+
+.skew-y-64,
+.transform-skew-y-64 {
+  transform: skewY(64deg);
+}
+
+.skew-y-75,
+.transform-skew-y-75 {
+  transform: skewY(75deg);
+}
+
+.skew-y-80,
+.transform-skew-y-80 {
+  transform: skewY(80deg);
+}
+
+.skew-y-90,
+.transform-skew-y-90 {
+  transform: skewY(90deg);
+}
+
+.skew-y-96,
+.transform-skew-y-96 {
+  transform: skewY(96deg);
+}
+
+.skew-y-initial,
+.transform-skew-y-initial {
+  transform: skewY(initial);
+}
+
+.skew-y-inherit,
+.transform-skew-y-inherit {
+  transform: skewY(inherit);
+}
+
+.skew-y-unset,
+.transform-skew-y-unset {
+  transform: skewY(unset);
+}

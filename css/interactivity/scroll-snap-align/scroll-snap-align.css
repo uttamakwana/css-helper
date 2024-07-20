@@ -1,0 +1,36 @@
+/* SCROLL SNAP ALIGN | css/interactivity/scroll-snap-align/scroll-snap-align.css */
+
+.scroll-snap-align-end,
+.ssa-end {
+  scroll-snap-align: end;
+}
+
+.scroll-snap-align-start,
+.ssa-start {
+  scroll-snap-align: start;
+}
+
+.scroll-snap-align-center,
+.ssa-center {
+  scroll-snap-align: center;
+}
+
+.scroll-snap-align-none,
+.ssa-none {
+  scroll-snap-align: none;
+}
+
+.scroll-snap-align-initial,
+.ssa-initial {
+  scroll-snap-align: initial;
+}
+
+.scroll-snap-align-inherit,
+.ssa-inherit {
+  scroll-snap-align: inherit;
+}
+
+.scroll-snap-align-unset,
+.ssa-unset {
+  scroll-snap-align: unset;
+}

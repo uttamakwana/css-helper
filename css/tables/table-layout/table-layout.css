@@ -1,0 +1,26 @@
+/* TABLE LAYOUT | css/tables/table-layout/table-layout.css */
+
+.table-layout-auto,
+.tl-auto {
+  table-layout: auto;
+}
+
+.table-layout-fixed,
+.tl-fixed {
+  table-layout: fixed;
+}
+
+.table-layout-initial,
+.tl-initial {
+  table-layout: initial;
+}
+
+.table-layout-inherit,
+.tl-inherit {
+  table-layout: inherit;
+}
+
+.table-layout-unset,
+.tl-unset {
+  table-layout: unset;
+}

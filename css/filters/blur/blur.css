@@ -1,0 +1,97 @@
+/* BLUR | css/filters/blur/blur.css */
+
+.filter-blur-0,
+.blur-0,
+.blur-none {
+  filter: blur(var(--size-0));
+}
+
+.filter-blur-1,
+.blur-1,
+.blur-xsm {
+  filter: blur(var(--size-1));
+}
+
+.filter-blur-2,
+.blur-2,
+.blur-sm {
+  filter: blur(var(--size-2));
+}
+
+.filter-blur-3,
+.blur-3,
+.blur-rg {
+  filter: blur(var(--size-3));
+}
+
+.filter-blur-4,
+.blur-4,
+.blur-md {
+  filter: blur(var(--size-4));
+}
+
+.filter-blur-8,
+.blur-8,
+.blur-lg {
+  filter: blur(var(--size-8));
+}
+
+.filter-blur-10,
+.blur-10,
+.blur-xl {
+  filter: blur(var(--size-10));
+}
+
+.filter-blur-16,
+.blur-16,
+.blur-2xl,
+.blur-xxl {
+  filter: blur(var(--size-16));
+}
+
+.filter-blur-20,
+.blur-20,
+.blur-3xl,
+.blur-xxxl {
+  filter: blur(var(--size-20));
+}
+
+.filter-blur-32,
+.blur-32 {
+  filter: blur(var(--size-32));
+}
+
+.filter-blur-48,
+.blur-48 {
+  filter: blur(var(--size-48));
+}
+
+.filter-blur-64,
+.blur-64 {
+  filter: blur(var(--size-64));
+}
+
+.filter-blur-80,
+.blur-80 {
+  filter: blur(var(--size-80));
+}
+
+.filter-blur-96,
+.blur-96 {
+  filter: blur(var(--size-96));
+}
+
+.filter-blur-initial,
+.blur-initial {
+  filter: blur(initial);
+}
+
+.filter-blur-inherit,
+.blur-inherit {
+  filter: blur(inherit);
+}
+
+.filter-blur-unset,
+.blur-unset {
+  filter: blur(unset);
+}

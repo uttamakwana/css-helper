@@ -28,8 +28,8 @@ const generateBreakpoints = (cssContent, breakpoints) => {
 let mainCSS = "";
 
 // add reset.css + root.css + index.css
-mainCSS += fs.readFileSync(path.join(__dirname, "css/reset.css"), "utf8");
 mainCSS += fs.readFileSync(path.join(__dirname, "css/root.css"), "utf8");
+mainCSS += fs.readFileSync(path.join(__dirname, "css/reset.css"), "utf8");
 mainCSS += fs.readFileSync(path.join(__dirname, "css/index.css"), "utf8");
 
 // CSS files to include
@@ -124,6 +124,56 @@ const cssFiles = [
   "css/borders/outline-color/outline-color.css", // 7 | 7.6
   "css/borders/outline-style/outline-style.css", // 7 | 7.7
   "css/borders/outline-offset/outline-offset.css", // 7 | 7.8
+  "css/effects/box-shadow/box-shadow.css", // 8 | 8.1
+  "css/effects/opacity/opacity.css", // 8 | 8.2
+  "css/effects/mix-blend-mode/mix-blend-mode.css", // 8 | 8.3
+  "css/effects/background-blend-mode/background-blend-mode.css", // 8 | 8.4
+  "css/filters/blur/blur.css", // 9 | 9.1
+  "css/filters/brightness/brightness.css", // 9 | 9.2
+  "css/filters/contrast/contrast.css", // 9 | 9.3
+  "css/filters/grayscale/grayscale.css", // 9 | 9.4
+  "css/filters/hue-rotate/hue-rotate.css", // 9 | 9.5
+  "css/filters/invert/invert.css", // 9 | 9.6
+  "css/filters/saturate/saturate.css", // 9 | 9.7
+  "css/filters/sepia/sepia.css", // 9 | 9.8
+  "css/filters/backdrop-blur/backdrop-blur.css", // 9 | 9.9
+  "css/filters/backdrop-brightness/backdrop-brightness.css", // 9 | 9.10
+  "css/filters/backdrop-contrast/backdrop-contrast.css", // 9 | 9.11
+  "css/filters/backdrop-grayscale/backdrop-grayscale.css", // 9 | 9.12
+  "css/filters/backdrop-hue-rotate/backdrop-hue-rotate.css", // 9 | 9.13
+  "css/filters/backdrop-invert/backdrop-invert.css", // 9 | 9.14
+  "css/filters/backdrop-opacity/backdrop-opacity.css", // 9 | 9.15
+  "css/filters/backdrop-saturate/backdrop-saturate.css", // 9 | 9.16
+  "css/filters/backdrop-sepia/backdrop-sepia.css", // 9 | 9.17
+  "css/tables/border-collapse/border-collapse.css", // 10 | 10.1
+  "css/tables/border-spacing/border-spacing.css", // 10 | 10.2
+  "css/tables/table-layout/table-layout.css", // 10 | 10.3
+  "css/tables/caption-side/caption-side.css", // 10 | 10.4
+  "css/transforms/scale/scale.css", // 11 | 11.1
+  "css/transforms/rotate/rotate.css", // 11 | 11.2
+  "css/transforms/translate/translate.css", // 11 | 11.3
+  "css/transforms/skew/skew.css", // 11 | 11.4
+  "css/transforms/transform-origin/transform-origin.css", // 11 | 11.5
+  "css/interactivity/accent-color/accent-color.css", // 12 | 12.1
+  "css/interactivity/appearance/appearance.css", // 12 | 12.2
+  "css/interactivity/cursor/cursor.css", // 12 | 12.3
+  "css/interactivity/caret-color/caret-color.css", // 12 | 12.4
+  "css/interactivity/pointer-events/pointer-events.css", // 12 | 12.5
+  "css/interactivity/resize/resize.css", // 12 | 12.6
+  "css/interactivity/scroll-behavior/scroll-behavior.css", // 12 | 12.7
+  "css/interactivity/scroll-margin/scroll-margin.css", // 12 | 12.8
+  "css/interactivity/scroll-padding/scroll-padding.css", // 12 | 12.9
+  "css/interactivity/scroll-snap-align/scroll-snap-align.css", // 12 | 12.10
+  "css/interactivity/scroll-snap-stop/scroll-snap-stop.css", // 12 | 12.11
+  "css/interactivity/scroll-snap-type/scroll-snap-type.css", // 12 | 12.12
+  "css/interactivity/touch-action/touch-action.css", // 12 | 12.13
+  "css/interactivity/user-select/user-select.css", // 12 | 12.14
+  "css/interactivity/will-change/will-change.css", // 12 | 12.15
+  "css/svg/fill/fill.css", // 13 | 13.1
+  "css/svg/stroke/stroke.css", // 13 | 13.2
+  "css/svg/stroke-width/stroke-width.css", // 13 | 13.3
+  "css/accessibility/screen-reader/screen-reader.css", // 14 | 14.1
+  "css/accessibility/forced-color-adjust/forced-color-adjust.css", // 14 | 14.2
 ];
 
 cssFiles.forEach((file) => {

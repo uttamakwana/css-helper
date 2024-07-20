@@ -1,0 +1,461 @@
+/* ROTATE | css/transforms/rotate/rotate.css */
+
+.rotate-0,
+.transform-rotate-0 {
+  transform: rotate(0deg);
+}
+
+.rotate-1,
+.transform-rotate-1 {
+  transform: rotate(1deg);
+}
+
+.rotate-2,
+.transform-rotate-2 {
+  transform: rotate(2deg);
+}
+
+.rotate-3,
+.transform-rotate-3 {
+  transform: rotate(3deg);
+}
+
+.rotate-4,
+.transform-rotate-4 {
+  transform: rotate(4deg);
+}
+
+.rotate-8,
+.transform-rotate-8 {
+  transform: rotate(8deg);
+}
+
+.rotate-10,
+.transform-rotate-10 {
+  transform: rotate(10deg);
+}
+
+.rotate-15,
+.transform-rotate-15 {
+  transform: rotate(15deg);
+}
+
+.rotate-16,
+.transform-rotate-16 {
+  transform: rotate(16deg);
+}
+
+.rotate-20,
+.transform-rotate-20 {
+  transform: rotate(20deg);
+}
+
+.rotate-30,
+.transform-rotate-30 {
+  transform: rotate(30deg);
+}
+
+.rotate-32,
+.transform-rotate-32 {
+  transform: rotate(32deg);
+}
+
+.rotate-45,
+.transform-rotate-45 {
+  transform: rotate(45deg);
+}
+
+.rotate-48,
+.transform-rotate-48 {
+  transform: rotate(48deg);
+}
+
+.rotate-60,
+.transform-rotate-60 {
+  transform: rotate(60deg);
+}
+
+.rotate-64,
+.transform-rotate-64 {
+  transform: rotate(64deg);
+}
+
+.rotate-75,
+.transform-rotate-75 {
+  transform: rotate(75deg);
+}
+
+.rotate-80,
+.transform-rotate-80 {
+  transform: rotate(80deg);
+}
+
+.rotate-90,
+.transform-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.rotate-96,
+.transform-rotate-96 {
+  transform: rotate(96deg);
+}
+
+.rotate-initial,
+.transform-rotate-initial {
+  transform: rotate(initial);
+}
+
+.rotate-inherit,
+.transform-rotate-inherit {
+  transform: rotate(inherit);
+}
+
+.rotate-unset,
+.transform-rotate-unset {
+  transform: rotate(unset);
+}
+
+.rotate-x-0,
+.transform-rotate-x-0 {
+  transform: rotateX(0deg);
+}
+
+.rotate-x-1,
+.transform-rotate-x-1 {
+  transform: rotateX(1deg);
+}
+
+.rotate-x-2,
+.transform-rotate-x-2 {
+  transform: rotateX(2deg);
+}
+
+.rotate-x-3,
+.transform-rotate-x-3 {
+  transform: rotateX(3deg);
+}
+
+.rotate-x-4,
+.transform-rotate-x-4 {
+  transform: rotateX(4deg);
+}
+
+.rotate-x-8,
+.transform-rotate-x-8 {
+  transform: rotateX(8deg);
+}
+
+.rotate-x-10,
+.transform-rotate-x-10 {
+  transform: rotateX(10deg);
+}
+
+.rotate-x-15,
+.transform-rotate-x-15 {
+  transform: rotateX(15deg);
+}
+
+.rotate-x-16,
+.transform-rotate-x-16 {
+  transform: rotateX(16deg);
+}
+
+.rotate-x-20,
+.transform-rotate-x-20 {
+  transform: rotateX(20deg);
+}
+
+.rotate-x-30,
+.transform-rotate-x-30 {
+  transform: rotateX(30deg);
+}
+
+.rotate-x-32,
+.transform-rotate-x-32 {
+  transform: rotateX(32deg);
+}
+
+.rotate-x-45,
+.transform-rotate-x-45 {
+  transform: rotateX(45deg);
+}
+
+.rotate-x-48,
+.transform-rotate-x-48 {
+  transform: rotateX(48deg);
+}
+
+.rotate-x-60,
+.transform-rotate-x-60 {
+  transform: rotateX(60deg);
+}
+
+.rotate-x-64,
+.transform-rotate-x-64 {
+  transform: rotateX(64deg);
+}
+
+.rotate-x-75,
+.transform-rotate-x-75 {
+  transform: rotateX(75deg);
+}
+
+.rotate-x-80,
+.transform-rotate-x-80 {
+  transform: rotateX(80deg);
+}
+
+.rotate-x-90,
+.transform-rotate-x-90 {
+  transform: rotateX(90deg);
+}
+
+.rotate-x-96,
+.transform-rotate-x-96 {
+  transform: rotateX(96deg);
+}
+
+.rotate-x-initial,
+.transform-rotate-x-initial {
+  transform: rotateX(initial);
+}
+
+.rotate-x-inherit,
+.transform-rotate-x-inherit {
+  transform: rotateX(inherit);
+}
+
+.rotate-x-unset,
+.transform-rotate-x-unset {
+  transform: rotateX(unset);
+}
+
+.rotate-y-0,
+.transform-rotate-y-0 {
+  transform: rotateY(0deg);
+}
+
+.rotate-y-1,
+.transform-rotate-y-1 {
+  transform: rotateY(1deg);
+}
+
+.rotate-y-2,
+.transform-rotate-y-2 {
+  transform: rotateY(2deg);
+}
+
+.rotate-y-3,
+.transform-rotate-y-3 {
+  transform: rotateY(3deg);
+}
+
+.rotate-y-4,
+.transform-rotate-y-4 {
+  transform: rotateY(4deg);
+}
+
+.rotate-y-8,
+.transform-rotate-y-8 {
+  transform: rotateY(8deg);
+}
+
+.rotate-y-10,
+.transform-rotate-y-10 {
+  transform: rotateY(10deg);
+}
+
+.rotate-y-15,
+.transform-rotate-y-15 {
+  transform: rotateY(15deg);
+}
+
+.rotate-y-16,
+.transform-rotate-y-16 {
+  transform: rotateY(16deg);
+}
+
+.rotate-y-20,
+.transform-rotate-y-20 {
+  transform: rotateY(20deg);
+}
+
+.rotate-y-30,
+.transform-rotate-y-30 {
+  transform: rotateY(30deg);
+}
+
+.rotate-y-32,
+.transform-rotate-y-32 {
+  transform: rotateY(32deg);
+}
+
+.rotate-y-45,
+.transform-rotate-y-45 {
+  transform: rotateY(45deg);
+}
+
+.rotate-y-48,
+.transform-rotate-y-48 {
+  transform: rotateY(48deg);
+}
+
+.rotate-y-60,
+.transform-rotate-y-60 {
+  transform: rotateY(60deg);
+}
+
+.rotate-y-64,
+.transform-rotate-y-64 {
+  transform: rotateY(64deg);
+}
+
+.rotate-y-75,
+.transform-rotate-y-75 {
+  transform: rotateY(75deg);
+}
+
+.rotate-y-80,
+.transform-rotate-y-80 {
+  transform: rotateY(80deg);
+}
+
+.rotate-y-90,
+.transform-rotate-y-90 {
+  transform: rotateY(90deg);
+}
+
+.rotate-y-96,
+.transform-rotate-y-96 {
+  transform: rotateY(96deg);
+}
+
+.rotate-y-initial,
+.transform-rotate-y-initial {
+  transform: rotateY(initial);
+}
+
+.rotate-y-inherit,
+.transform-rotate-y-inherit {
+  transform: rotateY(inherit);
+}
+
+.rotate-y-unset,
+.transform-rotate-y-unset {
+  transform: rotateY(unset);
+}
+
+.rotate-z-0,
+.transform-rotate-z-0 {
+  transform: rotateZ(0deg);
+}
+
+.rotate-z-1,
+.transform-rotate-z-1 {
+  transform: rotateZ(1deg);
+}
+
+.rotate-z-2,
+.transform-rotate-z-2 {
+  transform: rotateZ(2deg);
+}
+
+.rotate-z-3,
+.transform-rotate-z-3 {
+  transform: rotateZ(3deg);
+}
+
+.rotate-z-4,
+.transform-rotate-z-4 {
+  transform: rotateZ(4deg);
+}
+
+.rotate-z-8,
+.transform-rotate-z-8 {
+  transform: rotateZ(8deg);
+}
+
+.rotate-z-10,
+.transform-rotate-z-10 {
+  transform: rotateZ(10deg);
+}
+
+.rotate-z-15,
+.transform-rotate-z-15 {
+  transform: rotateZ(15deg);
+}
+
+.rotate-z-16,
+.transform-rotate-z-16 {
+  transform: rotateZ(16deg);
+}
+
+.rotate-z-20,
+.transform-rotate-z-20 {
+  transform: rotateZ(20deg);
+}
+
+.rotate-z-30,
+.transform-rotate-z-30 {
+  transform: rotateZ(30deg);
+}
+
+.rotate-z-32,
+.transform-rotate-z-32 {
+  transform: rotateZ(32deg);
+}
+
+.rotate-z-45,
+.transform-rotate-z-45 {
+  transform: rotateZ(45deg);
+}
+
+.rotate-z-48,
+.transform-rotate-z-48 {
+  transform: rotateZ(48deg);
+}
+
+.rotate-z-60,
+.transform-rotate-z-60 {
+  transform: rotateZ(60deg);
+}
+
+.rotate-z-64,
+.transform-rotate-z-64 {
+  transform: rotateZ(64deg);
+}
+
+.rotate-z-75,
+.transform-rotate-z-75 {
+  transform: rotateZ(75deg);
+}
+
+.rotate-z-80,
+.transform-rotate-z-80 {
+  transform: rotateZ(80deg);
+}
+
+.rotate-z-90,
+.transform-rotate-z-90 {
+  transform: rotateZ(90deg);
+}
+
+.rotate-z-96,
+.transform-rotate-z-96 {
+  transform: rotateZ(96deg);
+}
+
+.rotate-z-initial,
+.transform-rotate-z-initial {
+  transform: rotateZ(initial);
+}
+
+.rotate-z-inherit,
+.transform-rotate-z-inherit {
+  transform: rotateZ(inherit);
+}
+
+.rotate-z-unset,
+.transform-rotate-z-unset {
+  transform: rotateZ(unset);
+}

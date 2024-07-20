@@ -1,0 +1,66 @@
+/* TOUCH ACTION | css/interactivity/touch-action/touch-action.css */
+
+.touch-action-auto,
+.ta-auto {
+  touch-action: auto;
+}
+
+.touch-action-none,
+.ta-none {
+  touch-action: none;
+}
+
+.touch-action-pan-x,
+.ta-pan-x {
+  touch-action: pan-x;
+}
+
+.touch-action-pan-y,
+.ta-pan-y {
+  touch-action: pan-y;
+}
+
+.touch-action-pan-left,
+.ta-pan-left {
+  touch-action: pan-left;
+}
+
+.touch-action-pan-right,
+.ta-pan-right {
+  touch-action: pan-right;
+}
+
+.touch-action-pan-up,
+.ta-pan-up {
+  touch-action: pan-up;
+}
+
+.touch-action-pan-down,
+.ta-pan-down {
+  touch-action: pan-down;
+}
+
+.touch-action-pinch-zoom,
+.ta-pinch-zoom {
+  touch-action: pinch-zoom;
+}
+
+.touch-action-manipulation,
+.ta-manipulation {
+  touch-action: manipulation;
+}
+
+.touch-action-initial,
+.ta-initial {
+  touch-action: initial;
+}
+
+.touch-action-inherit,
+.ta-inherit {
+  touch-action: inherit;
+}
+
+.touch-action-unset,
+.ta-unset {
+  touch-action: unset;
+}

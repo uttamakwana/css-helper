@@ -1,0 +1,21 @@
+/* BACKDROP GRAYSCALE | css/filters/backdrop-grayscale/backdrop-grayscale.css */
+
+.backdrop-grayscale-0,
+.filter-backdrop-grayscale-0 {
+  backdrop-filter: grayscale(0);
+}
+
+.backdrop-grayscale-initial,
+.filter-backdrop-grayscale-initial {
+  backdrop-filter: grayscale(initial);
+}
+
+.backdrop-grayscale-inherit,
+.filter-backdrop-grayscale-inherit {
+  backdrop-filter: grayscale(inherit);
+}
+
+.backdrop-grayscale-unset,
+.filter-backdrop-grayscale-unset {
+  backdrop-filter: grayscale(unset);
+}

@@ -1,0 +1,26 @@
+/* INVERT | css/filters/invert/invert.css */
+
+.invert-0,
+.filter-invert-0 {
+  filter: invert(0);
+}
+
+.invert-100,
+.filter-invert-100 {
+  filter: invert(100);
+}
+
+.invert-initial,
+.filter-invert-initial {
+  filter: invert(initial);
+}
+
+.invert-inherit,
+.filter-invert-inherit {
+  filter: invert(inherit);
+}
+
+.invert-unset,
+.filter-invert-unset {
+  filter: invert(unset);
+}

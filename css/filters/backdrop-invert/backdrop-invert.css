@@ -1,0 +1,26 @@
+/* INVERT | css/filters/invert/invert.css */
+
+.backdrop-invert-0,
+.filter-backdrop-invert-0 {
+  backdrop-filter: invert(0);
+}
+
+.backdrop-invert-100,
+.filter-backdrop-invert-100 {
+  backdrop-filter: invert(100);
+}
+
+.backdrop-invert-initial,
+.filter-backdrop-invert-initial {
+  backdrop-filter: invert(initial);
+}
+
+.backdrop-invert-inherit,
+.filter-backdrop-invert-inherit {
+  backdrop-filter: invert(inherit);
+}
+
+.backdrop-invert-unset,
+.filter-backdrop-invert-unset {
+  backdrop-filter: invert(unset);
+}

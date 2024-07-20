@@ -1,0 +1,256 @@
+/* TRANSLATE | css/transforms/translate/translate.css */
+
+.translate-0,
+.transform-translate-0 {
+  transform: translate(var(--size-0));
+}
+
+.translate-1,
+.transform-translate-1 {
+  transform: translate(var(--size-1));
+}
+
+.translate-2,
+.transform-translate-2 {
+  transform: translate(var(--size-2));
+}
+
+.translate-3,
+.transform-translate-3 {
+  transform: translate(var(--size-3));
+}
+
+.translate-4,
+.transform-translate-4 {
+  transform: translate(var(--size-4));
+}
+
+.translate-8,
+.transform-translate-8 {
+  transform: translate(var(--size-8));
+}
+
+.translate-10,
+.transform-translate-10 {
+  transform: translate(var(--size-10));
+}
+
+.translate-16,
+.transform-translate-16 {
+  transform: translate(var(--size-16));
+}
+
+.translate-20,
+.transform-translate-20 {
+  transform: translate(var(--size-20));
+}
+
+.translate-32,
+.transform-translate-32 {
+  transform: translate(var(--size-32));
+}
+
+.translate-48,
+.transform-translate-48 {
+  transform: translate(var(--size-48));
+}
+
+.translate-64,
+.transform-translate-64 {
+  transform: translate(var(--size-64));
+}
+
+.translate-80,
+.transform-translate-80 {
+  transform: translate(var(--size-80));
+}
+
+.translate-96,
+.transform-translate-96 {
+  transform: translate(var(--size-96));
+}
+
+.translate-initial,
+.transform-translate-initial {
+  transform: translate(initial);
+}
+
+.translate-inherit,
+.transform-translate-inherit {
+  transform: translate(inherit);
+}
+
+.translate-unset,
+.transform-translate-unset {
+  transform: translate(unset);
+}
+
+.translate-x-0,
+.transform-translate-x-0 {
+  transform: translateX(var(--size-0));
+}
+
+.translate-x-1,
+.transform-translate-x-1 {
+  transform: translateX(var(--size-1));
+}
+
+.translate-x-2,
+.transform-translate-x-2 {
+  transform: translateX(var(--size-2));
+}
+
+.translate-x-3,
+.transform-translate-x-3 {
+  transform: translateX(var(--size-3));
+}
+
+.translate-x-4,
+.transform-translate-x-4 {
+  transform: translateX(var(--size-4));
+}
+
+.translate-x-8,
+.transform-translate-x-8 {
+  transform: translateX(var(--size-8));
+}
+
+.translate-x-10,
+.transform-translate-x-10 {
+  transform: translateX(var(--size-10));
+}
+
+.translate-x-16,
+.transform-translate-x-16 {
+  transform: translateX(var(--size-16));
+}
+
+.translate-x-20,
+.transform-translate-x-20 {
+  transform: translateX(var(--size-20));
+}
+
+.translate-x-32,
+.transform-translate-x-32 {
+  transform: translateX(var(--size-32));
+}
+
+.translate-x-48,
+.transform-translate-x-48 {
+  transform: translateX(var(--size-48));
+}
+
+.translate-x-64,
+.transform-translate-x-64 {
+  transform: translateX(var(--size-64));
+}
+
+.translate-x-80,
+.transform-translate-x-80 {
+  transform: translateX(var(--size-80));
+}
+
+.translate-x-96,
+.transform-translate-x-96 {
+  transform: translateX(var(--size-96));
+}
+
+.translate-x-initial,
+.transform-translate-x-initial {
+  transform: translateX(initial);
+}
+
+.translate-x-inherit,
+.transform-translate-x-inherit {
+  transform: translateX(inherit);
+}
+
+.translate-x-unset,
+.transform-translate-x-unset {
+  transform: translateX(unset);
+}
+
+.translate-y-0,
+.transform-translate-y-0 {
+  transform: translateY(var(--size-0));
+}
+
+.translate-y-1,
+.transform-translate-y-1 {
+  transform: translateY(var(--size-1));
+}
+
+.translate-y-2,
+.transform-translate-y-2 {
+  transform: translateY(var(--size-2));
+}
+
+.translate-y-3,
+.transform-translate-y-3 {
+  transform: translateY(var(--size-3));
+}
+
+.translate-y-4,
+.transform-translate-y-4 {
+  transform: translateY(var(--size-4));
+}
+
+.translate-y-8,
+.transform-translate-y-8 {
+  transform: translateY(var(--size-8));
+}
+
+.translate-y-10,
+.transform-translate-y-10 {
+  transform: translateY(var(--size-10));
+}
+
+.translate-y-16,
+.transform-translate-y-16 {
+  transform: translateY(var(--size-16));
+}
+
+.translate-y-20,
+.transform-translate-y-20 {
+  transform: translateY(var(--size-20));
+}
+
+.translate-y-32,
+.transform-translate-y-32 {
+  transform: translateY(var(--size-32));
+}
+
+.translate-y-48,
+.transform-translate-y-48 {
+  transform: translateY(var(--size-48));
+}
+
+.translate-y-64,
+.transform-translate-y-64 {
+  transform: translateY(var(--size-64));
+}
+
+.translate-y-80,
+.transform-translate-y-80 {
+  transform: translateY(var(--size-80));
+}
+
+.translate-y-96,
+.transform-translate-y-96 {
+  transform: translateY(var(--size-96));
+}
+
+.translate-y-initial,
+.transform-translate-y-initial {
+  transform: translateY(initial);
+}
+
+.translate-y-inherit,
+.transform-translate-y-inherit {
+  transform: translateY(inherit);
+}
+
+.translate-y-unset,
+.transform-translate-y-unset {
+  transform: translateY(unset);
+}

@@ -1,0 +1,29 @@
+/* USER SELECT | css/interactivity/user-select/user-select.css */
+
+.user-select-auto {
+  user-select: auto;
+}
+
+.user-select-none {
+  user-select: none;
+}
+
+.user-select-text {
+  user-select: text;
+}
+
+.user-select-all {
+  user-select: all;
+}
+
+.user-select-initial {
+  user-select: initial;
+}
+
+.user-select-inherit {
+  user-select: inherit;
+}
+
+.user-select-unset {
+  user-select: unset;
+}

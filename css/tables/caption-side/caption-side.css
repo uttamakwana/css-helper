@@ -1,0 +1,36 @@
+/* CAPTION SIDE | css/tables/caption-side/caption-side.css */
+
+.caption-side-top,
+.cs-top {
+  caption-side: top;
+}
+
+.caption-side-bottom,
+.cs-bottom {
+  caption-side: bottom;
+}
+
+.caption-side-left,
+.cs-left {
+  caption-side: left;
+}
+
+.caption-side-right,
+.cs-right {
+  caption-side: right;
+}
+
+.caption-side-initial,
+.cs-initial {
+  caption-side: initial;
+}
+
+.caption-side-inherit,
+.cs-inherit {
+  caption-side: inherit;
+}
+
+.caption-side-unset,
+.cs-unset {
+  caption-side: unset;
+}

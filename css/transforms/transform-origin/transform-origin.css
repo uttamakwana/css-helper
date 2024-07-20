@@ -1,0 +1,46 @@
+/* TRANSFORM ORIGIN | css/transforms/transform-origin/transform-origin.css */
+
+.transform-origin-center,
+.origin-center {
+  transform-origin: center;
+}
+
+.transform-origin-left,
+.origin-left {
+  transform-origin: left;
+}
+
+.transform-origin-top,
+.origin-top {
+  transform-origin: top;
+}
+
+.transform-origin-right,
+.origin-right {
+  transform-origin: right;
+}
+
+.transform-origin-bottom,
+.origin-bottom {
+  transform-origin: bottom;
+}
+
+.transform-origin-top-right,
+.origin-top-right {
+  transform-origin: top right;
+}
+
+.transform-origin-bottom-right,
+.origin-bottom-right {
+  transform-origin: bottom right;
+}
+
+.transform-origin-bottom-left,
+.origin-bottom-left {
+  transform-origin: bottom left;
+}
+
+.transform-origin-top-left,
+.origin-top-left {
+  transform-origin: top left;
+}

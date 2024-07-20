@@ -1,0 +1,661 @@
+/* SCALE | css/transforms/scale/scale.css */
+
+.transform-scale-0,
+.scale-0 {
+  transform: scale(0);
+}
+
+.transform-scale-5,
+.scale-5 {
+  transform: scale(0.05);
+}
+
+.transform-scale-1,
+.scale-1 {
+  transform: scale(0.1);
+}
+
+.transform-scale-15,
+.scale-15 {
+  transform: scale(0.15);
+}
+
+.transform-scale-20,
+.scale-20 {
+  transform: scale(0.2);
+}
+
+.transform-scale-25,
+.scale-25 {
+  transform: scale(0.25);
+}
+
+.transform-scale-30,
+.scale-30 {
+  transform: scale(0.3);
+}
+
+.transform-scale-35,
+.scale-35 {
+  transform: scale(0.35);
+}
+
+.transform-scale-40,
+.scale-40 {
+  transform: scale(0.4);
+}
+
+.transform-scale-45,
+.scale-45 {
+  transform: scale(0.45);
+}
+
+.transform-scale-50,
+.scale-50 {
+  transform: scale(0.5);
+}
+
+.transform-scale-55,
+.scale-55 {
+  transform: scale(0.55);
+}
+
+.transform-scale-60,
+.scale-60 {
+  transform: scale(0.6);
+}
+
+.transform-scale-65,
+.scale-65 {
+  transform: scale(0.65);
+}
+
+.transform-scale-70,
+.scale-70 {
+  transform: scale(0.7);
+}
+
+.transform-scale-75,
+.scale-75 {
+  transform: scale(0.75);
+}
+
+.transform-scale-80,
+.scale-80 {
+  transform: scale(0.8);
+}
+
+.transform-scale-85,
+.scale-85 {
+  transform: scale(0.85);
+}
+
+.transform-scale-90,
+.scale-90 {
+  transform: scale(0.9);
+}
+
+.transform-scale-95,
+.scale-95 {
+  transform: scale(0.95);
+}
+
+.transform-scale-100,
+.scale-100 {
+  transform: scale(1);
+}
+
+.transform-scale-105,
+.scale-105 {
+  transform: scale(1.05);
+}
+
+.transform-scale-110,
+.scale-110 {
+  transform: scale(1.1);
+}
+
+.transform-scale-115,
+.scale-115 {
+  transform: scale(1.15);
+}
+
+.transform-scale-120,
+.scale-120 {
+  transform: scale(1.2);
+}
+
+.transform-scale-125,
+.scale-125 {
+  transform: scale(1.25);
+}
+
+.transform-scale-130,
+.scale-130 {
+  transform: scale(1.3);
+}
+
+.transform-scale-135,
+.scale-135 {
+  transform: scale(1.35);
+}
+
+.transform-scale-140,
+.scale-140 {
+  transform: scale(1.4);
+}
+
+.transform-scale-145,
+.scale-145 {
+  transform: scale(1.45);
+}
+
+.transform-scale-150,
+.scale-150 {
+  transform: scale(1.5);
+}
+
+.transform-scale-155,
+.scale-155 {
+  transform: scale(1.55);
+}
+
+.transform-scale-160,
+.scale-160 {
+  transform: scale(1.6);
+}
+
+.transform-scale-165,
+.scale-165 {
+  transform: scale(1.65);
+}
+
+.transform-scale-170,
+.scale-170 {
+  transform: scale(1.7);
+}
+
+.transform-scale-175,
+.scale-175 {
+  transform: scale(1.75);
+}
+
+.transform-scale-180,
+.scale-180 {
+  transform: scale(1.8);
+}
+
+.transform-scale-185,
+.scale-185 {
+  transform: scale(1.85);
+}
+
+.transform-scale-190,
+.scale-190 {
+  transform: scale(1.9);
+}
+
+.transform-scale-195,
+.scale-195 {
+  transform: scale(1.95);
+}
+
+.transform-scale-200,
+.scale-200 {
+  transform: scale(2);
+}
+
+.transform-scale-initial,
+.scale-initial {
+  transform: scale(initial);
+}
+
+.transform-scale-inherit,
+.scale-inherit {
+  transform: scale(inherit);
+}
+
+.transform-scale-unset,
+.scale-unset {
+  transform: scale(unset);
+}
+
+.transform-scale-x-0,
+.scale-x-0 {
+  transform: scaleX(0);
+}
+
+.transform-scale-x-5,
+.scale-x-5 {
+  transform: scaleX(0.05);
+}
+
+.transform-scale-x-1,
+.scale-x-1 {
+  transform: scaleX(0.1);
+}
+
+.transform-scale-x-15,
+.scale-x-15 {
+  transform: scaleX(0.15);
+}
+
+.transform-scale-x-20,
+.scale-x-20 {
+  transform: scaleX(0.2);
+}
+
+.transform-scale-x-25,
+.scale-x-25 {
+  transform: scaleX(0.25);
+}
+
+.transform-scale-x-30,
+.scale-x-30 {
+  transform: scaleX(0.3);
+}
+
+.transform-scale-x-35,
+.scale-x-35 {
+  transform: scaleX(0.35);
+}
+
+.transform-scale-x-40,
+.scale-x-40 {
+  transform: scaleX(0.4);
+}
+
+.transform-scale-x-45,
+.scale-x-45 {
+  transform: scaleX(0.45);
+}
+
+.transform-scale-x-50,
+.scale-x-50 {
+  transform: scaleX(0.5);
+}
+
+.transform-scale-x-55,
+.scale-x-55 {
+  transform: scaleX(0.55);
+}
+
+.transform-scale-x-60,
+.scale-x-60 {
+  transform: scaleX(0.6);
+}
+
+.transform-scale-x-65,
+.scale-x-65 {
+  transform: scaleX(0.65);
+}
+
+.transform-scale-x-70,
+.scale-x-70 {
+  transform: scaleX(0.7);
+}
+
+.transform-scale-x-75,
+.scale-x-75 {
+  transform: scaleX(0.75);
+}
+
+.transform-scale-x-80,
+.scale-x-80 {
+  transform: scaleX(0.8);
+}
+
+.transform-scale-x-85,
+.scale-x-85 {
+  transform: scaleX(0.85);
+}
+
+.transform-scale-x-90,
+.scale-x-90 {
+  transform: scaleX(0.9);
+}
+
+.transform-scale-x-95,
+.scale-x-95 {
+  transform: scaleX(0.95);
+}
+
+.transform-scale-x-100,
+.scale-x-100 {
+  transform: scaleX(1);
+}
+
+.transform-scale-x-105,
+.scale-x-105 {
+  transform: scaleX(1.05);
+}
+
+.transform-scale-x-110,
+.scale-x-110 {
+  transform: scaleX(1.1);
+}
+
+.transform-scale-x-115,
+.scale-x-115 {
+  transform: scaleX(1.15);
+}
+
+.transform-scale-x-120,
+.scale-x-120 {
+  transform: scaleX(1.2);
+}
+
+.transform-scale-x-125,
+.scale-x-125 {
+  transform: scaleX(1.25);
+}
+
+.transform-scale-x-130,
+.scale-x-130 {
+  transform: scaleX(1.3);
+}
+
+.transform-scale-x-135,
+.scale-x-135 {
+  transform: scaleX(1.35);
+}
+
+.transform-scale-x-140,
+.scale-x-140 {
+  transform: scaleX(1.4);
+}
+
+.transform-scale-x-145,
+.scale-x-145 {
+  transform: scaleX(1.45);
+}
+
+.transform-scale-x-150,
+.scale-x-150 {
+  transform: scaleX(1.5);
+}
+
+.transform-scale-x-155,
+.scale-x-155 {
+  transform: scaleX(1.55);
+}
+
+.transform-scale-x-160,
+.scale-x-160 {
+  transform: scaleX(1.6);
+}
+
+.transform-scale-x-165,
+.scale-x-165 {
+  transform: scaleX(1.65);
+}
+
+.transform-scale-x-170,
+.scale-x-170 {
+  transform: scaleX(1.7);
+}
+
+.transform-scale-x-175,
+.scale-x-175 {
+  transform: scaleX(1.75);
+}
+
+.transform-scale-x-180,
+.scale-x-180 {
+  transform: scaleX(1.8);
+}
+
+.transform-scale-x-185,
+.scale-x-185 {
+  transform: scaleX(1.85);
+}
+
+.transform-scale-x-190,
+.scale-x-190 {
+  transform: scaleX(1.9);
+}
+
+.transform-scale-x-195,
+.scale-x-195 {
+  transform: scaleX(1.95);
+}
+
+.transform-scale-x-200,
+.scale-x-200 {
+  transform: scaleX(2);
+}
+
+.transform-scale-x-initial,
+.scale-x-initial {
+  transform: scaleX(initial);
+}
+
+.transform-scale-x-inherit,
+.scale-x-inherit {
+  transform: scaleX(inherit);
+}
+
+.transform-scale-x-unset,
+.scale-x-unset {
+  transform: scaleX(unset);
+}
+
+.transform-scale-y-0,
+.scale-y-0 {
+  transform: scaleY(0);
+}
+
+.transform-scale-y-5,
+.scale-y-5 {
+  transform: scaleY(0.05);
+}
+
+.transform-scale-y-1,
+.scale-y-1 {
+  transform: scaleY(0.1);
+}
+
+.transform-scale-y-15,
+.scale-y-15 {
+  transform: scaleY(0.15);
+}
+
+.transform-scale-y-20,
+.scale-y-20 {
+  transform: scaleY(0.2);
+}
+
+.transform-scale-y-25,
+.scale-y-25 {
+  transform: scaleY(0.25);
+}
+
+.transform-scale-y-30,
+.scale-y-30 {
+  transform: scaleY(0.3);
+}
+
+.transform-scale-y-35,
+.scale-y-35 {
+  transform: scaleY(0.35);
+}
+
+.transform-scale-y-40,
+.scale-y-40 {
+  transform: scaleY(0.4);
+}
+
+.transform-scale-y-45,
+.scale-y-45 {
+  transform: scaleY(0.45);
+}
+
+.transform-scale-y-50,
+.scale-y-50 {
+  transform: scaleY(0.5);
+}
+
+.transform-scale-y-55,
+.scale-y-55 {
+  transform: scaleY(0.55);
+}
+
+.transform-scale-y-60,
+.scale-y-60 {
+  transform: scaleY(0.6);
+}
+
+.transform-scale-y-65,
+.scale-y-65 {
+  transform: scaleY(0.65);
+}
+
+.transform-scale-y-70,
+.scale-y-70 {
+  transform: scaleY(0.7);
+}
+
+.transform-scale-y-75,
+.scale-y-75 {
+  transform: scaleY(0.75);
+}
+
+.transform-scale-y-80,
+.scale-y-80 {
+  transform: scaleY(0.8);
+}
+
+.transform-scale-y-85,
+.scale-y-85 {
+  transform: scaleY(0.85);
+}
+
+.transform-scale-y-90,
+.scale-y-90 {
+  transform: scaleY(0.9);
+}
+
+.transform-scale-y-95,
+.scale-y-95 {
+  transform: scaleY(0.95);
+}
+
+.transform-scale-y-100,
+.scale-y-100 {
+  transform: scaleY(1);
+}
+
+.transform-scale-y-105,
+.scale-y-105 {
+  transform: scaleY(1.05);
+}
+
+.transform-scale-y-110,
+.scale-y-110 {
+  transform: scaleY(1.1);
+}
+
+.transform-scale-y-115,
+.scale-y-115 {
+  transform: scaleY(1.15);
+}
+
+.transform-scale-y-120,
+.scale-y-120 {
+  transform: scaleY(1.2);
+}
+
+.transform-scale-y-125,
+.scale-y-125 {
+  transform: scaleY(1.25);
+}
+
+.transform-scale-y-130,
+.scale-y-130 {
+  transform: scaleY(1.3);
+}
+
+.transform-scale-y-135,
+.scale-y-135 {
+  transform: scaleY(1.35);
+}
+
+.transform-scale-y-140,
+.scale-y-140 {
+  transform: scaleY(1.4);
+}
+
+.transform-scale-y-145,
+.scale-y-145 {
+  transform: scaleY(1.45);
+}
+
+.transform-scale-y-150,
+.scale-y-150 {
+  transform: scaleY(1.5);
+}
+
+.transform-scale-y-155,
+.scale-y-155 {
+  transform: scaleY(1.55);
+}
+
+.transform-scale-y-160,
+.scale-y-160 {
+  transform: scaleY(1.6);
+}
+
+.transform-scale-y-165,
+.scale-y-165 {
+  transform: scaleY(1.65);
+}
+
+.transform-scale-y-170,
+.scale-y-170 {
+  transform: scaleY(1.7);
+}
+
+.transform-scale-y-175,
+.scale-y-175 {
+  transform: scaleY(1.75);
+}
+
+.transform-scale-y-180,
+.scale-y-180 {
+  transform: scaleY(1.8);
+}
+
+.transform-scale-y-185,
+.scale-y-185 {
+  transform: scaleY(1.85);
+}
+
+.transform-scale-y-190,
+.scale-y-190 {
+  transform: scaleY(1.9);
+}
+
+.transform-scale-y-195,
+.scale-y-195 {
+  transform: scaleY(1.95);
+}
+
+.transform-scale-y-200,
+.scale-y-200 {
+  transform: scaleY(2);
+}
+
+.transform-scale-y-initial,
+.scale-y-initial {
+  transform: scaleY(initial);
+}
+
+.transform-scale-y-inherit,
+.scale-y-inherit {
+  transform: scaleY(inherit);
+}
+
+.transform-scale-y-unset,
+.scale-y-unset {
+  transform: scaleY(unset);
+}

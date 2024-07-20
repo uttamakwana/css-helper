@@ -1,0 +1,23 @@
+/* BORDER COLLAPSE | css/tables/border-collapse/border-collapse.css */
+
+.border-collapse-collapse,
+.border-collapse {
+  border-collapse: collapse;
+}
+
+.border-collapse-separate,
+.border-separate {
+  border-collapse: separate;
+}
+
+.border-collapse-initial {
+  border-collapse: initial;
+}
+
+.border-collapse-inherit {
+  border-collapse: inherit;
+}
+
+.border-collapse-unset {
+  border-collapse: unset;
+}

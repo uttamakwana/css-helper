@@ -27,59 +27,59 @@
   border-color: currentColor;
 }
 
-.border-color-secondary-50,
-.bc-secondary-50 {
-  border-color: var(--clr-secondary-50);
+.border-color-white-50,
+.bc-white-50 {
+  border-color: var(--clr-white-50);
 }
 
-.border-color-secondary-100,
-.bc-secondary-100 {
-  border-color: var(--clr-secondary-100);
+.border-color-white-100,
+.bc-white-100 {
+  border-color: var(--clr-white-100);
 }
 
-.border-color-secondary-200,
-.bc-secondary-200 {
-  border-color: var(--clr-secondary-200);
+.border-color-white-200,
+.bc-white-200 {
+  border-color: var(--clr-white-200);
 }
 
-.border-color-secondary-300,
-.bc-secondary-300 {
-  border-color: var(--clr-secondary-300);
+.border-color-white-300,
+.bc-white-300 {
+  border-color: var(--clr-white-300);
 }
 
-.border-color-secondary-400,
-.bc-secondary-400 {
-  border-color: var(--clr-secondary-400);
+.border-color-white-400,
+.bc-white-400 {
+  border-color: var(--clr-white-400);
 }
 
-.border-color-secondary-500,
-.bc-secondary-500 {
-  border-color: var(--clr-secondary-500);
+.border-color-white-500,
+.bc-white-500 {
+  border-color: var(--clr-white-500);
 }
 
-.border-color-secondary-600,
-.bc-secondary-600 {
-  border-color: var(--clr-secondary-600);
+.border-color-white-600,
+.bc-white-600 {
+  border-color: var(--clr-white-600);
 }
 
-.border-color-secondary-700,
-.bc-secondary-700 {
-  border-color: var(--clr-secondary-700);
+.border-color-white-700,
+.bc-white-700 {
+  border-color: var(--clr-white-700);
 }
 
-.border-color-secondary-800,
-.bc-secondary-800 {
-  border-color: var(--clr-secondary-800);
+.border-color-white-800,
+.bc-white-800 {
+  border-color: var(--clr-white-800);
 }
 
-.border-color-secondary-900,
-.bc-secondary-900 {
-  border-color: var(--clr-secondary-900);
+.border-color-white-900,
+.bc-white-900 {
+  border-color: var(--clr-white-900);
 }
 
-.border-color-secondary-950,
-.bc-secondary-950 {
-  border-color: var(--clr-secondary-950);
+.border-color-white-950,
+.bc-white-950 {
+  border-color: var(--clr-white-950);
 }
 
 .border-color-black-50,

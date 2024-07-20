@@ -1,0 +1,21 @@
+/* GRAYSCALE | css/filters/grayscale/grayscale.css */
+
+.grayscale-0,
+.filter-grayscale-0 {
+  filter: grayscale(0);
+}
+
+.grayscale-initial,
+.filter-grayscale-initial {
+  filter: grayscale(initial);
+}
+
+.grayscale-inherit,
+.filter-grayscale-inherit {
+  filter: grayscale(inherit);
+}
+
+.grayscale-unset,
+.filter-grayscale-unset {
+  filter: grayscale(unset);
+}

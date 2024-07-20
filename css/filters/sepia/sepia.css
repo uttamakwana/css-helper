@@ -1,0 +1,26 @@
+/* SEPIA | css/filters/sepia/sepia.css */
+
+.sepia-0,
+.filter-sepia-0 {
+  filter: sepia(0);
+}
+
+.sepia-1,
+.filter-sepia-1 {
+  filter: sepia(1);
+}
+
+.sepia-initial,
+.filter-sepia-initial {
+  filter: sepia(initial);
+}
+
+.sepia-inherit,
+.filter-sepia-inherit {
+  filter: sepia(inherit);
+}
+
+.sepia-unset,
+.filter-sepia-unset {
+  filter: sepia(unset);
+}

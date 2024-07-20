@@ -1,0 +1,21 @@
+/* SCROLL SNAP STOP | css/interactivity/scroll-snap-stop/scroll-snap-stop.css */
+
+.scroll-snap-stop-always,
+.sss-always {
+  scroll-snap-stop: always;
+}
+
+.scroll-snap-stop-normal,
+.sss-normal {
+  scroll-snap-stop: normal;
+}
+
+.scroll-snap-stop-inherit,
+.sss-inherit {
+  scroll-snap-stop: inherit;
+}
+
+.scroll-snap-stop-unset,
+.sss-unset {
+  scroll-snap-stop: unset;
+}

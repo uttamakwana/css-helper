@@ -1,0 +1,26 @@
+/* BACKDROP SEPIA | css/filters/backdrop-sepia/backdrop-sepia.css */
+
+.backdrop-sepia-0,
+.filter-backdrop-sepia-0 {
+  backdrop-filter: sepia(0);
+}
+
+.backdrop-sepia-1,
+.filter-backdrop-sepia-1 {
+  backdrop-filter: sepia(1);
+}
+
+.backdrop-sepia-initial,
+.filter-backdrop-sepia-initial {
+  backdrop-filter: sepia(initial);
+}
+
+.backdrop-sepia-inherit,
+.filter-backdrop-sepia-inherit {
+  backdrop-filter: sepia(inherit);
+}
+
+.backdrop-sepia-unset,
+.filter-backdrop-sepia-unset {
+  backdrop-filter: sepia(unset);
+}

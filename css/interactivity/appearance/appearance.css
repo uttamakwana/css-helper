@@ -1,0 +1,21 @@
+/* APPEARANCE | css/interactivity/appearance/appearance.css */
+
+.appearance-auto {
+  appearance: auto;
+}
+
+.appearance-none {
+  appearance: none;
+}
+
+.appearance-initial {
+  appearance: initial;
+}
+
+.appearance-inherit {
+  appearance: inherit;
+}
+
+.appearance-unset {
+  appearance: unset;
+}
